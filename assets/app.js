@@ -77,7 +77,8 @@
       <p class="src">${esc(it.address || "")}
         <a href="${esc(it.detail_url)}" target="_blank" rel="noopener">온비드 상세</a>${
         it.market_url ? ` <a href="${esc(it.market_url)}" target="_blank" rel="noopener">시세 검색</a>` : ""}
-        <a class="costlink">비용내역</a></p>${costBox}</li>`;
+        <a class="costlink">비용내역</a>
+        <a class="rightslink" data-cltr="${esc(it.cltr_no)}">권리분석</a></p>${costBox}</li>`;
   }
 
   function renderListings() {
@@ -223,6 +224,38 @@
     if (!l) return;
     const box = l.closest("li") && l.closest("li").querySelector(".costbox");
     if (box) box.classList.toggle("open");
+  });
+
+  /* ---------------- 권리분석 패키지 (로컬 헬퍼 호출) ---------------- */
+  // 포트는 config.yaml의 rights.server_port 기본값(8917)과 일치해야 한다.
+  const RIGHTS_HELPER = "http://127.0.0.1:8917";
+
+  document.addEventListener("click", async (e) => {
+    const l = e.target.closest(".rightslink");
+    if (!l) return;
+    const cltr = l.dataset.cltr;
+    const orig = l.textContent;
+    l.textContent = "생성 중...";
+    try {
+      const res = await fetch(`${RIGHTS_HELPER}/rights?cltr=${encodeURIComponent(cltr)}`);
+      const body = await res.json();
+      if (body.ok) {
+        l.textContent = "패키지 생성됨 - 탐색기 확인";
+        setTimeout(() => { l.textContent = orig; }, 6000);
+        return;
+      }
+      l.textContent = orig;
+      alert(`패키지 생성 실패: ${body.error || "알 수 없는 오류"}`);
+    } catch (err) {
+      l.textContent = orig;
+      const cmd = `python -m realestate.rights_pack ${cltr}`;
+      try { await navigator.clipboard.writeText(cmd); } catch (e2) { /* 무시 */ }
+      alert(
+        "로컬 헬퍼에 연결할 수 없습니다.\n\n" +
+        "PC에서 헬퍼를 실행한 뒤 다시 클릭하세요:\n" +
+        "  python -m realestate.rights_server\n\n" +
+        `또는 1회 생성 명령(클립보드에 복사됨):\n  ${cmd}`);
+    }
   });
 
   /* ---------------- dispatch ---------------- */
