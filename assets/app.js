@@ -47,6 +47,8 @@
     const tags = [];
     if (it.category) tags.push(`<span class="tag blue">${esc(it.category)}</span>`);
     if (it.match_quality === "approx") tags.push(`<span class="tag warn">⚠시세 approx(동 단위)</span>`);
+    if (it.deep_discount)
+      tags.push(`<span class="tag warn">⚠극단저감(최저가&lt;감정가 30%) — 권리분석 필수</span>`);
     if ((it.fail_count || 0) >= 1)
       tags.push(`<span class="tag${it.fail_count >= 2 ? " warn" : ""}">유찰 ${it.fail_count}회</span>`);
     const title = it.low_sample

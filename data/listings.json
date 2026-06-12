@@ -25,6 +25,7 @@
    },
    "cost_total": 4523650,
    "total_cost": 6673650,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-08711-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EA%B8%B0%ED%9D%A5%EA%B5%AC%20%EC%A4%91%EB%8F%99"
@@ -54,6 +55,7 @@
    },
    "cost_total": 4540260,
    "total_cost": 8200260,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-03708-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EC%84%B8%EA%B5%90%EB%8F%99"
@@ -83,6 +85,7 @@
    },
    "cost_total": 4524255,
    "total_cost": 6729255,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-07011-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EC%88%98%EC%9C%A0%EB%8F%99"
@@ -112,6 +115,7 @@
    },
    "cost_total": 4721100,
    "total_cost": 24821100,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2022-00639-004",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%97%AD%EC%82%BC%EB%8F%99"
@@ -141,6 +145,7 @@
    },
    "cost_total": 4513200,
    "total_cost": 5713200,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-03640-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%94%EA%B3%A1%EB%8F%99"
@@ -170,6 +175,7 @@
    },
    "cost_total": 4643000,
    "total_cost": 17643000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-13886-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -199,6 +205,7 @@
    },
    "cost_total": 4515840,
    "total_cost": 5955840,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-12618-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EB%B9%84%EC%A0%84%EB%8F%99"
@@ -228,6 +235,7 @@
    },
    "cost_total": 4554780,
    "total_cost": 9534780,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-12776-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EA%B5%AC%EC%82%B0%EB%8F%99"
@@ -257,6 +265,7 @@
    },
    "cost_total": 4593280,
    "total_cost": 13073280,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-18146-006",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EB%8C%80%EC%A1%B0%EB%8F%99"
@@ -286,6 +295,7 @@
    },
    "cost_total": 4632000,
    "total_cost": 16632000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-11977-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EC%9A%A9%EC%9D%B4%EB%8F%99"
@@ -315,6 +325,7 @@
    },
    "cost_total": 4511550,
    "total_cost": 5561550,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-05938-007",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EB%8F%84%ED%99%94%EB%8F%99"
@@ -344,6 +355,7 @@
    },
    "cost_total": 4673800,
    "total_cost": 20473800,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-17200-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EC%86%A1%EC%A0%95%EB%8F%99"
@@ -373,6 +385,7 @@
    },
    "cost_total": 4756300,
    "total_cost": 28056300,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03426-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%99%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EB%8B%B5%EC%8B%AD%EB%A6%AC%EB%8F%99"
@@ -402,6 +415,7 @@
    },
    "cost_total": 11892000,
    "total_cost": 683892000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-17494-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EB%8F%84%EA%B3%A1%EB%8F%99"
@@ -431,6 +445,7 @@
    },
    "cost_total": 6102700,
    "total_cost": 151802700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-08999-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%EC%9D%B4%EB%A7%A4%EB%8F%99"
@@ -460,6 +475,7 @@
    },
    "cost_total": 4633100,
    "total_cost": 16733100,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-11810-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%8B%9C%ED%9D%A5%EC%8B%9C%20%EC%8B%A0%EC%B2%9C%EB%8F%99"
@@ -489,6 +505,7 @@
    },
    "cost_total": 5487800,
    "total_cost": 95287800,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-05062-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EC%84%B1%EB%82%B4%EB%8F%99"
@@ -518,6 +535,7 @@
    },
    "cost_total": 4595700,
    "total_cost": 13295700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-01247-016",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EB%A7%8C%EC%88%98%EB%8F%99"
@@ -547,6 +565,7 @@
    },
    "cost_total": 4639700,
    "total_cost": 17339700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-09328-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%AA%A9%ED%98%84%EB%8F%99"
@@ -576,6 +595,7 @@
    },
    "cost_total": 5683600,
    "total_cost": 113283600,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00947-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EA%B5%90%EB%AC%B8%EB%8F%99"
@@ -605,6 +625,7 @@
    },
    "cost_total": 4637500,
    "total_cost": 17137500,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-10052-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9D%B4%EC%B2%9C%EC%8B%9C%20%EC%A6%9D%ED%8F%AC%EB%8F%99"
@@ -634,6 +655,7 @@
    },
    "cost_total": 4863000,
    "total_cost": 37863000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-09030-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EC%88%98%EC%9C%A0%EB%8F%99"
@@ -663,6 +685,7 @@
    },
    "cost_total": 4912500,
    "total_cost": 42412500,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-15697-005",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B9%80%ED%8F%AC%EC%8B%9C%20%ED%92%8D%EB%AC%B4%EB%8F%99"
@@ -692,6 +715,7 @@
    },
    "cost_total": 4586900,
    "total_cost": 12486900,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-09095-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B6%80%ED%8F%89%EA%B5%AC%20%EC%8B%AD%EC%A0%95%EB%8F%99"
@@ -721,6 +745,7 @@
    },
    "cost_total": 4678200,
    "total_cost": 20878200,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-16461-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%94%EA%B3%A1%EB%8F%99"
@@ -750,6 +775,7 @@
    },
    "cost_total": 5275500,
    "total_cost": 75775500,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-05832-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EC%97%AD%EB%8F%99"
@@ -779,6 +805,7 @@
    },
    "cost_total": 5105000,
    "total_cost": 60105000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-01438-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EC%9D%91%EC%95%94%EB%8F%99"
@@ -808,6 +835,7 @@
    },
    "cost_total": 4780500,
    "total_cost": 30280500,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-18146-007",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EC%9D%91%EC%95%94%EB%8F%99"
@@ -837,6 +865,7 @@
    },
    "cost_total": 5055500,
    "total_cost": 55555500,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-17710-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EC%9D%BC%EC%82%B0%EC%84%9C%EA%B5%AC%20%ED%83%84%ED%98%84%EB%8F%99"
@@ -866,6 +895,7 @@
    },
    "cost_total": 4716700,
    "total_cost": 24416700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-09657-012",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EA%B8%B0%ED%9D%A5%EA%B5%AC%20%EA%B3%A0%EB%A7%A4%EB%8F%99"
@@ -895,6 +925,7 @@
    },
    "cost_total": 4940000,
    "total_cost": 44940000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-05259-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%99%EC%9E%91%EA%B5%AC%20%EC%83%81%EB%8F%84%EB%8F%99"
@@ -924,6 +955,7 @@
    },
    "cost_total": 5089600,
    "total_cost": 58689600,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03342-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EA%B8%B0%ED%9D%A5%EA%B5%AC%20%EB%8F%99%EB%B0%B1%EB%8F%99"
@@ -953,6 +985,7 @@
    },
    "cost_total": 5088500,
    "total_cost": 58588500,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04391-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%8B%9C%ED%9D%A5%EC%8B%9C%20%EC%A1%B0%EB%82%A8%EB%8F%99"
@@ -982,6 +1015,7 @@
    },
    "cost_total": 4872900,
    "total_cost": 38772900,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00726-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%96%91%EC%A3%BC%EC%8B%9C%20%EB%8D%95%EA%B3%84%EB%8F%99"
@@ -1011,6 +1045,7 @@
    },
    "cost_total": 7165300,
    "total_cost": 249465300,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-01555-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EB%AA%85%EC%9D%BC%EB%8F%99"
@@ -1040,6 +1075,7 @@
    },
    "cost_total": 4930100,
    "total_cost": 44030100,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04051-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%EC%9B%90%EA%B3%A1%EB%8F%99"
@@ -1069,6 +1105,7 @@
    },
    "cost_total": 4644100,
    "total_cost": 17744100,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-07760-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EC%83%81%EB%A1%9D%EA%B5%AC%20%EB%B6%80%EA%B3%A1%EB%8F%99"
@@ -1098,6 +1135,7 @@
    },
    "cost_total": 4709000,
    "total_cost": 23709000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-03388-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%94%EA%B3%A1%EB%8F%99"
@@ -1127,6 +1165,7 @@
    },
    "cost_total": 4794800,
    "total_cost": 31594800,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-01283-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%98%A4%EC%82%B0%EC%8B%9C%20%EC%9B%90%EB%8F%99"
@@ -1156,6 +1195,7 @@
    },
    "cost_total": 4925700,
    "total_cost": 43625700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00298-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%B2%98%EC%9D%B8%EA%B5%AC%20%EC%96%91%EC%A7%80%EC%9D%8D"
@@ -1185,6 +1225,7 @@
    },
    "cost_total": 5043400,
    "total_cost": 54443400,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-08538-002",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EC%86%A1%ED%8C%8C%EB%8F%99"
@@ -1214,6 +1255,7 @@
    },
    "cost_total": 4888300,
    "total_cost": 40188300,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-14579-002",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%8C%94%EB%8B%AC%EA%B5%AC%20%EC%9A%B0%EB%A7%8C%EB%8F%99"
@@ -1243,6 +1285,7 @@
    },
    "cost_total": 4585800,
    "total_cost": 12385800,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-08104-004",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EC%84%9D%EB%82%A8%EB%8F%99"
@@ -1272,6 +1315,7 @@
    },
    "cost_total": 4696900,
    "total_cost": 22596900,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-06995-002",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9E%A5%EC%95%88%EA%B5%AC%20%EC%A1%B0%EC%9B%90%EB%8F%99"
@@ -1301,6 +1345,7 @@
    },
    "cost_total": 4801400,
    "total_cost": 32201400,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03764-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EC%8B%A0%ED%98%84%EB%8F%99"
@@ -1330,6 +1375,7 @@
    },
    "cost_total": 4573700,
    "total_cost": 11273700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03452-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EA%B5%AC%EC%9B%94%EB%8F%99"
@@ -1359,6 +1405,7 @@
    },
    "cost_total": 6689000,
    "total_cost": 205689000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-05650-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%EB%B6%84%EB%8B%B9%EB%8F%99"
@@ -1388,6 +1435,7 @@
    },
    "cost_total": 4749700,
    "total_cost": 27449700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04027-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EC%B0%BD%EB%8F%99"
@@ -1417,6 +1465,7 @@
    },
    "cost_total": 4814600,
    "total_cost": 33414600,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-05533-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B8%88%EC%B2%9C%EA%B5%AC%20%EB%8F%85%EC%82%B0%EB%8F%99"
@@ -1446,6 +1495,7 @@
    },
    "cost_total": 4876200,
    "total_cost": 39076200,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-13239-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B8%88%EC%B2%9C%EA%B5%AC%20%EC%8B%9C%ED%9D%A5%EB%8F%99"
@@ -1475,6 +1525,7 @@
    },
    "cost_total": 5842000,
    "total_cost": 127842000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03364-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EC%B2%9C%ED%98%B8%EB%8F%99"
@@ -1504,6 +1555,7 @@
    },
    "cost_total": 4670500,
    "total_cost": 20170500,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-06807-004",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%98%A4%EC%82%B0%EC%8B%9C%20%EA%B0%88%EA%B3%B6%EB%8F%99"
@@ -1533,6 +1585,7 @@
    },
    "cost_total": 5058800,
    "total_cost": 55858800,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-07794-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%A4%91%EC%82%B0%EB%8F%99"
@@ -1562,6 +1615,7 @@
    },
    "cost_total": 4676000,
    "total_cost": 20676000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-16415-010",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%98%A4%EC%82%B0%EC%8B%9C%20%EA%B0%88%EA%B3%B6%EB%8F%99"
@@ -1591,6 +1645,7 @@
    },
    "cost_total": 5123700,
    "total_cost": 61823700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-07224-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EB%AA%85%EC%8B%9C%20%EA%B4%91%EB%AA%85%EB%8F%99"
@@ -1620,6 +1675,7 @@
    },
    "cost_total": 4754100,
    "total_cost": 27854100,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-16880-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%8B%9C%ED%9D%A5%EC%8B%9C%20%ED%95%98%EC%83%81%EB%8F%99"
@@ -1649,6 +1705,7 @@
    },
    "cost_total": 4595700,
    "total_cost": 13295700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-17082-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EC%97%B0%ED%9D%AC%EB%8F%99"
@@ -1678,6 +1735,7 @@
    },
    "cost_total": 4559400,
    "total_cost": 9959400,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04982-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EA%B5%AC%EC%9B%94%EB%8F%99"
@@ -1707,6 +1765,7 @@
    },
    "cost_total": 4623200,
    "total_cost": 15823200,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-11096-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%8C%94%EB%8B%AC%EA%B5%AC%20%ED%99%94%EC%84%9C%EB%8F%99"
@@ -1736,6 +1795,7 @@
    },
    "cost_total": 4944400,
    "total_cost": 45344400,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02010-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EB%85%B9%EB%B2%88%EB%8F%99"
@@ -1765,6 +1825,7 @@
    },
    "cost_total": 4713400,
    "total_cost": 24113400,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-13214-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%95%88%EC%96%91%EC%8B%9C%20%EB%A7%8C%EC%95%88%EA%B5%AC%20%EC%95%88%EC%96%91%EB%8F%99"
@@ -1794,6 +1855,7 @@
    },
    "cost_total": 4827800,
    "total_cost": 34627800,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-05346-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EC%88%98%EC%9C%A0%EB%8F%99"
@@ -1823,6 +1885,7 @@
    },
    "cost_total": 4607800,
    "total_cost": 14407800,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00157-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%EC%95%BC%EB%8F%99%EB%8F%99"
@@ -1852,6 +1915,7 @@
    },
    "cost_total": 4658400,
    "total_cost": 19058400,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-02065-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9D%98%EC%99%95%EC%8B%9C%20%EC%82%BC%EB%8F%99"
@@ -1881,6 +1945,7 @@
    },
    "cost_total": 4731000,
    "total_cost": 25731000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-05834-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%8A%A5%ED%8F%89%EB%8F%99"
@@ -1910,6 +1975,7 @@
    },
    "cost_total": 4666100,
    "total_cost": 19766100,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-09694-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%8B%9C%ED%9D%A5%EC%8B%9C%20%EC%8B%A0%EC%B2%9C%EB%8F%99"
@@ -1939,6 +2005,7 @@
    },
    "cost_total": 4659500,
    "total_cost": 19159500,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-12464-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EC%83%81%EB%A1%9D%EA%B5%AC%20%EC%82%AC%EB%8F%99"
@@ -1968,6 +2035,7 @@
    },
    "cost_total": 6161000,
    "total_cost": 157161000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-13629-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EA%B0%95%EC%9D%BC%EB%8F%99"
@@ -1997,6 +2065,7 @@
    },
    "cost_total": 4590200,
    "total_cost": 12790200,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03131-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%88%AD%EC%9D%98%EB%8F%99"
@@ -2026,6 +2095,7 @@
    },
    "cost_total": 5842000,
    "total_cost": 127842000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14457-008",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EA%B5%90%EB%AC%B8%EB%8F%99"
@@ -2055,6 +2125,7 @@
    },
    "cost_total": 4757400,
    "total_cost": 28157400,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2022-04907-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EC%A4%91%EB%8C%80%EB%8F%99"
@@ -2084,6 +2155,7 @@
    },
    "cost_total": 4566000,
    "total_cost": 10566000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-06428-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8F%AC%EC%B2%9C%EC%8B%9C%20%EC%84%A0%EB%8B%A8%EB%8F%99"
@@ -2113,6 +2185,7 @@
    },
    "cost_total": 5875000,
    "total_cost": 130875000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14457-007",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EA%B5%90%EB%AC%B8%EB%8F%99"
@@ -2142,6 +2215,7 @@
    },
    "cost_total": 4782700,
    "total_cost": 30482700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-01988-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EB%B2%88%EB%8F%99"
@@ -2171,6 +2245,7 @@
    },
    "cost_total": 5611000,
    "total_cost": 106611000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14457-004",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EA%B5%90%EB%AC%B8%EB%8F%99"
@@ -2200,6 +2275,7 @@
    },
    "cost_total": 4606700,
    "total_cost": 14306700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-17590-003",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%ED%95%99%EC%9D%B5%EB%8F%99"
@@ -2229,6 +2305,7 @@
    },
    "cost_total": 4721100,
    "total_cost": 24821100,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-08516-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EA%B8%88%EA%B3%A1%EB%8F%99"
@@ -2258,6 +2335,7 @@
    },
    "cost_total": 4573700,
    "total_cost": 11273700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-13374-003",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EA%B0%80%EC%A2%8C%EB%8F%99"
@@ -2287,6 +2365,7 @@
    },
    "cost_total": 5228200,
    "total_cost": 71428200,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-07564-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B4%91%EC%A7%84%EA%B5%AC%20%EC%A4%91%EA%B3%A1%EB%8F%99"
@@ -2316,6 +2395,7 @@
    },
    "cost_total": 5666000,
    "total_cost": 111666000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14457-005",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EA%B5%90%EB%AC%B8%EB%8F%99"
@@ -2345,6 +2425,7 @@
    },
    "cost_total": 4618800,
    "total_cost": 15418800,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-10083-003",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EC%97%B0%ED%9D%AC%EB%8F%99"
@@ -2374,6 +2455,7 @@
    },
    "cost_total": 4637500,
    "total_cost": 17137500,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-05071-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B6%80%ED%8F%89%EA%B5%AC%20%EA%B0%88%EC%82%B0%EB%8F%99"
@@ -2403,6 +2485,7 @@
    },
    "cost_total": 4593500,
    "total_cost": 13093500,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-15121-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -2432,6 +2515,7 @@
    },
    "cost_total": 4596800,
    "total_cost": 13396800,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-01983-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -2461,6 +2545,7 @@
    },
    "cost_total": 5482300,
    "total_cost": 94782300,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14457-006",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EA%B5%90%EB%AC%B8%EB%8F%99"
@@ -2490,6 +2575,7 @@
    },
    "cost_total": 5484500,
    "total_cost": 94984500,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14457-002",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EA%B5%90%EB%AC%B8%EB%8F%99"
@@ -2519,6 +2605,7 @@
    },
    "cost_total": 4645200,
    "total_cost": 17845200,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14538-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EA%B2%BD%EC%84%9C%EB%8F%99"
@@ -2548,6 +2635,7 @@
    },
    "cost_total": 4861900,
    "total_cost": 37761900,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-04728-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EB%B6%81%EA%B0%80%EC%A2%8C%EB%8F%99"
@@ -2577,6 +2665,7 @@
    },
    "cost_total": 5063200,
    "total_cost": 56263200,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-15324-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EA%B0%84%EC%84%9D%EB%8F%99"
@@ -2606,6 +2695,7 @@
    },
    "cost_total": 4559400,
    "total_cost": 9959400,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-13085-002",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EA%B0%80%EC%A2%8C%EB%8F%99"
@@ -2635,6 +2725,7 @@
    },
    "cost_total": 4581400,
    "total_cost": 11981400,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-10013-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EB%A7%8C%EC%88%98%EB%8F%99"
@@ -2664,6 +2755,7 @@
    },
    "cost_total": 4692830,
    "total_cost": 22222830,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-15353-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EC%83%81%EB%A1%9D%EA%B5%AC%20%ED%8C%94%EA%B3%A1%EC%9D%B4%EB%8F%99"
@@ -2693,6 +2785,7 @@
    },
    "cost_total": 4605600,
    "total_cost": 14205600,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-06217-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EB%8F%84%ED%99%94%EB%8F%99"
@@ -2722,6 +2815,7 @@
    },
    "cost_total": 5085200,
    "total_cost": 58285200,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-11747-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EB%AA%85%EC%8B%9C%20%EC%86%8C%ED%95%98%EB%8F%99"
@@ -2751,6 +2845,7 @@
    },
    "cost_total": 4578100,
    "total_cost": 11678100,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-06059-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -2780,6 +2875,7 @@
    },
    "cost_total": 5820000,
    "total_cost": 125820000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02119-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%85%B8%EC%9B%90%EA%B5%AC%20%EA%B3%B5%EB%A6%89%EB%8F%99"
@@ -2809,6 +2905,7 @@
    },
    "cost_total": 4583600,
    "total_cost": 12183600,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-12341-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EB%8F%84%ED%99%94%EB%8F%99"
@@ -2838,6 +2935,7 @@
    },
    "cost_total": 4536740,
    "total_cost": 7876740,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04483-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%8F%99%EB%91%90%EC%B2%9C%EC%8B%9C%20%ED%95%98%EB%B4%89%EC%95%94%EB%8F%99"
@@ -2867,6 +2965,7 @@
    },
    "cost_total": 4573700,
    "total_cost": 11273700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-12203-038",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -2896,6 +2995,7 @@
    },
    "cost_total": 5270000,
    "total_cost": 75270000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-028523",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EA%B0%84%EC%84%9D%EB%8F%99"
@@ -2925,6 +3025,7 @@
    },
    "cost_total": 5666000,
    "total_cost": 111666000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14457-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EA%B5%90%EB%AC%B8%EB%8F%99"
@@ -2954,6 +3055,7 @@
    },
    "cost_total": 6519600,
    "total_cost": 190119600,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00321-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B4%80%EC%95%85%EA%B5%AC%20%EB%82%A8%ED%98%84%EB%8F%99"
@@ -2983,6 +3085,7 @@
    },
    "cost_total": 4592400,
    "total_cost": 12992400,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-12203-059",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EC%8B%AC%EA%B3%A1%EB%8F%99"
@@ -3012,6 +3115,7 @@
    },
    "cost_total": 5096200,
    "total_cost": 59296200,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-08735-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EA%B0%80%EB%9D%BD%EB%8F%99"
@@ -3041,6 +3145,7 @@
    },
    "cost_total": 5096200,
    "total_cost": 59296200,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-08735-002",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EA%B0%80%EB%9D%BD%EB%8F%99"
@@ -3070,6 +3175,7 @@
    },
    "cost_total": 5096200,
    "total_cost": 59296200,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-08735-003",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EA%B0%80%EB%9D%BD%EB%8F%99"
@@ -3099,6 +3205,7 @@
    },
    "cost_total": 5096200,
    "total_cost": 59296200,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-08735-004",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EA%B0%80%EB%9D%BD%EB%8F%99"
@@ -3128,6 +3235,7 @@
    },
    "cost_total": 5991600,
    "total_cost": 141591600,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-05729-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%ED%83%9C%EC%A0%84%EB%8F%99"
@@ -3157,6 +3265,7 @@
    },
    "cost_total": 5743000,
    "total_cost": 118743000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14457-003",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EA%B5%90%EB%AC%B8%EB%8F%99"
@@ -3186,6 +3295,7 @@
    },
    "cost_total": 4705700,
    "total_cost": 23405700,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-18146-010",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EA%B3%A0%EC%96%91%EB%8F%99"
@@ -3215,6 +3325,7 @@
    },
    "cost_total": 6491000,
    "total_cost": 187491000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02175-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B5%AC%EB%A1%9C%EA%B5%AC%20%EC%98%A8%EC%88%98%EB%8F%99"
@@ -3244,6 +3355,7 @@
    },
    "cost_total": 5886000,
    "total_cost": 131886000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-08538-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EC%86%A1%ED%8C%8C%EB%8F%99"
@@ -3273,6 +3385,7 @@
    },
    "cost_total": 5618700,
    "total_cost": 107318700,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04276-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EC%B2%9C%ED%98%B8%EB%8F%99"
@@ -3302,6 +3415,7 @@
    },
    "cost_total": 7437000,
    "total_cost": 274437000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04454-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B4%91%EC%A7%84%EA%B5%AC%20%EC%9E%90%EC%96%91%EB%8F%99"
@@ -3331,6 +3445,7 @@
    },
    "cost_total": 7030000,
    "total_cost": 237030000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03138-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EA%B8%B0%ED%9D%A5%EA%B5%AC%20%EC%84%9C%EC%B2%9C%EB%8F%99"
@@ -3360,6 +3475,7 @@
    },
    "cost_total": 4861900,
    "total_cost": 37761900,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-03979-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B3%84%EC%96%91%EA%B5%AC%20%EC%9E%84%ED%95%99%EB%8F%99"
@@ -3389,6 +3505,7 @@
    },
    "cost_total": 5930000,
    "total_cost": 135930000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-00549-004",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EC%97%B0%ED%9D%AC%EB%8F%99"
@@ -3418,6 +3535,7 @@
    },
    "cost_total": 6563600,
    "total_cost": 194163600,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-18103-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9E%A5%EC%95%88%EA%B5%AC%20%EC%A0%95%EC%9E%90%EB%8F%99"
@@ -3447,6 +3565,7 @@
    },
    "cost_total": 6124700,
    "total_cost": 153824700,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04457-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EB%B6%88%EA%B4%91%EB%8F%99"
@@ -3476,6 +3595,7 @@
    },
    "cost_total": 5589000,
    "total_cost": 104589000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04261-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B8%88%EC%B2%9C%EA%B5%AC%20%EC%8B%9C%ED%9D%A5%EB%8F%99"
@@ -3505,6 +3625,7 @@
    },
    "cost_total": 5820000,
    "total_cost": 125820000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-025134",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EC%88%98%EC%9C%A0%EB%8F%99"
@@ -3534,6 +3655,7 @@
    },
    "cost_total": 4941012,
    "total_cost": 45033012,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0300-001213",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EC%83%81%EB%A1%9D%EA%B5%AC%20%EB%B6%80%EA%B3%A1%EB%8F%99"
@@ -3563,6 +3685,7 @@
    },
    "cost_total": 4863000,
    "total_cost": 37863000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-11809-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%8B%9C%ED%9D%A5%EC%8B%9C%20%EA%B1%B0%EB%AA%A8%EB%8F%99"
@@ -3592,6 +3715,7 @@
    },
    "cost_total": 9472000,
    "total_cost": 461472000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-12213-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EC%A7%84%EA%B4%80%EB%8F%99"
@@ -3621,6 +3745,7 @@
    },
    "cost_total": 5974000,
    "total_cost": 139974000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-07814-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%86%A0%EB%8B%B9%EB%8F%99"
@@ -3650,6 +3775,7 @@
    },
    "cost_total": 7448000,
    "total_cost": 275448000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-07166-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%95%88%EC%96%91%EC%8B%9C%20%EB%A7%8C%EC%95%88%EA%B5%AC%20%EC%84%9D%EC%88%98%EB%8F%99"
@@ -3679,6 +3805,7 @@
    },
    "cost_total": 6034500,
    "total_cost": 145534500,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-05189-008",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EB%9E%91%EA%B5%AC%20%EB%A7%9D%EC%9A%B0%EB%8F%99"
@@ -3708,6 +3835,7 @@
    },
    "cost_total": 7756000,
    "total_cost": 303756000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04379-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B9%80%ED%8F%AC%EC%8B%9C%20%ED%92%8D%EB%AC%B4%EB%8F%99"
@@ -3737,6 +3865,7 @@
    },
    "cost_total": 5195761,
    "total_cost": 68446761,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0300-001214",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EC%83%81%EB%A1%9D%EA%B5%AC%20%EB%B3%B8%EC%98%A4%EB%8F%99"
@@ -3766,6 +3895,7 @@
    },
    "cost_total": 9087000,
    "total_cost": 426087000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14738-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%EC%86%A1%EB%8F%84%EB%8F%99"
@@ -3795,6 +3925,7 @@
    },
    "cost_total": 7474400,
    "total_cost": 277874400,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-15887-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%B1%EB%B6%81%EA%B5%AC%20%EC%9E%A5%EC%9C%84%EB%8F%99"
@@ -3824,6 +3955,7 @@
    },
    "cost_total": 5932200,
    "total_cost": 136132200,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02835-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B8%88%EC%B2%9C%EA%B5%AC%20%EB%8F%85%EC%82%B0%EB%8F%99"
@@ -3853,6 +3985,7 @@
    },
    "cost_total": 12310000,
    "total_cost": 722310000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-01285-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%97%AD%EC%82%BC%EB%8F%99"
@@ -3882,6 +4015,7 @@
    },
    "cost_total": 7536000,
    "total_cost": 283536000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-07577-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EC%9D%B8%EC%B0%BD%EB%8F%99"
@@ -3911,6 +4045,7 @@
    },
    "cost_total": 6579000,
    "total_cost": 195579000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04227-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EC%B2%9C%ED%98%B8%EB%8F%99"
@@ -3940,6 +4075,7 @@
    },
    "cost_total": 5495500,
    "total_cost": 95995500,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-05831-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EA%B2%BD%EC%95%88%EB%8F%99"
@@ -3969,6 +4105,7 @@
    },
    "cost_total": 5160000,
    "total_cost": 65160000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-10596-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%B2%98%EC%9D%B8%EA%B5%AC%20%EC%9C%A0%EB%B0%A9%EB%8F%99"
@@ -3998,6 +4135,7 @@
    },
    "cost_total": 6870500,
    "total_cost": 222370500,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0700-046231",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -4027,6 +4165,7 @@
    },
    "cost_total": 6870500,
    "total_cost": 222370500,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0700-046232",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -4056,6 +4195,7 @@
    },
    "cost_total": 6870500,
    "total_cost": 222370500,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-1100-081465",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -4085,6 +4225,7 @@
    },
    "cost_total": 6917800,
    "total_cost": 226717800,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0700-046233",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -4114,6 +4255,7 @@
    },
    "cost_total": 5897000,
    "total_cost": 132897000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00536-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EC%B2%AD%EB%B6%81%EC%9D%8D"
@@ -4143,6 +4285,7 @@
    },
    "cost_total": 8192700,
    "total_cost": 343892700,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04349-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EC%88%98%ED%83%9D%EB%8F%99"
@@ -4172,6 +4315,7 @@
    },
    "cost_total": 8545140,
    "total_cost": 376285140,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00001-005",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EB%8F%84%EB%B4%89%EB%8F%99"
@@ -4201,6 +4345,7 @@
    },
    "cost_total": 7228000,
    "total_cost": 255228000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0500-029744",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%99%EC%9E%91%EA%B5%AC%20%EC%83%81%EB%8F%841%EB%8F%99"
@@ -4230,6 +4375,7 @@
    },
    "cost_total": 8388500,
    "total_cost": 361888500,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02790-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EA%B0%84%EC%84%9D%EB%8F%99"
@@ -4259,6 +4405,7 @@
    },
    "cost_total": 7074000,
    "total_cost": 241074000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0300-019426",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -4288,6 +4435,7 @@
    },
    "cost_total": 7140000,
    "total_cost": 247140000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0300-019421",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -4317,6 +4465,7 @@
    },
    "cost_total": 7140000,
    "total_cost": 247140000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0300-019424",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -4346,6 +4495,7 @@
    },
    "cost_total": 7140000,
    "total_cost": 247140000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0300-019425",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -4375,6 +4525,7 @@
    },
    "cost_total": 6691200,
    "total_cost": 205891200,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14174-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%99%EC%9E%91%EA%B5%AC%20%EC%8B%A0%EB%8C%80%EB%B0%A9%EB%8F%99"
@@ -4404,6 +4555,7 @@
    },
    "cost_total": 7316000,
    "total_cost": 263316000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00324-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EC%84%9D%EC%B4%8C%EB%8F%99"
@@ -4433,6 +4585,7 @@
    },
    "cost_total": 5801300,
    "total_cost": 124101300,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14894-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EC%B0%BD%EB%8F%99"
@@ -4462,6 +4615,7 @@
    },
    "cost_total": 10215600,
    "total_cost": 529815600,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03572-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EB%B6%88%EA%B4%91%EB%8F%99"
@@ -4491,6 +4645,7 @@
    },
    "cost_total": 4896000,
    "total_cost": 40896000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14441-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC%20%EC%82%AC%EB%A6%AC%ED%98%84%EB%8F%99"
@@ -4520,6 +4675,7 @@
    },
    "cost_total": 5523000,
    "total_cost": 98523000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-01355-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%9A%A9%ED%98%84%EB%8F%99"
@@ -4549,6 +4705,7 @@
    },
    "cost_total": 6480000,
    "total_cost": 186480000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-028380",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%EC%95%BC%EB%8B%B9%EB%8F%99"
@@ -4578,6 +4735,7 @@
    },
    "cost_total": 5754000,
    "total_cost": 119754000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03576-002",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EC%97%B0%ED%9D%AC%EB%8F%99"
@@ -4607,6 +4765,7 @@
    },
    "cost_total": 5893920,
    "total_cost": 132613920,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-01830-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%94%EA%B3%A1%EB%8F%99"
@@ -4636,6 +4795,7 @@
    },
    "cost_total": 7245600,
    "total_cost": 256845600,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0500-029746",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%99%EC%9E%91%EA%B5%AC%20%EC%83%81%EB%8F%841%EB%8F%99"
@@ -4665,6 +4825,7 @@
    },
    "cost_total": 7250000,
    "total_cost": 257250000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0500-029745",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%99%EC%9E%91%EA%B5%AC%20%EC%83%81%EB%8F%841%EB%8F%99"
@@ -4694,6 +4855,7 @@
    },
    "cost_total": 5239200,
    "total_cost": 72439200,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-05391-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EC%A7%80%EC%82%B0%EB%8F%99"
@@ -4723,6 +4885,7 @@
    },
    "cost_total": 7277500,
    "total_cost": 259777500,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0500-029759",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%99%EC%9E%91%EA%B5%AC%20%EC%83%81%EB%8F%841%EB%8F%99"
@@ -4752,6 +4915,7 @@
    },
    "cost_total": 6766000,
    "total_cost": 212766000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-06567-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EC%84%9C%EC%B0%BD%EB%8F%99"
@@ -4781,6 +4945,7 @@
    },
    "cost_total": 7206000,
    "total_cost": 253206000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00934-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EC%9D%BC%EC%82%B0%EC%84%9C%EA%B5%AC%20%EC%9D%BC%EC%82%B0%EB%8F%99"
@@ -4810,6 +4975,7 @@
    },
    "cost_total": 6994800,
    "total_cost": 233794800,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02152-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%96%91%EC%B2%9C%EA%B5%AC%20%EC%8B%A0%EC%A0%95%EB%8F%99"
@@ -4839,6 +5005,7 @@
    },
    "cost_total": 5516400,
    "total_cost": 97916400,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-0300-012423",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -4868,6 +5035,7 @@
    },
    "cost_total": 5215000,
    "total_cost": 70215000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0900-065517",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -4897,6 +5065,7 @@
    },
    "cost_total": 5215000,
    "total_cost": 70215000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0900-065518",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -4926,6 +5095,7 @@
    },
    "cost_total": 7624000,
    "total_cost": 291624000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0200-006108",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EB%AA%85%EC%8B%9C%20%EA%B4%91%EB%AA%85%EB%8F%99"
@@ -4955,6 +5125,7 @@
    },
    "cost_total": 6367800,
    "total_cost": 176167800,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-10601-014",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EC%95%94%EC%82%AC%EB%8F%99"
@@ -4984,6 +5155,7 @@
    },
    "cost_total": 5876100,
    "total_cost": 130976100,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-14715-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%ED%83%9C%EC%A0%84%EB%8F%99"
@@ -5013,6 +5185,7 @@
    },
    "cost_total": 6678000,
    "total_cost": 204678000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-0100-003594",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%96%91%EC%B2%9C%EA%B5%AC%20%EB%AA%A9%EB%8F%99"
@@ -5042,6 +5215,7 @@
    },
    "cost_total": 7085000,
    "total_cost": 242085000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-0100-003590",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%96%91%EC%B2%9C%EA%B5%AC%20%EB%AA%A9%EB%8F%99"
@@ -5071,6 +5245,7 @@
    },
    "cost_total": 6121400,
    "total_cost": 153521400,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-1100-066594",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B8%88%EC%B2%9C%EA%B5%AC%20%EC%8B%9C%ED%9D%A5%EB%8F%99"
@@ -5100,6 +5275,7 @@
    },
    "cost_total": 5523000,
    "total_cost": 98523000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-031022",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EB%8F%84%ED%99%94%EB%8F%99"
@@ -5129,6 +5305,7 @@
    },
    "cost_total": 5484500,
    "total_cost": 94984500,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-031019",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EB%8F%84%ED%99%94%EB%8F%99"
@@ -5158,6 +5335,7 @@
    },
    "cost_total": 6920000,
    "total_cost": 226920000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-05748-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EB%9E%91%EA%B5%AC%20%EC%83%81%EB%B4%89%EB%8F%99"
@@ -5187,6 +5365,7 @@
    },
    "cost_total": 5490000,
    "total_cost": 95490000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-031020",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EB%8F%84%ED%99%94%EB%8F%99"
@@ -5216,6 +5395,7 @@
    },
    "cost_total": 6370000,
    "total_cost": 176370000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-025679",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EB%AF%B8%EC%95%84%EB%8F%99"
@@ -5245,6 +5425,7 @@
    },
    "cost_total": 7726300,
    "total_cost": 301026300,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-10601-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EC%95%94%EC%82%AC%EB%8F%99"
@@ -5274,6 +5455,7 @@
    },
    "cost_total": 5545000,
    "total_cost": 100545000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0300-005791",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EA%B2%80%EC%95%94%EB%8F%99"
@@ -5303,6 +5485,7 @@
    },
    "cost_total": 7158590,
    "total_cost": 248848590,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-06994-002",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EB%9E%91%EA%B5%AC%20%EB%A9%B4%EB%AA%A9%EB%8F%99"
@@ -5332,6 +5515,7 @@
    },
    "cost_total": 5215000,
    "total_cost": 70215000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0900-065519",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -5361,6 +5545,7 @@
    },
    "cost_total": 5215000,
    "total_cost": 70215000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0900-065520",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -5390,6 +5575,7 @@
    },
    "cost_total": 12430791,
    "total_cost": 733411791,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00001-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B5%AC%EB%A1%9C%EA%B5%AC%20%EA%B5%AC%EB%A1%9C%EB%8F%99"
@@ -5419,6 +5605,7 @@
    },
    "cost_total": 6110400,
    "total_cost": 152510400,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04515-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EC%A4%91%EC%9B%90%EA%B5%AC%20%EC%9D%80%ED%96%89%EB%8F%99"
@@ -5448,6 +5635,7 @@
    },
    "cost_total": 7699900,
    "total_cost": 298599900,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00357-004",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%99%EC%9E%91%EA%B5%AC%20%EC%83%81%EB%8F%84%EB%8F%99"
@@ -5477,6 +5665,7 @@
    },
    "cost_total": 11020800,
    "total_cost": 603820800,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14297-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EC%B2%AD%EB%9D%BC%EB%8F%99"
@@ -5506,6 +5695,7 @@
    },
    "cost_total": 6268800,
    "total_cost": 167068800,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-06360-002",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%95%98%EB%82%A8%EC%8B%9C%20%EC%8B%A0%EC%9E%A5%EB%8F%99"
@@ -5535,6 +5725,7 @@
    },
    "cost_total": 7553600,
    "total_cost": 285153600,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-08253-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%EC%84%A0%EB%B6%80%EB%8F%99"
@@ -5564,6 +5755,7 @@
    },
    "cost_total": 5325000,
    "total_cost": 80325000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-05663-002",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EC%8B%A0%EC%82%AC%EB%8F%99"
@@ -5593,6 +5785,7 @@
    },
    "cost_total": 5578000,
    "total_cost": 103578000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-028381",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EB%A7%88%EC%A0%84%EB%8F%99"
@@ -5622,6 +5815,7 @@
    },
    "cost_total": 6829800,
    "total_cost": 218629800,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-12823-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B4%80%EC%95%85%EA%B5%AC%20%EC%8B%A0%EB%A6%BC%EB%8F%99"
@@ -5651,6 +5845,7 @@
    },
    "cost_total": 5139100,
    "total_cost": 63239100,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02137-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EC%84%9D%EB%82%A8%EB%8F%99"
@@ -5680,6 +5875,7 @@
    },
    "cost_total": 6066400,
    "total_cost": 148466400,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-05663-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EC%8B%A0%EC%82%AC%EB%8F%99"
@@ -5709,6 +5905,7 @@
    },
    "cost_total": 23200000,
    "total_cost": 1723200000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-1000-071798",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EB%B0%98%ED%8F%AC%EB%8F%99"
@@ -5738,6 +5935,7 @@
    },
    "cost_total": 7833000,
    "total_cost": 310833000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0200-006112",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EB%AA%85%EC%8B%9C%20%EA%B4%91%EB%AA%85%EB%8F%99"
@@ -5767,6 +5965,7 @@
    },
    "cost_total": 6048800,
    "total_cost": 146848800,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04851-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%AC%B8%ED%98%95%EB%8F%99"
@@ -5796,6 +5995,7 @@
    },
    "cost_total": 8213600,
    "total_cost": 345813600,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-13003-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EC%A7%80%EC%B6%95%EB%8F%99"
@@ -5825,6 +6025,7 @@
    },
    "cost_total": 5347000,
    "total_cost": 82347000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02137-002",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -5854,6 +6055,7 @@
    },
    "cost_total": 8119000,
    "total_cost": 337119000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0200-006114",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EB%AA%85%EC%8B%9C%20%EA%B4%91%EB%AA%85%EB%8F%99"
@@ -5883,6 +6085,7 @@
    },
    "cost_total": 5941000,
    "total_cost": 136941000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030156",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EA%B0%84%EC%84%9D%EB%8F%99"
@@ -5912,6 +6115,7 @@
    },
    "cost_total": 4835500,
    "total_cost": 35335500,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-15185-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EA%B0%84%EC%84%9D%EB%8F%99"
@@ -5941,6 +6145,7 @@
    },
    "cost_total": 11314500,
    "total_cost": 630814500,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-05649-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%85%B8%EC%9B%90%EA%B5%AC%20%EC%83%81%EA%B3%84%EB%8F%99"
@@ -5970,6 +6175,7 @@
    },
    "cost_total": 8864800,
    "total_cost": 405664800,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14869-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EB%A7%88%EC%A0%84%EB%8F%99"
@@ -5999,6 +6205,7 @@
    },
    "cost_total": 24410000,
    "total_cost": 1834410000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-1000-071797",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EB%B0%98%ED%8F%AC%EB%8F%99"
@@ -6028,6 +6235,7 @@
    },
    "cost_total": 5758400,
    "total_cost": 120158400,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-06349-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EB%A7%8C%EC%88%98%EB%8F%99"
@@ -6057,6 +6265,7 @@
    },
    "cost_total": 12666400,
    "total_cost": 755066400,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02503-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%88%98%EC%A7%80%EA%B5%AC%20%EC%A3%BD%EC%A0%84%EB%8F%99"
@@ -6086,6 +6295,7 @@
    },
    "cost_total": 6579000,
    "total_cost": 195579000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-07996-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EC%B0%BD%EB%8F%99"
@@ -6115,6 +6325,7 @@
    },
    "cost_total": 5701200,
    "total_cost": 114901200,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04333-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EB%B2%88%EB%8F%99"
@@ -6144,6 +6355,7 @@
    },
    "cost_total": 6436000,
    "total_cost": 182436000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-05662-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%96%91%EC%B2%9C%EA%B5%AC%20%EC%8B%A0%EC%9B%94%EB%8F%99"
@@ -6173,6 +6385,7 @@
    },
    "cost_total": 5839371,
    "total_cost": 127600371,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-09558-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B6%80%ED%8F%89%EA%B5%AC%20%EA%B0%88%EC%82%B0%EB%8F%99"
@@ -6202,6 +6415,7 @@
    },
    "cost_total": 6539400,
    "total_cost": 191939400,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-031218",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EC%86%A1%EC%A0%95%EB%8F%99"
@@ -6231,6 +6445,7 @@
    },
    "cost_total": 5930000,
    "total_cost": 135930000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0400-021870",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EB%A7%8C%EC%88%98%EB%8F%99"
@@ -6260,6 +6475,7 @@
    },
    "cost_total": 7064100,
    "total_cost": 240164100,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03290-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%B1%EB%B6%81%EA%B5%AC%20%EC%A0%95%EB%A6%89%EB%8F%99"
@@ -6289,6 +6505,7 @@
    },
    "cost_total": 5776739,
    "total_cost": 121843879,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-1100-080444",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EC%99%95%EA%B8%B8%EB%8F%99"
@@ -6318,6 +6535,7 @@
    },
    "cost_total": 6459100,
    "total_cost": 184559100,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-1000-081303",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EA%B0%80%EC%A2%8C%EB%8F%99"
@@ -6347,6 +6565,7 @@
    },
    "cost_total": 5831000,
    "total_cost": 126831000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-12168-008",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EC%8B%AC%EA%B3%A1%EB%8F%99"
@@ -6376,6 +6595,7 @@
    },
    "cost_total": 6351292,
    "total_cost": 174650580,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-1000-079802",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EA%B2%80%EC%95%94%EB%8F%99"
@@ -6405,6 +6625,7 @@
    },
    "cost_total": 7945200,
    "total_cost": 321145200,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02518-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EA%B5%AC%EC%82%B0%EB%8F%99"
@@ -6434,6 +6655,7 @@
    },
    "cost_total": 7400700,
    "total_cost": 271100700,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-09646-002",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B3%84%EC%96%91%EA%B5%AC%20%EC%9E%91%EC%A0%84%EB%8F%99"
@@ -6463,6 +6685,7 @@
    },
    "cost_total": 6024600,
    "total_cost": 144624600,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-14214-006",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%A3%BC%EC%95%88%EB%8F%99"
@@ -6492,6 +6715,7 @@
    },
    "cost_total": 5598900,
    "total_cost": 105498900,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-17082-002",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EC%97%B0%ED%9D%AC%EB%8F%99"
@@ -6521,6 +6745,7 @@
    },
    "cost_total": 5010400,
    "total_cost": 51410400,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-00393-003",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%9C%A8%EB%AA%A9%EB%8F%99"
@@ -6550,6 +6775,7 @@
    },
    "cost_total": 5600000,
    "total_cost": 105600000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-16904-003",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EC%8B%AC%EA%B3%A1%EB%8F%99"
@@ -6579,6 +6805,7 @@
    },
    "cost_total": 5765000,
    "total_cost": 120765000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030414",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%9A%A9%ED%98%84%EB%8F%99"
@@ -6608,6 +6835,7 @@
    },
    "cost_total": 5765000,
    "total_cost": 120765000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030415",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%9A%A9%ED%98%84%EB%8F%99"
@@ -6637,6 +6865,7 @@
    },
    "cost_total": 5765000,
    "total_cost": 120765000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030416",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%9A%A9%ED%98%84%EB%8F%99"
@@ -6666,6 +6895,7 @@
    },
    "cost_total": 5765000,
    "total_cost": 120765000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030417",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%9A%A9%ED%98%84%EB%8F%99"
@@ -6695,6 +6925,7 @@
    },
    "cost_total": 11650000,
    "total_cost": 661650000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-18000-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%EC%97%B0%EC%88%98%EB%8F%99"
@@ -6724,6 +6955,7 @@
    },
    "cost_total": 5589000,
    "total_cost": 104589000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-13067-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EA%B0%80%EC%A0%95%EB%8F%99"
@@ -6753,6 +6985,7 @@
    },
    "cost_total": 5809000,
    "total_cost": 124809000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030418",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%9A%A9%ED%98%84%EB%8F%99"
@@ -6782,6 +7015,7 @@
    },
    "cost_total": 5809000,
    "total_cost": 124809000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030419",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%9A%A9%ED%98%84%EB%8F%99"
@@ -6811,6 +7045,7 @@
    },
    "cost_total": 5809000,
    "total_cost": 124809000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030420",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%9A%A9%ED%98%84%EB%8F%99"
@@ -6840,6 +7075,7 @@
    },
    "cost_total": 5809000,
    "total_cost": 124809000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030421",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%9A%A9%ED%98%84%EB%8F%99"
@@ -6869,6 +7105,7 @@
    },
    "cost_total": 21880000,
    "total_cost": 1601880000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-025608",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EA%B0%80%EC%96%91%EB%8F%99"
@@ -6898,6 +7135,7 @@
    },
    "cost_total": 11529000,
    "total_cost": 650529000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-01572-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%99%EC%9E%91%EA%B5%AC%20%EC%82%AC%EB%8B%B9%EB%8F%99"
@@ -6927,6 +7165,7 @@
    },
    "cost_total": 7327000,
    "total_cost": 264327000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-08435-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EC%88%98%EC%9C%A0%EB%8F%99"
@@ -6956,6 +7195,7 @@
    },
    "cost_total": 5622000,
    "total_cost": 107622000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04174-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EB%B2%88%EB%8F%99"
@@ -6985,6 +7225,7 @@
    },
    "cost_total": 31690222,
    "total_cost": 2503528601,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0200-104899",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EA%B8%B8%EB%8F%99"
@@ -7014,6 +7255,7 @@
    },
    "cost_total": 11100000,
    "total_cost": 611100000,
+   "deep_discount": true,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-0500-024300",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%9A%B4%EB%B6%81%EB%8F%99"
@@ -7043,6 +7285,7 @@
    },
    "cost_total": 23200000,
    "total_cost": 1723200000,
+   "deep_discount": false,
    "low_sample": false,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0300-006370",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%8A%A5%ED%8F%89%EB%8F%99"
@@ -7072,6 +7315,7 @@
    },
    "cost_total": 4539600,
    "total_cost": 8139600,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-01867-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%8F%99%EB%8C%80%EB%AC%B8%EA%B5%AC%20%ED%9C%98%EA%B2%BD%EB%8F%99"
@@ -7101,6 +7345,7 @@
    },
    "cost_total": 4537290,
    "total_cost": 7927290,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-02698-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%ED%99%94%EB%8F%84%EC%9D%8D"
@@ -7130,6 +7375,7 @@
    },
    "cost_total": 4599000,
    "total_cost": 13599000,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14806-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%B1%EB%B6%81%EA%B5%AC%20%EC%A0%95%EB%A6%89%EB%8F%99"
@@ -7159,6 +7405,7 @@
    },
    "cost_total": 4692500,
    "total_cost": 22192500,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00507-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%8F%84%EC%B2%99%EB%A9%B4"
@@ -7188,6 +7435,7 @@
    },
    "cost_total": 4677100,
    "total_cost": 20777100,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-05325-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9D%B4%EC%B2%9C%EC%8B%9C%20%EC%9E%A5%ED%98%B8%EC%9B%90%EC%9D%8D"
@@ -7217,6 +7465,7 @@
    },
    "cost_total": 4541800,
    "total_cost": 8341800,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-07577-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%B2%98%EC%9D%B8%EA%B5%AC%20%EC%96%91%EC%A7%80%EC%9D%8D"
@@ -7246,6 +7495,7 @@
    },
    "cost_total": 4547300,
    "total_cost": 8847300,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-11978-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%ED%8C%BD%EC%84%B1%EC%9D%8D"
@@ -7275,6 +7525,7 @@
    },
    "cost_total": 4639700,
    "total_cost": 17339700,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-12420-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EC%84%9C%EC%A0%95%EB%8F%99"
@@ -7304,6 +7555,7 @@
    },
    "cost_total": 4820100,
    "total_cost": 33920100,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14772-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%98%A4%EC%A0%95%EA%B5%AC%20%EC%82%BC%EC%A0%95%EB%8F%99"
@@ -7333,6 +7585,7 @@
    },
    "cost_total": 4863000,
    "total_cost": 37863000,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14772-002",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%98%A4%EC%A0%95%EA%B5%AC%20%EC%82%BC%EC%A0%95%EB%8F%99"
@@ -7362,6 +7615,7 @@
    },
    "cost_total": 4941100,
    "total_cost": 45041100,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14772-003",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%98%A4%EC%A0%95%EA%B5%AC%20%EC%82%BC%EC%A0%95%EB%8F%99"
@@ -7391,6 +7645,7 @@
    },
    "cost_total": 4848700,
    "total_cost": 36548700,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14772-004",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%98%A4%EC%A0%95%EA%B5%AC%20%EC%82%BC%EC%A0%95%EB%8F%99"
@@ -7420,6 +7675,7 @@
    },
    "cost_total": 4898200,
    "total_cost": 41098200,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-14772-005",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%98%A4%EC%A0%95%EA%B5%AC%20%EC%82%BC%EC%A0%95%EB%8F%99"
@@ -7449,6 +7705,7 @@
    },
    "cost_total": 4590200,
    "total_cost": 12790200,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-04422-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%B2%98%EC%9D%B8%EA%B5%AC%20%ED%8F%AC%EA%B3%A1%EC%9D%8D"
@@ -7478,6 +7735,7 @@
    },
    "cost_total": 5028000,
    "total_cost": 53028000,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-11451-002",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%B2%98%EC%9D%B8%EA%B5%AC%20%EC%9C%A0%EB%B0%A9%EB%8F%99"
@@ -7507,6 +7765,7 @@
    },
    "cost_total": 4797000,
    "total_cost": 31797000,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-12516-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%99%94%EC%84%B1%EC%8B%9C%20%ED%9A%A8%ED%96%89%EA%B5%AC%20%EA%B8%B0%EC%95%88%EB%8F%99"
@@ -7536,6 +7795,7 @@
    },
    "cost_total": 4610000,
    "total_cost": 14610000,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-17313-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%99%94%EC%84%B1%EC%8B%9C%20%EB%A7%8C%EC%84%B8%EA%B5%AC%20%EC%84%9C%EC%8B%A0%EB%A9%B4"
@@ -7565,6 +7825,7 @@
    },
    "cost_total": 4611100,
    "total_cost": 14711100,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-05189-009",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EB%9E%91%EA%B5%AC%20%EB%A7%9D%EC%9A%B0%EB%8F%99"
@@ -7594,6 +7855,7 @@
    },
    "cost_total": 4732100,
    "total_cost": 25832100,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-00088-004",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EB%AC%B5%EC%A0%95%EB%8F%99"
@@ -7623,6 +7885,7 @@
    },
    "cost_total": 4746400,
    "total_cost": 27146400,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-13346-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EB%8F%99%EC%82%AD%EB%8F%99"
@@ -7652,6 +7915,7 @@
    },
    "cost_total": 4848700,
    "total_cost": 36548700,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-16549-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%EC%84%A0%EB%B6%80%EB%8F%99"
@@ -7681,6 +7945,7 @@
    },
    "cost_total": 4527500,
    "total_cost": 7027500,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02291-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EA%B5%AC%EC%9B%94%EB%8F%99"
@@ -7710,6 +7975,7 @@
    },
    "cost_total": 4610000,
    "total_cost": 14610000,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-07956-004",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EC%B6%A9%EC%A0%95%EB%A1%9C3%EA%B0%80"
@@ -7739,6 +8005,7 @@
    },
    "cost_total": 5088500,
    "total_cost": 58588500,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00024-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EB%8F%84%EB%A6%BC%EB%8F%99"
@@ -7768,6 +8035,7 @@
    },
    "cost_total": 4591300,
    "total_cost": 12891300,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03995-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EC%88%98%EC%9C%A0%EB%8F%99"
@@ -7797,6 +8065,7 @@
    },
    "cost_total": 4581400,
    "total_cost": 11981400,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-08666-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9D%B4%EC%B2%9C%EC%8B%9C%20%EB%8C%80%EC%9B%94%EB%A9%B4"
@@ -7826,6 +8095,7 @@
    },
    "cost_total": 4567100,
    "total_cost": 10667100,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-17919-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%B2%98%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99%EC%9D%8D"
@@ -7855,6 +8125,7 @@
    },
    "cost_total": 5105000,
    "total_cost": 60105000,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-01423-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%88%98%EC%A7%80%EA%B5%AC%20%EC%8B%A0%EB%B4%89%EB%8F%99"
@@ -7884,6 +8155,7 @@
    },
    "cost_total": 4673800,
    "total_cost": 20473800,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02208-004",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%9B%90%EB%AF%B8%EA%B5%AC%20%EC%8B%AC%EA%B3%A1%EB%8F%99"
@@ -7913,6 +8185,7 @@
    },
    "cost_total": 4650700,
    "total_cost": 18350700,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02803-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EB%8F%84%EC%B2%99%EB%A9%B4"
@@ -7942,6 +8215,7 @@
    },
    "cost_total": 4612200,
    "total_cost": 14812200,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04530-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%ED%87%B4%EC%B4%8C%EB%A9%B4"
@@ -7971,6 +8245,7 @@
    },
    "cost_total": 4973000,
    "total_cost": 47973000,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-16163-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%8B%A0%EA%B8%B8%EB%8F%99"
@@ -8000,6 +8275,7 @@
    },
    "cost_total": 5252400,
    "total_cost": 73652400,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-11877-002",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EC%88%98%ED%83%9D%EB%8F%99"
@@ -8029,6 +8305,7 @@
    },
    "cost_total": 4577000,
    "total_cost": 11577000,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-18152-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%99%94%EC%84%B1%EC%8B%9C%20%ED%9A%A8%ED%96%89%EA%B5%AC%20%EB%B9%84%EB%B4%89%EB%A9%B4"
@@ -8058,6 +8335,7 @@
    },
    "cost_total": 4512870,
    "total_cost": 5682870,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03448-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%EB%8F%99%EC%B6%98%EB%8F%99"
@@ -8087,6 +8365,7 @@
    },
    "cost_total": 4508910,
    "total_cost": 5318910,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03448-002",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%EB%8F%99%EC%B6%98%EB%8F%99"
@@ -8116,6 +8395,7 @@
    },
    "cost_total": 4761800,
    "total_cost": 28561800,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03007-009",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%84%9C%EC%B4%88%EB%8F%99"
@@ -8145,6 +8425,7 @@
    },
    "cost_total": 4633100,
    "total_cost": 16733100,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-03826-010",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%98%A4%EC%A0%95%EA%B5%AC%20%EC%9B%90%EC%A2%85%EB%8F%99"
@@ -8174,6 +8455,7 @@
    },
    "cost_total": 4607800,
    "total_cost": 14407800,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-06950-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%B2%98%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99%EC%9D%8D"
@@ -8203,6 +8485,7 @@
    },
    "cost_total": 4806900,
    "total_cost": 32706900,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-00520-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%99%94%EC%84%B1%EC%8B%9C%20%EB%8F%99%ED%83%84%EA%B5%AC%20%EC%98%81%EC%B2%9C%EB%8F%99"
@@ -8232,6 +8515,7 @@
    },
    "cost_total": 4621000,
    "total_cost": 15621000,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-07004-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EC%98%A4%EB%82%A8%EC%9D%8D"
@@ -8261,6 +8545,7 @@
    },
    "cost_total": 6774800,
    "total_cost": 213574800,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2022-11065-002",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EB%B0%98%ED%8F%AC%EB%8F%99"
@@ -8290,6 +8575,7 @@
    },
    "cost_total": 4631340,
    "total_cost": 16571340,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-04908-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EC%8B%A0%EC%82%AC%EB%8F%99"
@@ -8319,6 +8605,7 @@
    },
    "cost_total": 4823400,
    "total_cost": 34223400,
+   "deep_discount": true,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-03370-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%9B%90%EB%AF%B8%EA%B5%AC%20%EC%A4%91%EB%8F%99"
@@ -8348,6 +8635,7 @@
    },
    "cost_total": 6674700,
    "total_cost": 204374700,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-12800-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EC%84%B1%EB%82%B4%EB%8F%99"
@@ -8377,6 +8665,7 @@
    },
    "cost_total": 5394300,
    "total_cost": 86694300,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2020-0700-039556",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%ED%87%B4%EA%B3%84%EC%9B%90%EC%9D%8D"
@@ -8406,6 +8695,7 @@
    },
    "cost_total": 5229300,
    "total_cost": 71529300,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2020-0700-039558",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%ED%87%B4%EA%B3%84%EC%9B%90%EC%9D%8D"
@@ -8435,6 +8725,7 @@
    },
    "cost_total": 4889400,
    "total_cost": 40289400,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-17798-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%98%A4%EC%A0%95%EA%B5%AC%20%EC%9B%90%EC%A2%85%EB%8F%99"
@@ -8464,6 +8755,7 @@
    },
    "cost_total": 5303000,
    "total_cost": 78303000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-028087",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%ED%8C%8C%EC%A3%BC%EC%9D%8D"
@@ -8493,6 +8785,7 @@
    },
    "cost_total": 5076400,
    "total_cost": 57476400,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-03575-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B4%91%EC%A3%BC%EC%8B%9C%20%EC%B4%88%EC%9B%94%EC%9D%8D"
@@ -8522,6 +8815,7 @@
    },
    "cost_total": 4733200,
    "total_cost": 25933200,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-08195-002",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EC%A7%84%EA%B1%B4%EC%9D%8D"
@@ -8551,6 +8845,7 @@
    },
    "cost_total": 7386840,
    "total_cost": 269826840,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-1000-081310",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%98%B9%EC%A7%84%EA%B5%B0%20%EC%98%81%ED%9D%A5%EB%A9%B4"
@@ -8580,6 +8875,7 @@
    },
    "cost_total": 5902711,
    "total_cost": 133421911,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-1000-081316",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%98%B9%EC%A7%84%EA%B5%B0%20%EC%98%81%ED%9D%A5%EB%A9%B4"
@@ -8609,6 +8905,7 @@
    },
    "cost_total": 6987751,
    "total_cost": 233146951,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-0300-016652",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%98%B9%EC%A7%84%EA%B5%B0%20%EC%98%81%ED%9D%A5%EB%A9%B4"
@@ -8638,6 +8935,7 @@
    },
    "cost_total": 6688138,
    "total_cost": 205609738,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-0300-016648",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%98%B9%EC%A7%84%EA%B5%B0%20%EC%98%81%ED%9D%A5%EB%A9%B4"
@@ -8667,6 +8965,7 @@
    },
    "cost_total": 32330000,
    "total_cost": 2562330000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-1000-071799",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EB%B0%98%ED%8F%AC%EB%8F%99"
@@ -8696,6 +8995,7 @@
    },
    "cost_total": 31560000,
    "total_cost": 2491560000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-1000-071800",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EB%B0%98%ED%8F%AC%EB%8F%99"
@@ -8725,6 +9025,7 @@
    },
    "cost_total": 5380000,
    "total_cost": 85380000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2022-1200-057938",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%99%94%EC%84%B1%EC%8B%9C%20%EB%A7%8C%EC%84%B8%EA%B5%AC%20%EC%84%9C%EC%8B%A0%EB%A9%B4"
@@ -8754,6 +9055,7 @@
    },
    "cost_total": 5424000,
    "total_cost": 89424000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-023471",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B0%95%ED%99%94%EA%B5%B0%20%EA%B0%95%ED%99%94%EC%9D%8D"
@@ -8783,6 +9085,7 @@
    },
    "cost_total": 5424000,
    "total_cost": 89424000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-023473",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B0%95%ED%99%94%EA%B5%B0%20%EA%B0%95%ED%99%94%EC%9D%8D"
@@ -8812,6 +9115,7 @@
    },
    "cost_total": 46850000,
    "total_cost": 3896850000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-031580",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B0%95%ED%99%94%EA%B5%B0%20%EC%84%A0%EC%9B%90%EB%A9%B4"
@@ -8841,6 +9145,7 @@
    },
    "cost_total": 5424000,
    "total_cost": 89424000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-023469",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B0%95%ED%99%94%EA%B5%B0%20%EA%B0%95%ED%99%94%EC%9D%8D"
@@ -8870,6 +9175,7 @@
    },
    "cost_total": 5319500,
    "total_cost": 79819500,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0900-070581",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%EC%9B%94%EB%A1%B1%EB%A9%B4"
@@ -8899,6 +9205,7 @@
    },
    "cost_total": 5237000,
    "total_cost": 72237000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0900-070582",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%EC%9B%94%EB%A1%B1%EB%A9%B4"
@@ -8928,6 +9235,7 @@
    },
    "cost_total": 5237000,
    "total_cost": 72237000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0900-070583",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%EC%9B%94%EB%A1%B1%EB%A9%B4"
@@ -8957,6 +9265,7 @@
    },
    "cost_total": 5319500,
    "total_cost": 79819500,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0900-070584",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%EC%9B%94%EB%A1%B1%EB%A9%B4"
@@ -8986,6 +9295,7 @@
    },
    "cost_total": 5237000,
    "total_cost": 72237000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0900-070585",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%EC%9B%94%EB%A1%B1%EB%A9%B4"
@@ -9015,6 +9325,7 @@
    },
    "cost_total": 5237000,
    "total_cost": 72237000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0900-070586",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%EC%9B%94%EB%A1%B1%EB%A9%B4"
@@ -9044,6 +9355,7 @@
    },
    "cost_total": 5171000,
    "total_cost": 66171000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-04564-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%ED%99%94%EB%8F%84%EC%9D%8D"
@@ -9073,6 +9385,7 @@
    },
    "cost_total": 6100500,
    "total_cost": 151600500,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-01663-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B5%AC%EB%A1%9C%EA%B5%AC%20%EA%B3%A0%EC%B2%99%EB%8F%99"
@@ -9102,6 +9415,7 @@
    },
    "cost_total": 6100500,
    "total_cost": 151600500,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-01664-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B5%AC%EB%A1%9C%EA%B5%AC%20%EA%B3%A0%EC%B2%99%EB%8F%99"
@@ -9131,6 +9445,7 @@
    },
    "cost_total": 35300000,
    "total_cost": 2835300000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-028072",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%ED%8C%BD%EC%84%B1%EC%9D%8D"
@@ -9160,6 +9475,7 @@
    },
    "cost_total": 21069300,
    "total_cost": 1527369300,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-1200-090587",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EC%88%98%EC%9C%A0%EB%8F%99"
@@ -9189,6 +9505,7 @@
    },
    "cost_total": 6623000,
    "total_cost": 199623000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-026728",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B0%80%ED%8F%89%EA%B5%B0%20%EA%B0%80%ED%8F%89%EC%9D%8D"
@@ -9218,6 +9535,7 @@
    },
    "cost_total": 6623000,
    "total_cost": 199623000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0500-026755",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EA%B0%80%ED%8F%89%EA%B5%B0%20%EA%B0%80%ED%8F%89%EC%9D%8D"
@@ -9247,6 +9565,7 @@
    },
    "cost_total": 9879000,
    "total_cost": 498879000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2024-00024-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EC%A7%84%EC%A0%91%EC%9D%8D"
@@ -9276,6 +9595,7 @@
    },
    "cost_total": 4876200,
    "total_cost": 39076200,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-13493-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%97%B0%EC%B2%9C%EA%B5%B0%20%EC%A0%84%EA%B3%A1%EC%9D%8D"
@@ -9305,6 +9625,7 @@
    },
    "cost_total": 6836400,
    "total_cost": 219236400,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-07136-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%EB%AC%B8%EC%82%B0%EC%9D%8D"
@@ -9334,6 +9655,7 @@
    },
    "cost_total": 5391000,
    "total_cost": 86391000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030378",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EC%8B%A0%EC%9E%A5%EB%8F%99"
@@ -9363,6 +9685,7 @@
    },
    "cost_total": 5516400,
    "total_cost": 97916400,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030332",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EC%9D%B4%EC%B2%9C%EC%8B%9C%20%EB%8C%80%EC%9B%94%EB%A9%B4"
@@ -9392,6 +9715,7 @@
    },
    "cost_total": 6392000,
    "total_cost": 178392000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030215",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EC%84%9D%EB%82%A8%EB%8F%99"
@@ -9421,6 +9745,7 @@
    },
    "cost_total": 7418300,
    "total_cost": 272718300,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-16452-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EB%85%B8%EC%9B%90%EA%B5%AC%20%EC%83%81%EA%B3%84%EB%8F%99"
@@ -9450,6 +9775,7 @@
    },
    "cost_total": 38275500,
    "total_cost": 3108775500,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-0600-042964",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%EC%9D%B4%ED%83%9C%EC%9B%90%EB%8F%99"
@@ -9479,6 +9805,7 @@
    },
    "cost_total": 6370000,
    "total_cost": 176370000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030271",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%ED%8C%8C%EC%A3%BC%EC%9D%8D"
@@ -9508,6 +9835,7 @@
    },
    "cost_total": 4668080,
    "total_cost": 19948080,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-10216-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%84%9C%EA%B5%AC%20%EA%B0%80%EC%A2%8C%EB%8F%99"
@@ -9537,6 +9865,7 @@
    },
    "cost_total": 9991200,
    "total_cost": 509191200,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-01430-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%B1%EB%B6%81%EA%B5%AC%20%EC%9E%A5%EC%9C%84%EB%8F%99"
@@ -9566,6 +9895,7 @@
    },
    "cost_total": 5890400,
    "total_cost": 132290400,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02208-007",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%9B%90%EB%AF%B8%EA%B5%AC%20%EC%8B%AC%EA%B3%A1%EB%8F%99"
@@ -9595,6 +9925,7 @@
    },
    "cost_total": 6400800,
    "total_cost": 179200800,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02208-008",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%9B%90%EB%AF%B8%EA%B5%AC%20%EC%8B%AC%EA%B3%A1%EB%8F%99"
@@ -9624,6 +9955,7 @@
    },
    "cost_total": 18668000,
    "total_cost": 1306668000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-08719-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EB%B0%A9%EB%B0%B0%EB%8F%99"
@@ -9653,6 +9985,7 @@
    },
    "cost_total": 6075200,
    "total_cost": 149275200,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-02182-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EB%B2%88%EB%8F%99"
@@ -9682,6 +10015,7 @@
    },
    "cost_total": 6370000,
    "total_cost": 176370000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0600-030272",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%ED%8C%8C%EC%A3%BC%EC%9D%8D"
@@ -9711,6 +10045,7 @@
    },
    "cost_total": 7380900,
    "total_cost": 269280900,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-03473-001",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%B1%EB%B6%81%EA%B5%AC%20%EB%8F%99%EC%84%A0%EB%8F%995%EA%B0%80"
@@ -9740,6 +10075,7 @@
    },
    "cost_total": 25231260,
    "total_cost": 1909891260,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2026-0300-002953",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B4%80%EC%95%85%EA%B5%AC%20%EC%8B%A0%EB%A6%BC%EB%8F%99"
@@ -9769,6 +10105,7 @@
    },
    "cost_total": 5578000,
    "total_cost": 103578000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-05189-007",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EB%9E%91%EA%B5%AC%20%EB%A7%9D%EC%9A%B0%EB%8F%99"
@@ -9798,6 +10135,7 @@
    },
    "cost_total": 5611000,
    "total_cost": 106611000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2023-05189-011",
    "market_url": "https://new.land.naver.com/search?query=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%A4%91%EB%9E%91%EA%B5%AC%20%EB%A7%9D%EC%9A%B0%EB%8F%99"
@@ -9827,6 +10165,7 @@
    },
    "cost_total": 7965000,
    "total_cost": 322965000,
+   "deep_discount": false,
    "low_sample": true,
    "detail_url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateDetail.do?cltrNo=2025-07792-001",
    "market_url": "https://new.land.naver.com/search?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%98%A4%EC%A0%95%EA%B5%AC%20%EC%97%AC%EC%9B%94%EB%8F%99"
