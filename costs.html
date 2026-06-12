@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>기준표 — REALESTATE HUB</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🏠</text></svg>">
+<link rel="stylesheet" href="assets/style.css?v=202606122111">
+</head>
+<body data-page="costs">
+<nav class="nav"><div class="nav-inner">
+  <span class="brand">REALESTATE HUB</span>
+  <a class="tab" href="index.html">진행중</a>
+  <a class="tab" href="results.html">결과</a>
+  <a class="tab" href="stats.html">통계</a>
+  <a class="tab active" href="costs.html">기준표</a>
+</div></nav>
+<main class="wrap">
+  <div class="eyebrow">COSTS</div>
+  <h1>기준표</h1>
+  <p class="desc">비용 산정 기준값(config.yaml bid_calc). 취득세는 최저입찰가 기준 자동 계산.</p>
+  <p class="meta" id="meta">-</p>
+  <h2>취득 부대비용</h2><div id="t-base"></div>
+  <h2>양도세율 (보유기간별)</h2><div id="t-cgt"></div>
+  <h2>산정 수식</h2>
+  <table>
+    <tbody>
+      <tr><td>총투자금</td><td style="text-align:left">최저입찰가 + 취득세 + 명도비 + 청소비 + 기타잡비</td></tr>
+      <tr><td>시세대비할인율</td><td style="text-align:left">(매도예상가 − 총투자금) ÷ 매도예상가</td></tr>
+      <tr><td>예상수익률</td><td style="text-align:left">(매도예상가 − 총투자금) ÷ 총투자금 (세전)</td></tr>
+      <tr><td>매도예상가</td><td style="text-align:left">같은 단지(불가 시 같은 법정동) 최근 실거래 중앙값 — 면적 ±10%, 저층 제외, 6개월(부족 시 12개월)</td></tr>
+    </tbody>
+  </table>
+</main>
+<script src="data/meta.js?v=202606122111"></script>
+<script src="data/costs.js?v=202606122111"></script>
+<script src="assets/app.js?v=202606122111"></script>
+</body>
+</html>

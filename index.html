@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>진행중 물건 — REALESTATE HUB</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🏠</text></svg>">
+<link rel="stylesheet" href="assets/style.css?v=202606122111">
+</head>
+<body data-page="listings">
+<nav class="nav"><div class="nav-inner">
+  <span class="brand">REALESTATE HUB</span>
+  <a class="tab active" href="index.html">진행중</a>
+  <a class="tab" href="results.html">결과</a>
+  <a class="tab" href="stats.html">통계</a>
+  <a class="tab" href="costs.html">기준표</a>
+</div></nav>
+<main class="wrap">
+  <div class="eyebrow">LISTINGS</div>
+  <h1>진행중 물건</h1>
+  <p class="desc">온비드 공매 물건을 국토부 실거래가 시세와 비교해 <b>시세대비할인율</b><button class="help" type="button" aria-label="시세대비할인율 설명">?<span class="tip"><b>시세대비할인율</b> = (매도예상가 − 총투자금) ÷ 매도예상가.<br>매도예상가는 같은 단지(불가 시 같은 법정동)의 최근 실거래 중앙값 — 면적 ±10%·저층 제외 필터를 거친 표본입니다. 알림·엑셀과 동일 수식.</span></button> 순으로 정렬.
+     <b>총투자금</b><button class="help" type="button" aria-label="총투자금 설명">?<span class="tip"><b>총투자금</b> = 최저입찰가 + 취득세(1.1%) + 명도비 + 청소비 + 기타잡비.<br>양도세 제외 세전 기준 — 보유기간별 세후 수치는 엑셀 입찰가산정 시트에서 계산합니다.</span></button>은 최저입찰가 기준 추정값.</p>
+  <p class="meta" id="meta">-</p>
+  <input class="search" id="q" placeholder="물건명·소재지 검색 (예: 부평, 산곡동)">
+  <div class="filters">
+    <div class="chip-row"><span class="lbl">지역</span>
+      <button class="chip on" data-k="region" data-v="전체">전체</button>
+      <button class="chip" data-k="region" data-v="서울특별시">서울</button>
+      <button class="chip" data-k="region" data-v="경기도">경기</button>
+      <button class="chip" data-k="region" data-v="인천광역시">인천</button>
+    </div>
+    <div class="chip-row"><span class="lbl">유형</span>
+      <button class="chip on" data-k="cat" data-v="전체">전체</button>
+      <button class="chip" data-k="cat" data-v="아파트">아파트</button>
+      <button class="chip" data-k="cat" data-v="오피스텔">오피스텔</button>
+      <button class="chip" data-k="cat" data-v="연립다세대">연립다세대</button>
+      <button class="chip" data-k="cat" data-v="기타">기타</button>
+    </div>
+    <div class="chip-row"><span class="lbl">조건</span>
+      <button class="chip" data-k="disc15">할인 15%↑</button>
+      <button class="chip" data-k="exact">시세 exact만</button>
+      <button class="chip" data-k="fail2">유찰 2회↑</button>
+      <button class="chip" data-k="soon">마감 24h</button>
+      <span id="count"></span>
+    </div>
+  </div>
+  <ul class="tl" id="list"></ul>
+  <details class="lowsample" id="low-wrap" style="display:none">
+    <summary id="low-sum"></summary>
+    <ul class="tl" id="low-list"></ul>
+  </details>
+</main>
+<script src="data/meta.js?v=202606122111"></script>
+<script src="data/listings.js?v=202606122111"></script>
+<script src="assets/app.js?v=202606122111"></script>
+</body>
+</html>

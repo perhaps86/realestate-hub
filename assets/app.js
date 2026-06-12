@@ -1,0 +1,235 @@
+/* realestate-hub 셸 — data/*.js 가 정의한 window.HUB_DATA 를 렌더링 (fetch 없음) */
+(function () {
+  "use strict";
+  const D = window.HUB_DATA || {};
+  const $ = (s) => document.querySelector(s);
+
+  const won = (v) => {
+    if (v == null) return "-";
+    const sign = v < 0 ? "-" : "", a = Math.abs(v);
+    if (a >= 100000000) {
+      const eok = a / 100000000;
+      return sign + (eok >= 10 ? Math.round(eok).toLocaleString() : (Math.round(eok * 10) / 10)) + "억";
+    }
+    return sign + Math.round(a / 10000).toLocaleString() + "만";
+  };
+  const pct = (v) => (v == null ? "-" : Math.round(v * 100) + "%");
+  const esc = (s) => String(s ?? "").replace(/[&<>"]/g,
+    (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+  function setMeta(count) {
+    const m = D.meta || {};
+    const el = $("#meta");
+    if (el) el.textContent = `총 ${count}건 · 마지막 업데이트 ${m.generated_at || "-"} KST`;
+  }
+
+  /* ---------------- 진행중 (listings) ---------------- */
+  const LF = { region: "전체", cat: "전체", disc15: false, exact: false, fail2: false, soon: false, q: "" };
+
+  function listingVisible(it) {
+    if (LF.region !== "전체" && it.sido !== LF.region) return false;
+    if (LF.cat !== "전체" && it.category !== LF.cat) return false;
+    if (LF.disc15 && !(it.discount_market >= 0.15)) return false;
+    if (LF.exact && it.match_quality !== "exact") return false;
+    if (LF.fail2 && !((it.fail_count || 0) >= 2)) return false;
+    if (LF.soon) {
+      if (!it.bid_close_at) return false;
+      const left = new Date(it.bid_close_at).getTime() - Date.now();
+      if (left < 0 || left > 86400000) return false;
+    }
+    if (LF.q && !`${it.name || ""} ${it.address || ""}`.toLowerCase().includes(LF.q)) return false;
+    return true;
+  }
+
+  const closeLabel = (iso) => (iso ? iso.slice(0, 16).replace("T", " ") + " 마감" : "마감 미상");
+
+  function listingItem(it) {
+    const tags = [];
+    if (it.category) tags.push(`<span class="tag blue">${esc(it.category)}</span>`);
+    if (it.match_quality === "approx") tags.push(`<span class="tag warn">⚠시세 approx(동 단위)</span>`);
+    if ((it.fail_count || 0) >= 1)
+      tags.push(`<span class="tag${it.fail_count >= 2 ? " warn" : ""}">유찰 ${it.fail_count}회</span>`);
+    const title = it.low_sample
+      ? esc(it.name)
+      : `${esc(it.name)} · 할인 ${pct(it.discount_market)}`;
+    const line = it.low_sample
+      ? `최저 ${won(it.min_bid_price)} · 감정가 ${won(it.appraisal_price)} · 메리트 ${pct(it.merit)}`
+      : `최저 ${won(it.min_bid_price)} · 시세 ${won(it.expected_sale_price)} · 수익률 ${pct(it.expected_yield)} · 감정가 ${won(it.appraisal_price)}`;
+    const costRows = Object.entries(it.cost_items || {})
+      .map(([k, v]) => `<tr><td>${esc(k)}</td><td>${Number(v).toLocaleString()}원</td></tr>`).join("");
+    const disc = it.discount_market;
+    const costBox = `<div class="costbox">
+      <table><tbody>
+        <tr><td>최저입찰가</td><td>${(it.min_bid_price ?? 0).toLocaleString()}원</td></tr>
+        ${costRows}
+        <tr class="sum"><td>부대비용 합계</td><td>${(it.cost_total ?? 0).toLocaleString()}원</td></tr>
+        <tr class="sum"><td>총투자금</td><td>${(it.total_cost ?? 0).toLocaleString()}원</td></tr>
+        ${it.expected_sale_price ? `<tr><td>매도예상가(시세)</td><td>${it.expected_sale_price.toLocaleString()}원</td></tr>
+        <tr class="sum"><td>차익(시세-총투자금)</td><td>${(it.expected_sale_price - (it.total_cost ?? 0)).toLocaleString()}원${disc != null ? ` (${Math.round(disc * 100)}%)` : ""}</td></tr>` : ""}
+      </tbody></table>
+      <p class="note">※ 양도세 제외 세전 기준 — 보유기간별 세후 수치는 엑셀 입찰가산정 시트에서</p>
+    </div>`;
+    return `<li><span class="date">${esc(closeLabel(it.bid_close_at))}</span>
+      <h3>${title}</h3><p class="line">${line}</p>
+      <div class="tags">${tags.join("")}</div>
+      <p class="src">${esc(it.address || "")}
+        <a href="${esc(it.detail_url)}" target="_blank" rel="noopener">온비드 상세</a>${
+        it.market_url ? ` <a href="${esc(it.market_url)}" target="_blank" rel="noopener">시세 검색</a>` : ""}
+        <a class="costlink">비용내역</a></p>${costBox}</li>`;
+  }
+
+  function renderListings() {
+    const all = (D.listings && D.listings.items) || [];
+    const vis = all.filter((i) => !i.low_sample).filter(listingVisible);
+    const low = all.filter((i) => i.low_sample).filter(listingVisible);
+    $("#list").innerHTML = vis.map(listingItem).join("") ||
+      `<li class="empty">조건에 맞는 물건이 없습니다</li>`;
+    $("#count").textContent = `${vis.length}건`;
+    const wrap = $("#low-wrap");
+    wrap.style.display = low.length ? "" : "none";
+    $("#low-sum").textContent = `시세 미산출 ${low.length}건 — 실거래 표본 부족(메리트 순)`;
+    $("#low-list").innerHTML = low.map(listingItem).join("");
+  }
+
+  function initListings() {
+    setMeta(((D.listings && D.listings.items) || []).length);
+    document.querySelectorAll(".chip").forEach((c) => {
+      c.addEventListener("click", () => {
+        const k = c.dataset.k, v = c.dataset.v;
+        if (v !== undefined) {
+          LF[k] = v;
+          document.querySelectorAll(`.chip[data-k="${k}"]`)
+            .forEach((x) => x.classList.toggle("on", x === c));
+        } else {
+          LF[k] = !LF[k];
+          c.classList.toggle("on", LF[k]);
+        }
+        renderListings();
+      });
+    });
+    $("#q").addEventListener("input", (e) => {
+      LF.q = e.target.value.trim().toLowerCase();
+      renderListings();
+    });
+    renderListings();
+  }
+
+  /* ---------------- 결과 (results) ---------------- */
+  let RFILTER = "전체";
+
+  function resultItem(r) {
+    const wonBid = r.outcome === "낙찰";
+    let line;
+    if (wonBid) {
+      const diff = r.expected_sale_price && r.winning_price != null
+        ? r.expected_sale_price - r.winning_price : null;
+      line = `낙찰 ${won(r.winning_price)}` +
+        (r.expected_sale_price ? ` · 시세 ${won(r.expected_sale_price)}` : "") +
+        (diff != null ? ` · 차액 ${diff >= 0 ? "+" : "-"}${won(diff)}` : "");
+    } else {
+      line = `최저 ${won(r.min_bid_price)} · 감정가 ${won(r.appraisal_price)}` +
+        (r.expected_sale_price ? ` · 시세 ${won(r.expected_sale_price)}` : "");
+    }
+    const tagCls = wonBid ? "blue" : (r.outcome === "유찰" ? "warn" : "");
+    return `<li><span class="date">${esc(r.date || "")}</span>
+      <h3><span class="tag ${tagCls}">${esc(r.outcome)}</span> ${esc(r.name)}</h3>
+      <p class="line">${line}</p>
+      <p class="src">${esc(r.sido || "")}<a href="${esc(r.detail_url)}" target="_blank" rel="noopener">온비드 상세</a></p></li>`;
+  }
+
+  function renderResults() {
+    const all = (D.results && D.results.items) || [];
+    const vis = all.filter((r) =>
+      RFILTER === "전체" ? true : r.outcome === RFILTER);
+    $("#list").innerHTML = vis.map(resultItem).join("") ||
+      `<li class="empty">아직 수집된 결과가 없습니다 — 정기 실행이 쌓아갑니다</li>`;
+    $("#count").textContent = `${vis.length}건`;
+  }
+
+  function initResults() {
+    setMeta(((D.results && D.results.items) || []).length);
+    document.querySelectorAll(".chip[data-k='rf']").forEach((c) => {
+      c.addEventListener("click", () => {
+        RFILTER = c.dataset.v;
+        document.querySelectorAll(".chip[data-k='rf']")
+          .forEach((x) => x.classList.toggle("on", x === c));
+        renderResults();
+      });
+    });
+    renderResults();
+  }
+
+  /* ---------------- 통계 (stats) ---------------- */
+  function bars(el, rows) {
+    const maxv = Math.max(1, ...rows.map((r) => Math.max(r.won, r.passed)));
+    el.innerHTML = rows.map((r) => `<div class="bar-row"><span class="bl">${esc(r.label)}</span>
+      <div class="bar-track">
+        <div class="bar" style="width:${(r.won / maxv) * 55}%"></div>
+        <div class="bar gray" style="width:${(r.passed / maxv) * 55}%"></div>
+      </div><span class="bv">${r.won} / ${r.passed}</span></div>`).join("");
+  }
+
+  function initStats() {
+    const s = D.stats || {};
+    setMeta(s.sample || 0);
+    if (s.insufficient) {
+      $("#banner").style.display = "";
+      $("#banner").textContent = `표본 축적 중 (${s.sample || 0}건 / 30건) — 수치는 참고만`;
+    }
+    $("#c-won").textContent = s.won ?? 0;
+    $("#c-passed").textContent = s.passed ?? 0;
+    $("#c-ratio").textContent = s.ratio_median != null ? (s.ratio_median * 100).toFixed(1) + "%" : "-";
+    $("#c-sample").textContent = s.sample ?? 0;
+    bars($("#m-bars"), s.monthly || []);
+    bars($("#b-bars"), s.bands || []);
+  }
+
+  /* ---------------- 기준표 (costs) ---------------- */
+  function table(el, head, rows) {
+    el.innerHTML = `<table><thead><tr>${head.map((h) => `<th>${esc(h)}</th>`).join("")}</tr></thead>
+      <tbody>${rows.map((r) => `<tr>${r.map((c) =>
+        `<td>${typeof c === "number" ? c.toLocaleString() : esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table>`;
+  }
+
+  function initCosts() {
+    const c = D.costs || {};
+    setMeta(4);
+    table($("#t-base"), ["항목", "값"], [
+      ["취득세율", c.acquisition_tax_rate != null ? (c.acquisition_tax_rate * 100).toFixed(1) + "%" : "-"],
+      ["명도비", c.eviction_cost ?? "-"],
+      ["청소비", c.cleaning_cost ?? "-"],
+      ["기타잡비", c.misc_cost ?? "-"],
+    ]);
+    const g = c.cgt_rates || {};
+    table($("#t-cgt"), ["보유기간", "세율"], [
+      ["1년 미만", g.under_1y != null ? Math.round(g.under_1y * 100) + "%" : "-"],
+      ["1~2년", g["1y_to_2y"] != null ? Math.round(g["1y_to_2y"] * 100) + "%" : "-"],
+      ["2년 이상", g.over_2y != null ? Math.round(g.over_2y * 100) + "%" : "-"],
+    ]);
+  }
+
+  /* ---------------- 도움말 툴팁 (모바일 탭 토글) ---------------- */
+  document.addEventListener("click", (e) => {
+    const h = e.target.closest(".help");
+    document.querySelectorAll(".help.open").forEach((x) => { if (x !== h) x.classList.remove("open"); });
+    if (h) h.classList.toggle("open");
+  });
+
+  /* ---------------- 비용내역 펼침 ---------------- */
+  document.addEventListener("click", (e) => {
+    const l = e.target.closest(".costlink");
+    if (!l) return;
+    const box = l.closest("li") && l.closest("li").querySelector(".costbox");
+    if (box) box.classList.toggle("open");
+  });
+
+  /* ---------------- dispatch ---------------- */
+  const inits = { listings: initListings, results: initResults, stats: initStats, costs: initCosts };
+  const init = inits[document.body.dataset.page];
+  if (init) {
+    try { init(); } catch (e) {
+      const el = $("#list") || $("#meta") || document.body;
+      el.textContent = "데이터 로드 실패 — data/*.js 가 없거나 손상됨";
+    }
+  }
+})();

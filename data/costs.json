@@ -1,0 +1,11 @@
+{
+ "acquisition_tax_rate": 0.011,
+ "eviction_cost": 3000000,
+ "cleaning_cost": 500000,
+ "misc_cost": 1000000,
+ "cgt_rates": {
+  "under_1y": 0.7,
+  "1y_to_2y": 0.6,
+  "over_2y": 0.2
+ }
+}
