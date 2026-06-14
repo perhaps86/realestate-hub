@@ -103,3 +103,17 @@ td:first-child,th:first-child{text-align:left}
   .cards{grid-template-columns:repeat(2,1fr)}
   .tl .line{line-height:1.8}
 }
+
+/* 지역 탭 */
+.rcard{border:1px solid #e5e7eb;border-radius:10px;padding:12px 14px;margin:8px 0;background:#fff}
+.rhead{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.rrank{display:inline-flex;align-items:center;justify-content:center;min-width:26px;height:26px;
+  background:#2563eb;color:#fff;border-radius:50%;font-weight:700;font-size:13px}
+.rsido{font-weight:700;font-size:16px}
+.rscore{margin-left:auto;color:#2563eb;font-weight:700}
+.rbars{display:grid;gap:4px}
+.rbar{display:flex;align-items:center;gap:8px;font-size:12px}
+.rbl{width:84px;color:var(--mut,#64748b);flex:none}
+.rbar-track{flex:1;height:8px;background:#eef2f7;border-radius:4px;overflow:hidden}
+.rbar-fill{display:block;height:100%;background:#2563eb}
+.rbv{width:26px;text-align:right;color:#334155}

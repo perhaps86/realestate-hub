@@ -211,6 +211,43 @@
     ]);
   }
 
+  /* ---------------- 지역 (regions) ---------------- */
+  const R_LABELS = {
+    sale_index: "가격(저평가)", jeonse_ratio: "전세가율",
+    new_supply: "공급여유", unsold: "미분양적음",
+  };
+  const R_ORDER = ["sale_index", "jeonse_ratio", "new_supply", "unsold"];
+
+  function regionRow(it) {
+    const comps = it.components || {};
+    const barHtml = R_ORDER.filter((k) => k in comps).map((k) => {
+      const v = Math.max(0, Math.min(100, comps[k]));
+      return `<div class="rbar"><span class="rbl">${esc(R_LABELS[k])}</span>
+        <span class="rbar-track"><span class="rbar-fill" style="width:${v}%"></span></span>
+        <span class="rbv">${Math.round(v)}</span></div>`;
+    }).join("");
+    return `<div class="rcard">
+      <div class="rhead"><span class="rrank">${esc(it.rank)}</span>
+        <span class="rsido">${esc(it.sido)}</span>
+        <span class="rscore">${(it.total_score ?? 0).toFixed(1)}점</span></div>
+      <div class="rbars">${barHtml}</div></div>`;
+  }
+
+  function initRegions() {
+    const r = D.regions || {};
+    const items = r.items || [];
+    setMeta(items.length);
+    const w = r.weights || {};
+    const wtxt = R_ORDER.filter((k) => (w[k] || 0) > 0)
+      .map((k) => `${R_LABELS[k]} ${Math.round((w[k]) * 100)}%`).join(" · ");
+    $("#basis").textContent = r.ym
+      ? `기준월 ${r.ym.slice(0, 4)}.${r.ym.slice(4, 6)} · 가중치 ${wtxt || "균등"} · ${r.sample ?? "?"}개 시도`
+      : "아직 채점된 데이터가 없습니다 — 정기 실행이 매월 갱신합니다";
+    $("#regions").innerHTML = items.map(regionRow).join("") ||
+      `<div class="empty">데이터 없음</div>`;
+    $("#r-legend").textContent = "※ 각 지표는 17개 시도 내 0~100 정규화(높을수록 유리). 종합점수 = 지표×가중치 합.";
+  }
+
   /* ---------------- 도움말 툴팁 (모바일 탭 토글) ---------------- */
   document.addEventListener("click", (e) => {
     const h = e.target.closest(".help");
@@ -259,7 +296,7 @@
   });
 
   /* ---------------- dispatch ---------------- */
-  const inits = { listings: initListings, results: initResults, stats: initStats, costs: initCosts };
+  const inits = { listings: initListings, results: initResults, stats: initStats, costs: initCosts, regions: initRegions };
   const init = inits[document.body.dataset.page];
   if (init) {
     try { init(); } catch (e) {
