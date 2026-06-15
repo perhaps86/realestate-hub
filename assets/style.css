@@ -106,14 +106,25 @@ td:first-child,th:first-child{text-align:left}
 
 /* 지역 탭 */
 .rcard{border:1px solid #e5e7eb;border-radius:10px;padding:12px 14px;margin:8px 0;background:#fff}
-.rhead{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.rhead{display:flex;align-items:center;gap:10px;margin-bottom:6px}
 .rrank{display:inline-flex;align-items:center;justify-content:center;min-width:26px;height:26px;
   background:#2563eb;color:#fff;border-radius:50%;font-weight:700;font-size:13px}
 .rsido{font-weight:700;font-size:16px}
 .rscore{margin-left:auto;color:#2563eb;font-weight:700}
-.rbars{display:grid;gap:4px}
+.rsub{font-size:12px;color:var(--mut,#64748b);margin:2px 0 4px}
+.rscored{display:grid;gap:4px}
 .rbar{display:flex;align-items:center;gap:8px;font-size:12px}
-.rbl{width:84px;color:var(--mut,#64748b);flex:none}
+.rbl{width:120px;color:#334155;flex:none}
+.rbl b{color:#2563eb;font-weight:700}
 .rbar-track{flex:1;height:8px;background:#eef2f7;border-radius:4px;overflow:hidden}
 .rbar-fill{display:block;height:100%;background:#2563eb}
 .rbv{width:26px;text-align:right;color:#334155}
+.rbar.ctx .rbl{color:#94a3b8}
+.rbar.ctx .rbar-fill{background:#cbd5e1}
+.rbar.ctx .rbv{color:#94a3b8}
+.rdetail-link{display:inline-block;margin-top:8px;font-size:12px;color:#2563eb;cursor:pointer}
+.rdetail{display:none;margin-top:8px;padding-top:8px;border-top:1px dashed #e5e7eb}
+.rdetail.open{display:block}
+.rcontrib{font-size:12px;color:#334155;margin:0 0 4px}
+.rinterp{font-size:12px;color:var(--mut,#64748b);margin:0 0 8px}
+.rctx-label{font-size:11px;color:#94a3b8;margin:6px 0 4px}

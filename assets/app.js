@@ -218,19 +218,50 @@
   };
   const R_ORDER = ["sale_index", "jeonse_ratio", "new_supply", "unsold"];
 
-  function regionRow(it) {
+  const rClamp = (v) => Math.max(0, Math.min(100, Number(v) || 0));
+  const rLevel = (v) => (v >= 66 ? "상위" : v <= 33 ? "하위" : "중간");
+
+  function ctxBar(k, v) {
+    return `<div class="rbar ctx"><span class="rbl">${esc(R_LABELS[k] || k)}</span>
+      <span class="rbar-track"><span class="rbar-fill" style="width:${rClamp(v)}%"></span></span>
+      <span class="rbv">${Math.round(rClamp(v))}</span></div>`;
+  }
+
+  function regionRow(it, weights) {
     const comps = it.components || {};
-    const barHtml = R_ORDER.filter((k) => k in comps).map((k) => {
-      const v = Math.max(0, Math.min(100, comps[k]));
-      return `<div class="rbar"><span class="rbl">${esc(R_LABELS[k])}</span>
+    const scored = R_ORDER.filter((k) => (weights[k] || 0) > 0);
+    const context = R_ORDER.filter((k) => k in comps && !((weights[k] || 0) > 0));
+
+    const scoredHtml = scored.map((k) => {
+      const v = rClamp(comps[k]);
+      return `<div class="rbar scored"><span class="rbl">${esc(R_LABELS[k] || k)} <b>${Math.round(weights[k] * 100)}%</b></span>
         <span class="rbar-track"><span class="rbar-fill" style="width:${v}%"></span></span>
         <span class="rbv">${Math.round(v)}</span></div>`;
     }).join("");
+
+    const contrib = scored.map((k) => {
+      const v = rClamp(comps[k]);
+      return `${R_LABELS[k] || k} ${Math.round(v)}×${Math.round(weights[k] * 100)}% = ${(v * weights[k]).toFixed(1)}`;
+    }).join(" + ") + ` = ${(it.total_score ?? 0).toFixed(1)}점`;
+
+    const interp = scored.map((k) => `${R_LABELS[k] || k} ${rLevel(rClamp(comps[k]))}`).join(" · ");
+
+    const ctxHtml = context.length
+      ? `<div class="rctx-label">참고 지표 (점수 미반영)</div>${context.map((k) => ctxBar(k, comps[k])).join("")}`
+      : "";
+
     return `<div class="rcard">
       <div class="rhead"><span class="rrank">${esc(it.rank)}</span>
         <span class="rsido">${esc(it.sido)}</span>
         <span class="rscore">${(it.total_score ?? 0).toFixed(1)}점</span></div>
-      <div class="rbars">${barHtml}</div></div>`;
+      <div class="rsub">점수 구성</div>
+      <div class="rscored">${scoredHtml}</div>
+      <a class="rdetail-link">▾ 자세히 (왜 이 점수? · 참고 지표)</a>
+      <div class="rdetail">
+        <p class="rcontrib">${esc(contrib)}</p>
+        <p class="rinterp">${esc(interp)}</p>
+        ${ctxHtml}
+      </div></div>`;
   }
 
   function initRegions() {
@@ -239,13 +270,13 @@
     setMeta(items.length);
     const w = r.weights || {};
     const wtxt = R_ORDER.filter((k) => (w[k] || 0) > 0)
-      .map((k) => `${R_LABELS[k]} ${Math.round((w[k]) * 100)}%`).join(" · ");
+      .map((k) => `${R_LABELS[k]} ${Math.round((w[k]) * 100)}%`).join(" + ");
     $("#basis").textContent = r.ym
-      ? `기준월 ${r.ym.slice(0, 4)}.${r.ym.slice(4, 6)} · 가중치 ${wtxt || "균등"} · ${r.sample ?? "?"}개 시도`
+      ? `기준월 ${r.ym.slice(0, 4)}.${r.ym.slice(4, 6)} · 점수 = ${wtxt || "균등"} · ${r.sample ?? "?"}개 시도`
       : "아직 채점된 데이터가 없습니다 — 정기 실행이 매월 갱신합니다";
-    $("#regions").innerHTML = items.map(regionRow).join("") ||
+    $("#regions").innerHTML = items.map((it) => regionRow(it, w)).join("") ||
       `<div class="empty">데이터 없음</div>`;
-    $("#r-legend").textContent = "※ 각 지표는 17개 시도 내 0~100 정규화(높을수록 유리). 종합점수 = 지표×가중치 합.";
+    $("#r-legend").textContent = "※ 각 막대는 17개 시도 내 0~100 정규화(높을수록 유리). 종합점수 = 반영 지표 × 가중치 합.";
   }
 
   /* ---------------- 도움말 툴팁 (모바일 탭 토글) ---------------- */
@@ -260,6 +291,14 @@
     const l = e.target.closest(".costlink");
     if (!l) return;
     const box = l.closest("li") && l.closest("li").querySelector(".costbox");
+    if (box) box.classList.toggle("open");
+  });
+
+  /* ---------------- 지역 자세히 펼침 ---------------- */
+  document.addEventListener("click", (e) => {
+    const l = e.target.closest(".rdetail-link");
+    if (!l) return;
+    const box = l.parentElement && l.parentElement.querySelector(".rdetail");
     if (box) box.classList.toggle("open");
   });
 
