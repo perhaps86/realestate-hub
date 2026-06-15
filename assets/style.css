@@ -128,3 +128,16 @@ td:first-child,th:first-child{text-align:left}
 .rcontrib{font-size:12px;color:#334155;margin:0 0 4px}
 .rinterp{font-size:12px;color:var(--mut,#64748b);margin:0 0 8px}
 .rctx-label{font-size:11px;color:#94a3b8;margin:6px 0 4px}
+
+/* 지역 순위변화 히트맵 */
+.rhist-link{display:inline-block;margin:6px 0;font-size:13px;color:#2563eb;cursor:pointer}
+#r-history{display:none;margin:4px 0 12px}
+#r-history.open{display:block}
+.rh-scroll{overflow-x:auto}
+.rh-table{border-collapse:collapse;font-size:12px;white-space:nowrap}
+.rh-table th,.rh-table td{padding:4px 6px;text-align:center;border:1px solid #f1f5f9;min-width:30px}
+.rh-table th{color:var(--mut,#64748b);font-weight:600;font-size:11px}
+.rh-sido{font-weight:700;text-align:left;position:sticky;left:0;background:#fff}
+.rh-na{color:#cbd5e1}
+.rh-table .up{color:#16a34a;font-weight:700}
+.rh-table .dn{color:#dc2626;font-weight:700}

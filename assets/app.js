@@ -276,7 +276,40 @@
       : "아직 채점된 데이터가 없습니다 — 정기 실행이 매월 갱신합니다";
     $("#regions").innerHTML = items.map((it) => regionRow(it, w)).join("") ||
       `<div class="empty">데이터 없음</div>`;
+    renderHistory(r.history);
     $("#r-legend").textContent = "※ 각 막대는 17개 시도 내 0~100 정규화(높을수록 유리). 종합점수 = 반영 지표 × 가중치 합.";
+  }
+
+  function rankColor(rank, n) {
+    const L = 55 + ((rank - 1) / Math.max(1, n - 1)) * 41;
+    return `background:hsl(217,85%,${L}%);color:${L < 70 ? "#fff" : "#1e293b"}`;
+  }
+
+  function renderHistory(h) {
+    const el = $("#r-history");
+    if (!el) return;
+    const months = (h && h.months) || [];
+    const rows = (h && h.rows) || [];
+    if (!months.length || !rows.length) { el.innerHTML = ""; return; }
+    const n = rows.length;
+    const head = `<th>시도</th>` +
+      months.map((m) => `<th>${esc(m.slice(2, 4))}.${esc(m.slice(4, 6))}</th>`).join("") +
+      `<th>변동</th>`;
+    const body = rows.map((r) => {
+      const cells = r.ranks.map((rk) => rk == null
+        ? `<td class="rh-na">·</td>`
+        : `<td style="${rankColor(rk, n)}">${rk}</td>`).join("");
+      const last = r.ranks[r.ranks.length - 1];
+      const prev = r.ranks[r.ranks.length - 2];
+      let chg = "";
+      if (last != null && prev != null) {
+        const d = prev - last;  // 양수 = 순위 상승
+        chg = d > 0 ? `<span class="up">▲${d}</span>` : d < 0 ? `<span class="dn">▼${-d}</span>` : "–";
+      }
+      return `<tr><td class="rh-sido">${esc(r.sido)}</td>${cells}<td>${chg}</td></tr>`;
+    }).join("");
+    el.innerHTML = `<div class="rh-scroll"><table class="rh-table">
+      <thead><tr>${head}</tr></thead><tbody>${body}</tbody></table></div>`;
   }
 
   /* ---------------- 도움말 툴팁 (모바일 탭 토글) ---------------- */
@@ -300,6 +333,13 @@
     if (!l) return;
     const box = l.parentElement && l.parentElement.querySelector(".rdetail");
     if (box) box.classList.toggle("open");
+  });
+
+  /* ---------------- 지역 순위변화 펼침 ---------------- */
+  document.addEventListener("click", (e) => {
+    if (!e.target.closest("#rhist-toggle")) return;
+    const el = $("#r-history");
+    if (el) el.classList.toggle("open");
   });
 
   /* ---------------- 권리분석 패키지 (로컬 헬퍼 호출) ---------------- */
