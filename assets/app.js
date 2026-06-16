@@ -333,7 +333,7 @@
       const w = (Math.abs(it.spread) / max) * 50;  // 0~50% 폭, 0=중앙
       const side = it.spread >= 0 ? "left:50%" : `right:50%`;
       return `<div class="ro-row ${roClass(it.verdict)}">
-        <span class="ro-sido">${esc(it.sido)}</span>
+        <button type="button" class="ro-sido ro-link" data-sido="${esc(it.sido)}">${esc(it.sido)}</button>
         <span class="ro-bar"><i style="${side};width:${w}%"></i></span>
         <span class="ro-val">${it.spread > 0 ? "+" : ""}${it.spread.toFixed(2)}%p</span>
         <span class="ro-verdict">${esc(it.verdict)}</span>
@@ -342,6 +342,47 @@
     const leg = $("#ro-legend");
     if (leg) leg.textContent = "※ 막대 오른쪽(+)=집주인 유리, 왼쪽(−)=세입자 유리. ±0.5%p 이내는 중립.";
   }
+
+  function openRentOwnModal(sido) {
+    const ro = D.rent_own || {};
+    const years = (ro.series && ro.series[sido]) || [];
+    const title = $("#ro-modal-title");
+    const body = $("#ro-modal-body");
+    if (title) title.textContent = `${sido} · 연도별 전월세 유불리`;
+    if (body) {
+      const rows = years.map((r) => `<tr class="${roClass(r.verdict)}">
+        <td>${esc(r.year)}</td>
+        <td>${r.yield.toFixed(2)}%</td>
+        <td>${r.rate.toFixed(2)}%</td>
+        <td>${r.spread > 0 ? "+" : ""}${r.spread.toFixed(2)}%p</td>
+        <td class="ro-verdict">${esc(r.verdict)}</td></tr>`).join("");
+      body.innerHTML = years.length
+        ? `<table class="ro-modal-table"><thead><tr>
+             <th>연도</th><th>수익률</th><th>주담대금리</th><th>스프레드</th><th>판정</th>
+           </tr></thead><tbody>${rows}</tbody></table>`
+        : `<p class="empty">데이터 없음</p>`;
+    }
+    const m = $("#ro-modal");
+    if (m) { m.hidden = false; const c = m.querySelector(".modal-close"); if (c) c.focus(); }
+  }
+
+  function closeRentOwnModal() {
+    const m = $("#ro-modal");
+    if (m) m.hidden = true;
+  }
+
+  document.addEventListener("click", (e) => {
+    const link = e.target.closest(".ro-link");
+    if (link) { openRentOwnModal(link.dataset.sido); return; }
+    const m = $("#ro-modal");
+    if (!m || m.hidden) return;
+    // 닫기 버튼 또는 오버레이(카드 바깥) 클릭 시 닫기
+    if (e.target.closest(".modal-close") || e.target === m) closeRentOwnModal();
+  });
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeRentOwnModal();
+  });
 
   /* ---------------- 도움말 툴팁 (모바일 탭 토글) ---------------- */
   document.addEventListener("click", (e) => {
