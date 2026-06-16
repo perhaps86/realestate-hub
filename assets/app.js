@@ -277,6 +277,7 @@
     $("#regions").innerHTML = items.map((it) => regionRow(it, w)).join("") ||
       `<div class="empty">데이터 없음</div>`;
     renderHistory(r.history);
+    renderRentOwn(D.rent_own || {});
     $("#r-legend").textContent = "※ 각 막대는 17개 시도 내 0~100 정규화(높을수록 유리). 종합점수 = 반영 지표 × 가중치 합.";
   }
 
@@ -310,6 +311,36 @@
     }).join("");
     el.innerHTML = `<div class="rh-scroll"><table class="rh-table">
       <thead><tr>${head}</tr></thead><tbody>${body}</tbody></table></div>`;
+  }
+
+  // 색상은 Python이 config의 neutral_band로 정한 verdict를 그대로 따른다(임계값 변경 시 자동 일치).
+  function roClass(verdict) {
+    return verdict === "집주인 유리" ? "ro-own"
+      : verdict === "세입자 유리" ? "ro-tenant" : "ro-neutral";
+  }
+
+  function renderRentOwn(ro) {
+    const el = $("#rent-own");
+    if (!el) return;
+    const items = ro.items || [];
+    const basis = $("#ro-basis");
+    if (basis) basis.textContent = ro.ym
+      ? `기준월 ${ro.ym.slice(0, 4)}.${ro.ym.slice(4, 6)} · 주담대금리 ${ro.mortgage_rate}% · 수익률−금리 = 스프레드(%p)`
+      : "아직 데이터가 없습니다";
+    if (!items.length) { el.innerHTML = `<div class="empty">데이터 없음</div>`; return; }
+    const max = Math.max(1, ...items.map((it) => Math.abs(it.spread)));
+    el.innerHTML = items.map((it) => {
+      const w = (Math.abs(it.spread) / max) * 50;  // 0~50% 폭, 0=중앙
+      const side = it.spread >= 0 ? "left:50%" : `right:50%`;
+      return `<div class="ro-row ${roClass(it.verdict)}">
+        <span class="ro-sido">${esc(it.sido)}</span>
+        <span class="ro-bar"><i style="${side};width:${w}%"></i></span>
+        <span class="ro-val">${it.spread > 0 ? "+" : ""}${it.spread.toFixed(2)}%p</span>
+        <span class="ro-verdict">${esc(it.verdict)}</span>
+      </div>`;
+    }).join("");
+    const leg = $("#ro-legend");
+    if (leg) leg.textContent = "※ 막대 오른쪽(+)=집주인 유리, 왼쪽(−)=세입자 유리. ±0.5%p 이내는 중립.";
   }
 
   /* ---------------- 도움말 툴팁 (모바일 탭 토글) ---------------- */

@@ -6,7 +6,7 @@
 <meta name="robots" content="noindex,nofollow">
 <title>지역 — REALESTATE HUB</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🏠</text></svg>">
-<link rel="stylesheet" href="assets/style.css?v=202606160820">
+<link rel="stylesheet" href="assets/style.css?v=202606161042">
 </head>
 <body data-page="regions">
 <nav class="nav"><div class="nav-inner">
@@ -27,9 +27,29 @@
   <div id="r-history"></div>
   <div id="regions"></div>
   <p class="legend" id="r-legend"></p>
+  <!--
+    전월세 유불리(세입자/집주인 지수) = 월세수익률 − 주택담보대출금리 (carry 스프레드, %p).
+    중립 임계값 = ±0.5%p (config의 EcosSettings.neutral_band; 변경 시 백필 재실행 필요).
+      스프레드 > +0.5%p → 집주인 유리 | −0.5 ~ +0.5%p → 중립 | < −0.5%p → 세입자 유리
+  -->
+  <section class="rent-own">
+    <h2>🏠 전월세 유불리 <span class="sub">(세입자/집주인 지수)</span>
+      <span class="help" tabindex="0" role="button" aria-label="설명">?
+        <span class="tip">월세수익률(연 월세÷매매가) − 주택담보대출금리. 집값 예측이 아니라 현재 보유 vs 임차 비용 비교입니다.<br><br>
+        <b>판정 임계값(±0.5%p):</b><br>
+        · 스프레드 &gt; +0.5%p → <b>집주인 유리</b> (월세수익 &gt; 대출이자, 사는 게 이득)<br>
+        · −0.5 ~ +0.5%p → <b>중립</b><br>
+        · &lt; −0.5%p → <b>세입자 유리</b> (월세가 대출이자보다 쌈, 빌리는 게 이득)</span>
+      </span>
+    </h2>
+    <p id="ro-basis" class="basis"></p>
+    <div id="rent-own"></div>
+    <p id="ro-legend" class="legend"></p>
+  </section>
 </main>
-<script src="data/meta.js?v=202606160820"></script>
-<script src="data/regions.js?v=202606160820"></script>
-<script src="assets/app.js?v=202606160820"></script>
+<script src="data/meta.js?v=202606161042"></script>
+<script src="data/regions.js?v=202606161042"></script>
+<script src="data/rent_own.js?v=202606161042"></script>
+<script src="assets/app.js?v=202606161042"></script>
 </body>
 </html>

@@ -141,3 +141,17 @@ td:first-child,th:first-child{text-align:left}
 .rh-na{color:#cbd5e1}
 .rh-table .up{color:#16a34a;font-weight:700}
 .rh-table .dn{color:#dc2626;font-weight:700}
+
+/* 전월세 유불리 섹션 */
+.rent-own{margin-top:1.5rem}
+.ro-row{display:grid;grid-template-columns:3.5rem 1fr 4.5rem 5rem;align-items:center;gap:.4rem;padding:.15rem 0;font-size:.9rem}
+.ro-sido{font-weight:600}
+.ro-bar{position:relative;height:14px;background:#f1f5f9;border-radius:3px}
+.ro-bar::before{content:"";position:absolute;left:50%;top:-2px;bottom:-2px;width:1px;background:#94a3b8}
+.ro-bar i{position:absolute;top:0;bottom:0;border-radius:3px}
+.ro-own .ro-bar i{background:#2563eb}
+.ro-tenant .ro-bar i{background:#dc2626}
+.ro-neutral .ro-bar i{background:#94a3b8}
+.ro-own .ro-verdict{color:#2563eb}
+.ro-tenant .ro-verdict{color:#dc2626}
+.ro-val{text-align:right;font-variant-numeric:tabular-nums}
