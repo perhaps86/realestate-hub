@@ -174,3 +174,23 @@ td:first-child,th:first-child{text-align:left}
 .ro-modal-table th:last-child, .ro-modal-table td:last-child { text-align: left; }
 .ro-modal-table tr.ro-own .ro-verdict { color: #2563eb; }
 .ro-modal-table tr.ro-tenant .ro-verdict { color: #dc2626; }
+
+/* 나의 입찰 — 수익 시뮬 펼침 */
+.simtoggle { font-size: 12px; border: 1px solid var(--line); background: #fafafa;
+  border-radius: 6px; padding: 3px 10px; color: var(--accent); cursor: pointer; margin: 6px 0; }
+.simbox { display: none; margin: 6px 0 2px; padding: 8px 12px;
+  background: var(--accent-bg, #f5f8ff); border-radius: 8px; }
+.simbox.open { display: block; }
+.simbox .line { margin: 2px 0; font-size: 13px; }
+
+/* 나의 입찰 — 내 메모(localStorage) */
+.usermemo { margin: 8px 0 2px; }
+.memo-add, .memo-edit, .memo-del, .memo-save, .memo-cancel {
+  font-size: 12px; border: 1px solid var(--line); background: #fff;
+  border-radius: 6px; padding: 2px 8px; margin-left: 4px; cursor: pointer; color: var(--sub); }
+.memo-add { margin-left: 0; }
+.memo-input { width: 100%; box-sizing: border-box; font: inherit; font-size: 13px;
+  border: 1px solid var(--line); border-radius: 6px; padding: 6px; }
+.memo-btns { margin-top: 4px; }
+.memo-show { font-size: 13px; margin: 4px 0; }
+.memo-text { color: var(--ink, #222); }

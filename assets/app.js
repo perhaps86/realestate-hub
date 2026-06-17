@@ -446,8 +446,112 @@
     }
   });
 
+  /* ---------------- 나의 입찰 (mybids) — 로컬 전용 ---------------- */
+  function bidOutcomeBadge(o) {
+    const cls = (o === "낙찰" || o === "입찰") ? "blue" : o === "패찰" ? "warn" : "";
+    return `<span class="tag ${cls}">${esc(o || "기록")}</span>`;
+  }
+
+  // 물건별 '내 메모' — localStorage(브라우저 단독). 키=물건관리번호(없으면 날짜|제목).
+  const MEMO_PREFIX = "realestate:mybid-memo:";
+  function memoKey(b) { return b.mgmt_no || `${b.date || ""}|${b.title || ""}`; }
+  function getMemo(key) {
+    try { return localStorage.getItem(MEMO_PREFIX + key) || ""; } catch (e) { return ""; }
+  }
+  function setMemo(key, val) {
+    try {
+      const v = (val || "").trim();
+      if (v) localStorage.setItem(MEMO_PREFIX + key, v);
+      else localStorage.removeItem(MEMO_PREFIX + key);
+    } catch (e) { /* 시크릿모드 등 — 조용히 무시 */ }
+  }
+  function memoInner(key, editing) {
+    const val = getMemo(key);
+    if (editing) {
+      return `<textarea class="memo-input" rows="2" placeholder="이 물건에 대한 내 메모">${esc(val)}</textarea>
+        <div class="memo-btns"><button type="button" class="memo-save">저장</button><button type="button" class="memo-cancel">취소</button></div>`;
+    }
+    if (val) {
+      return `<p class="memo-show">📝 <b>내 메모:</b> <span class="memo-text">${esc(val)}</span>` +
+        `<button type="button" class="memo-edit">수정</button><button type="button" class="memo-del">삭제</button></p>`;
+    }
+    return `<button type="button" class="memo-add">✏️ 내 메모 추가</button>`;
+  }
+
+  function simBox(sim) {
+    if (!sim) return "";
+    const ltv = Math.round(sim.loan_ltv * 100);
+    const rate = Math.round(sim.loan_rate * 1000) / 10;
+    const rent = sim.monthly_rent ? `월세 ${won(sim.monthly_rent)}` : "공실";
+    const rows = [
+      `예상시세 ${won(sim.sale_price)} · 대출 ${ltv}%@${rate}% · ${rent}`,
+      `${sim.hold_years}년 보유 → 순수익 <b>${won(sim.net_profit)}</b> · ROI ${pct(sim.roi)}(연 ${pct(sim.roi_annual)})`,
+    ];
+    return `<button type="button" class="simtoggle">📊 수익 시뮬</button>
+      <div class="simbox">${rows.map((r) => `<p class="line">${r}</p>`).join("")}</div>`;
+  }
+
+  function mybidItem(b) {
+    const facts = [];
+    if (b.appraisal != null) facts.push(`감정 ${won(b.appraisal)}`);
+    if (b.min_bid != null) facts.push(`최저 ${won(b.min_bid)}`);
+    if (b.my_bid != null) facts.push(`내입찰 ${won(b.my_bid)}`);
+    if (b.winning_price != null) facts.push(`낙찰 ${won(b.winning_price)}`);
+    const key = memoKey(b);
+    return `<li><span class="date">${esc(b.date || "")}${b.mgmt_no ? " · " + esc(b.mgmt_no) : ""}</span>
+      <h3>${bidOutcomeBadge(b.outcome)} ${esc(b.title || "")}</h3>
+      <p class="line">${facts.join(" · ")}</p>
+      ${b.memo ? `<p class="line sub">📝 ${esc(b.memo)}</p>` : ""}
+      ${simBox(b.sim)}
+      <div class="usermemo" data-key="${esc(key)}">${memoInner(key, false)}</div></li>`;
+  }
+
+  function initBids() {
+    const d = D.mybids || {};
+    const items = d.items || [];
+    setMeta(items.length);
+    const note = $("#note");
+    if (note) {
+      if (d.note) { note.style.display = ""; note.textContent = "📌 " + d.note; }
+      else note.style.display = "none";
+    }
+    $("#list").innerHTML = items.map(mybidItem).join("") ||
+      `<li class="empty">아직 기록된 입찰이 없습니다 — my_bids.yaml에 추가됩니다</li>`;
+  }
+
+  /* 내 메모 추가/수정/삭제 (이벤트 위임) */
+  document.addEventListener("click", (e) => {
+    const region = e.target.closest(".usermemo");
+    if (!region) return;
+    const key = region.dataset.key;
+    const show = (editing) => {
+      region.innerHTML = memoInner(key, editing);
+      if (editing) {
+        const ta = region.querySelector(".memo-input");
+        if (ta) { ta.focus(); ta.setSelectionRange(ta.value.length, ta.value.length); }
+      }
+    };
+    if (e.target.closest(".memo-add") || e.target.closest(".memo-edit")) show(true);
+    else if (e.target.closest(".memo-cancel")) show(false);
+    else if (e.target.closest(".memo-save")) {
+      const ta = region.querySelector(".memo-input");
+      setMemo(key, ta ? ta.value : "");
+      show(false);
+    } else if (e.target.closest(".memo-del")) {
+      if (window.confirm("이 물건의 내 메모를 삭제할까요?")) { setMemo(key, ""); show(false); }
+    }
+  });
+
+  /* 수익 시뮬 펼침 */
+  document.addEventListener("click", (e) => {
+    const t = e.target.closest(".simtoggle");
+    if (!t) return;
+    const box = t.closest("li") && t.closest("li").querySelector(".simbox");
+    if (box) box.classList.toggle("open");
+  });
+
   /* ---------------- dispatch ---------------- */
-  const inits = { listings: initListings, results: initResults, stats: initStats, costs: initCosts, regions: initRegions };
+  const inits = { listings: initListings, results: initResults, stats: initStats, costs: initCosts, regions: initRegions, bids: initBids };
   const init = inits[document.body.dataset.page];
   if (init) {
     try { init(); } catch (e) {
