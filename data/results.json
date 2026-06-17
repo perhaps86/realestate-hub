@@ -16,7 +16,7 @@
   },
   {
    "date": "2026-06-16",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-0500-029745",
    "name": "서울특별시 동작구 상도1동 324-3 다세대주택 상도뜰안애 102호",
    "category": "연립다세대",
@@ -55,6 +55,34 @@
    "winning_price": null,
    "fail_count": 8,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1884198&onbidPbancNo=890122&pbctNo=10067153&pbctCdtnNo=6017723"
+  },
+  {
+   "date": "2026-06-16",
+   "outcome": "마감",
+   "cltr_no": "2023-0100-003590",
+   "name": "서울특별시 양천구 목동 779-21 사과나무힐 제401호 다세대주택",
+   "category": "연립다세대",
+   "sido": "서울특별시",
+   "appraisal_price": 435000000,
+   "min_bid_price": 235000000,
+   "expected_sale_price": 341000000,
+   "winning_price": null,
+   "fail_count": 15,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1646776&onbidPbancNo=886786&pbctNo=10059909&pbctCdtnNo=5975231"
+  },
+  {
+   "date": "2026-06-16",
+   "outcome": "마감",
+   "cltr_no": "2023-0100-003594",
+   "name": "서울특별시 양천구 목동 779-21 사과나무힐 제501호 다세대주택",
+   "category": "연립다세대",
+   "sido": "서울특별시",
+   "appraisal_price": 395000000,
+   "min_bid_price": 198000000,
+   "expected_sale_price": 289000000,
+   "winning_price": null,
+   "fail_count": 15,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1646780&onbidPbancNo=886786&pbctNo=10059909&pbctCdtnNo=5975230"
   },
   {
    "date": "2026-06-12",

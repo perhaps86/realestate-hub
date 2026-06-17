@@ -1,6 +1,6 @@
 {
  "won": 0,
- "passed": 217,
+ "passed": 218,
  "ratio_median": null,
  "monthly": [
   {
@@ -66,7 +66,7 @@
   {
    "label": "2026-06",
    "won": 0,
-   "passed": 3
+   "passed": 4
   }
  ],
  "bands": [
@@ -91,6 +91,6 @@
    "passed": 0
   }
  ],
- "sample": 217,
+ "sample": 218,
  "insufficient": false
 }
