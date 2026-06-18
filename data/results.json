@@ -2,7 +2,7 @@
  "items": [
   {
    "date": "2026-06-17",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0300-002953",
    "name": "서울특별시 관악구 신림동 251-211 다세대주택",
    "category": "연립다세대",
@@ -16,7 +16,7 @@
   },
   {
    "date": "2026-06-17",
-   "outcome": "마감",
+   "outcome": "낙찰",
    "cltr_no": "2026-00001-001",
    "name": "서울특별시 구로구 구로동 공원로 41,  (108번지)  33층 3302호 현대파크빌 (구로동)",
    "category": "아파트",
@@ -24,13 +24,13 @@
    "appraisal_price": 989000000,
    "min_bid_price": 720981000,
    "expected_sale_price": 915000000,
-   "winning_price": null,
+   "winning_price": 787000000,
    "fail_count": 3,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0008&onbidCltrno=1974764&onbidPbancNo=889777&pbctNo=10066325&pbctCdtnNo=6014315"
   },
   {
    "date": "2026-06-17",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-00001-005",
    "name": "서울특별시 도봉구 도봉동 도봉산길 17,  (556-18번지)  (도봉산길 17) 제5층 제501호 우영아파트 (도봉동)",
    "category": "아파트",
@@ -44,7 +44,7 @@
   },
   {
    "date": "2026-06-17",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-00393-003",
    "name": "인천광역시 중구 율목동 245-6 외 1필지 새한빌라 제1동 제2층 제202호",
    "category": "연립다세대",
@@ -58,7 +58,7 @@
   },
   {
    "date": "2026-06-17",
-   "outcome": "마감",
+   "outcome": "낙찰",
    "cltr_no": "2025-10216-001",
    "name": "인천광역시 서구 가좌동 30-86 진주아파트 제307동 제1층 제111호 (공유지분 9분의 1)",
    "category": "아파트",
@@ -66,13 +66,13 @@
    "appraisal_price": 19100000,
    "min_bid_price": 15280000,
    "expected_sale_price": null,
-   "winning_price": null,
+   "winning_price": 16188880,
    "fail_count": 1,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0007&onbidCltrno=1913833&onbidPbancNo=868662&pbctNo=10019594&pbctCdtnNo=5900594"
   },
   {
    "date": "2026-06-17",
-   "outcome": "마감",
+   "outcome": "낙찰",
    "cltr_no": "2025-14297-001",
    "name": "인천광역시 서구 청라동 103-15 청라 호수공원 한신더휴 제591동 제23층 제2302호",
    "category": "아파트",
@@ -80,13 +80,13 @@
    "appraisal_price": 741000000,
    "min_bid_price": 592800000,
    "expected_sale_price": 735000000,
-   "winning_price": null,
+   "winning_price": 651100000,
    "fail_count": 0,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0007&onbidCltrno=1935068&onbidPbancNo=868662&pbctNo=10019594&pbctCdtnNo=5900601"
   },
   {
    "date": "2026-06-17",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-18000-001",
    "name": "인천광역시 연수구 연수동 635 연수1차우성아파트 제104동 제14층 제1401호",
    "category": "아파트",
@@ -492,7 +492,7 @@
   },
   {
    "date": "2026-06-08",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0500-025823",
    "name": "경기도 고양시 일산동구 문봉동 209-36 제1동 제4층 402호 다세대주택",
    "category": "연립다세대",

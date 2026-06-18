@@ -182,6 +182,8 @@ td:first-child,th:first-child{text-align:left}
   background: var(--accent-bg, #f5f8ff); border-radius: 8px; }
 .simbox.open { display: block; }
 .simbox .line { margin: 2px 0; font-size: 13px; }
+.review-list { margin: 0; padding-left: 18px; }
+.review-list li { font-size: 13px; line-height: 1.5; margin: 2px 0; }
 
 /* 나의 입찰 — 내 메모(localStorage) */
 .usermemo { margin: 8px 0 2px; }

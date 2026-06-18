@@ -24,9 +24,10 @@
   }
 
   /* ---------------- 진행중 (listings) ---------------- */
-  const LF = { region: "전체", cat: "전체", disc15: false, exact: false, fail2: false, soon: false, q: "" };
+  const LF = { source: "전체", region: "전체", cat: "전체", disc15: false, exact: false, fail2: false, soon: false, q: "" };
 
   function listingVisible(it) {
+    if (LF.source !== "전체" && (it.source || "onbid") !== LF.source) return false;
     if (LF.region !== "전체" && it.sido !== LF.region) return false;
     if (LF.cat !== "전체" && it.category !== LF.cat) return false;
     if (LF.disc15 && !(it.discount_market >= 0.15)) return false;
@@ -46,6 +47,7 @@
   function listingItem(it) {
     const tags = [];
     if (it.category) tags.push(`<span class="tag blue">${esc(it.category)}</span>`);
+    if ((it.source || "onbid") === "court") tags.push(`<span class="tag">법원경매</span>`);
     if (it.match_quality === "approx") tags.push(`<span class="tag warn">⚠시세 approx(동 단위)</span>`);
     if (it.deep_discount)
       tags.push(`<span class="tag warn">⚠극단저감(최저가&lt;감정가 30%) — 권리분석 필수</span>`);
@@ -71,14 +73,17 @@
       </tbody></table>
       <p class="note">※ 양도세 제외 세전 기준 — 보유기간별 세후 수치는 엑셀 입찰가산정 시트에서</p>
     </div>`;
+    const isCourt = (it.source || "onbid") === "court";
+    const detailLabel = isCourt ? "법원경매 상세(서류)" : "온비드 상세";
+    const rightsLink = isCourt ? "" : `<a class="rightslink" data-cltr="${esc(it.cltr_no)}">권리분석</a>`;
     return `<li><span class="date">${esc(closeLabel(it.bid_close_at))}</span>
       <h3>${title}</h3><p class="line">${line}</p>
       <div class="tags">${tags.join("")}</div>
       <p class="src">${esc(it.address || "")}
-        <a href="${esc(it.detail_url)}" target="_blank" rel="noopener">온비드 상세</a>${
+        <a href="${esc(it.detail_url)}" target="_blank" rel="noopener">${detailLabel}</a>${
         it.market_url ? ` <a href="${esc(it.market_url)}" target="_blank" rel="noopener">시세 검색</a>` : ""}
         <a class="costlink">비용내역</a>
-        <a class="rightslink" data-cltr="${esc(it.cltr_no)}">권리분석</a></p>${costBox}</li>`;
+        ${rightsLink}</p>${costBox}</li>`;
   }
 
   function renderListings() {
@@ -491,6 +496,13 @@
       <div class="simbox">${rows.map((r) => `<p class="line">${r}</p>`).join("")}</div>`;
   }
 
+  function reviewBox(review) {
+    if (!Array.isArray(review) || !review.length) return "";
+    const items = review.map((r) => `<li>${esc(r)}</li>`).join("");
+    return `<button type="button" class="simtoggle reviewtoggle">🧭 복기·개선점</button>
+      <div class="simbox reviewbox"><ul class="review-list">${items}</ul></div>`;
+  }
+
   function mybidItem(b) {
     const facts = [];
     if (b.appraisal != null) facts.push(`감정 ${won(b.appraisal)}`);
@@ -503,6 +515,7 @@
       <p class="line">${facts.join(" · ")}</p>
       ${b.memo ? `<p class="line sub">📝 ${esc(b.memo)}</p>` : ""}
       ${simBox(b.sim)}
+      ${reviewBox(b.review)}
       <div class="usermemo" data-key="${esc(key)}">${memoInner(key, false)}</div></li>`;
   }
 
@@ -546,8 +559,8 @@
   document.addEventListener("click", (e) => {
     const t = e.target.closest(".simtoggle");
     if (!t) return;
-    const box = t.closest("li") && t.closest("li").querySelector(".simbox");
-    if (box) box.classList.toggle("open");
+    const box = t.nextElementSibling;   // 토글 바로 뒤의 .simbox (시뮬·복기 각각)
+    if (box && box.classList.contains("simbox")) box.classList.toggle("open");
   });
 
   /* ---------------- dispatch ---------------- */
