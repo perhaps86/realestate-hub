@@ -52,8 +52,6 @@ h2{font-size:18px;margin:34px 0 10px}
 .tag.warn{color:var(--warn);border-color:var(--warn-line);background:var(--warn-bg)}
 .src{color:var(--mut);font-size:13px}
 .src a{margin-left:8px}
-details.lowsample{margin-top:14px}
-details.lowsample summary{cursor:pointer;color:var(--mut);font-size:14px;padding:8px 0}
 
 /* 통계 */
 .banner{background:var(--warn-bg);border:1px solid var(--warn-line);color:var(--warn);

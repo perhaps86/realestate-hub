@@ -88,15 +88,11 @@
 
   function renderListings() {
     const all = (D.listings && D.listings.items) || [];
-    const vis = all.filter((i) => !i.low_sample).filter(listingVisible);
-    const low = all.filter((i) => i.low_sample).filter(listingVisible);
+    // 수도권(시세 있음)+지방(시세 미산출)을 한 목록에 통합 — 데이터가 이미 입찰 마감일 순.
+    const vis = all.filter(listingVisible);
     $("#list").innerHTML = vis.map(listingItem).join("") ||
       `<li class="empty">조건에 맞는 물건이 없습니다</li>`;
     $("#count").textContent = `${vis.length}건`;
-    const wrap = $("#low-wrap");
-    wrap.style.display = low.length ? "" : "none";
-    $("#low-sum").textContent = `시세 미산출 ${low.length}건 — 실거래 표본 부족(메리트 순)`;
-    $("#low-list").innerHTML = low.map(listingItem).join("");
   }
 
   function initListings() {
@@ -294,12 +290,12 @@
   function renderHistory(h) {
     const el = $("#r-history");
     if (!el) return;
-    const months = (h && h.months) || [];
+    const years = (h && h.years) || [];
     const rows = (h && h.rows) || [];
-    if (!months.length || !rows.length) { el.innerHTML = ""; return; }
+    if (!years.length || !rows.length) { el.innerHTML = ""; return; }
     const n = rows.length;
     const head = `<th>시도</th>` +
-      months.map((m) => `<th>${esc(m.slice(2, 4))}.${esc(m.slice(4, 6))}</th>`).join("") +
+      years.map((y) => `<th>${esc(y)}</th>`).join("") +
       `<th>변동</th>`;
     const body = rows.map((r) => {
       const cells = r.ranks.map((rk) => rk == null
