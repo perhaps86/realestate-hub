@@ -81,7 +81,7 @@
       <div class="tags">${tags.join("")}</div>
       <p class="src">${esc(it.address || "")}
         <a href="${esc(it.detail_url)}" target="_blank" rel="noopener">${detailLabel}</a>${
-        it.market_url ? ` <a href="${esc(it.market_url)}" target="_blank" rel="noopener">시세 검색</a>` : ""}
+        it.market_url ? ` <a href="${esc(it.market_url)}" target="_blank" rel="noopener">시세 검색${it.market_pyeong ? ` (${esc(it.market_pyeong)})` : ""}</a>` : ""}
         <a class="costlink">비용내역</a>
         ${rightsLink}</p>${costBox}</li>`;
   }
