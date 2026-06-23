@@ -1,6 +1,6 @@
 {
  "won": 3,
- "passed": 314,
+ "passed": 398,
  "ratio_median": 0.8729798148767705,
  "monthly": [
   {
@@ -66,14 +66,14 @@
   {
    "label": "2026-06",
    "won": 3,
-   "passed": 99
+   "passed": 183
   }
  ],
  "bands": [
   {
    "label": "10%미만",
    "won": 0,
-   "passed": 5
+   "passed": 17
   },
   {
    "label": "10~20%",
@@ -91,6 +91,6 @@
    "passed": 2
   }
  ],
- "sample": 317,
+ "sample": 401,
  "insufficient": false
 }
