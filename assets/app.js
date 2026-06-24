@@ -24,20 +24,15 @@
   }
 
   /* ---------------- 진행중 (listings) ---------------- */
-  const LF = { source: "전체", region: "전체", cat: "전체", disc15: false, exact: false, fail2: false, soon: false, q: "" };
+  const LF = { source: "전체", region: "전체", cat: "전체", seizure: false, apr4: false, fail2: false, q: "" };
 
   function listingVisible(it) {
     if (LF.source !== "전체" && (it.source || "onbid") !== LF.source) return false;
     if (LF.region !== "전체" && it.sido !== LF.region) return false;
     if (LF.cat !== "전체" && it.category !== LF.cat) return false;
-    if (LF.disc15 && !(it.discount_market >= 0.15)) return false;
-    if (LF.exact && it.match_quality !== "exact") return false;
+    if (LF.seizure && !it.is_seizure) return false;
+    if (LF.apr4 && !((it.appraisal_price || 0) >= 400000000)) return false;
     if (LF.fail2 && !((it.fail_count || 0) >= 2)) return false;
-    if (LF.soon) {
-      if (!it.bid_close_at) return false;
-      const left = new Date(it.bid_close_at).getTime() - Date.now();
-      if (left < 0 || left > 86400000) return false;
-    }
     if (LF.q && !`${it.name || ""} ${it.address || ""}`.toLowerCase().includes(LF.q)) return false;
     return true;
   }
