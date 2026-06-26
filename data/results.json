@@ -1,8 +1,386 @@
 {
  "items": [
   {
-   "date": "2026-06-25",
+   "date": "2026-06-26",
    "outcome": "마감",
+   "cltr_no": "2026-0500-028523",
+   "name": "인천광역시 남동구 간석동 771-26 가동 301호 다세대주택",
+   "category": "연립다세대",
+   "sido": "인천광역시",
+   "appraisal_price": 140000000,
+   "min_bid_price": 82800000,
+   "expected_sale_price": 291730000,
+   "winning_price": null,
+   "fail_count": 5,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2018061&onbidPbancNo=889543&pbctNo=10065801&pbctCdtnNo=6013211"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2021-0100-000547",
+   "name": "부산광역시 기장군 일광면 삼성리 35-2 해찬솔 1501호 아파트",
+   "category": "아파트",
+   "sido": "부산광역시",
+   "appraisal_price": 380000000,
+   "min_bid_price": 353200000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 12,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1489795&onbidPbancNo=881444&pbctNo=10049897&pbctCdtnNo=5921497"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "유찰",
+   "cltr_no": "2026-0600-031935",
+   "name": "부산광역시 북구 화명동 2342 화명플리체비스타동원 106동 403호 아파트",
+   "category": "아파트",
+   "sido": "부산광역시",
+   "appraisal_price": 4225000000,
+   "min_bid_price": 3802500000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 1,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2024112&onbidPbancNo=891607&pbctNo=10070337&pbctCdtnNo=6036815"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-026701",
+   "name": "부산광역시 사하구 다대동 869 401호 다세대주택",
+   "category": "연립다세대",
+   "sido": "부산광역시",
+   "appraisal_price": 129000000,
+   "min_bid_price": 86300000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 6,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2014066&onbidPbancNo=887905&pbctNo=10062299&pbctCdtnNo=5991702"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0600-029746",
+   "name": "충청남도 천안시 서북구 저리 252 저리보금자리아파트 제101동 제5층 제524호 아파트",
+   "category": "아파트",
+   "sido": "충청남도",
+   "appraisal_price": 46000000,
+   "min_bid_price": 48100000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2020180&onbidPbancNo=889932&pbctNo=10067303&pbctCdtnNo=6018424"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0600-031900",
+   "name": "전라남도 여수시 봉산동 751-1 이노하임빌리지 203호 연립주택",
+   "category": "연립다세대",
+   "sido": "전라남도",
+   "appraisal_price": 234000000,
+   "min_bid_price": 250300000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 1,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2024045&onbidPbancNo=891476&pbctNo=10070050&pbctCdtnNo=6035566"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0600-031901",
+   "name": "전라남도 여수시 봉산동 751-1 이노하임빌리지 103호 연립주택",
+   "category": "연립다세대",
+   "sido": "전라남도",
+   "appraisal_price": 229000000,
+   "min_bid_price": 244800000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 1,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2024046&onbidPbancNo=891476&pbctNo=10070050&pbctCdtnNo=6035567"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0600-031902",
+   "name": "전라남도 여수시 봉산동 751-1 이노하임빌리지 102호 연립주택",
+   "category": "연립다세대",
+   "sido": "전라남도",
+   "appraisal_price": 229000000,
+   "min_bid_price": 244800000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 1,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2024047&onbidPbancNo=891476&pbctNo=10070050&pbctCdtnNo=6035568"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-027744",
+   "name": "경상남도 거창군 거창읍 대동리 571 나리안길 제107동 제12층 1303호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 587000000,
+   "min_bid_price": 541200000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016291&onbidPbancNo=888618&pbctNo=10063773&pbctCdtnNo=5997787"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-027745",
+   "name": "경상남도 거창군 거창읍 대동리 571 나리안길 제107동 제11층 1202호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 333500000,
+   "min_bid_price": 286000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016292&onbidPbancNo=888618&pbctNo=10063773&pbctCdtnNo=5997786"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-027746",
+   "name": "경상남도 거창군 거창읍 대동리 571 나리안길 제107동 제11층 1201호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 572000000,
+   "min_bid_price": 527400000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016293&onbidPbancNo=888618&pbctNo=10063773&pbctCdtnNo=5997785"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-027747",
+   "name": "경상남도 거창군 거창읍 대동리 571 나리안길 제107동 제10층 1106호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 584000000,
+   "min_bid_price": 538500000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016294&onbidPbancNo=888618&pbctNo=10063773&pbctCdtnNo=5997784"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-027748",
+   "name": "경상남도 거창군 거창읍 대동리 571 나리안길 제107동 제8층 905호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 584000000,
+   "min_bid_price": 538500000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016295&onbidPbancNo=888618&pbctNo=10063773&pbctCdtnNo=5997783"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-027749",
+   "name": "경상남도 거창군 거창읍 대동리 571 나리안길 제107동 제6층 702호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 332000000,
+   "min_bid_price": 284700000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016296&onbidPbancNo=888618&pbctNo=10063773&pbctCdtnNo=5997782"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-027750",
+   "name": "경상남도 거창군 거창읍 대동리 571 나리안길 제107동 제5층 601호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 332000000,
+   "min_bid_price": 284700000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016297&onbidPbancNo=888618&pbctNo=10063773&pbctCdtnNo=5997781"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-027751",
+   "name": "경상남도 거창군 거창읍 대동리 571 나리안길 제107동 제4층 502호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 328500000,
+   "min_bid_price": 281700000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016298&onbidPbancNo=888618&pbctNo=10063773&pbctCdtnNo=5997780"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-027752",
+   "name": "경상남도 거창군 거창읍 대동리 571 나리안길 제107동 제3층 303호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 328500000,
+   "min_bid_price": 281700000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016299&onbidPbancNo=888618&pbctNo=10063773&pbctCdtnNo=5997779"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-027753",
+   "name": "경상남도 거창군 거창읍 대동리 571 나리안길 제107동 제3층 302호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 326500000,
+   "min_bid_price": 280000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016300&onbidPbancNo=888618&pbctNo=10063773&pbctCdtnNo=5997778"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-027754",
+   "name": "경상남도 거창군 거창읍 대동리 571 나리안길 제107동 제2층 205호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 324000000,
+   "min_bid_price": 277800000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016301&onbidPbancNo=888618&pbctNo=10063773&pbctCdtnNo=5997777"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2026-0500-027755",
+   "name": "경상남도 거창군 거창읍 대동리 571 나리안길 제107동 제2층 202호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 323000000,
+   "min_bid_price": 277000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016302&onbidPbancNo=888618&pbctNo=10063773&pbctCdtnNo=5997776"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2023-1000-059360",
+   "name": "경상남도 진주시 명석면 우수리 102-1 2층 201호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 247000000,
+   "min_bid_price": 259000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 15,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1716698&onbidPbancNo=892082&pbctNo=10071299&pbctCdtnNo=6038468"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2023-1000-059362",
+   "name": "경상남도 진주시 명석면 우수리 102-1 2층 203호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 246000000,
+   "min_bid_price": 258000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 15,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1716700&onbidPbancNo=892082&pbctNo=10071299&pbctCdtnNo=6038475"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2023-1000-059369",
+   "name": "경상남도 진주시 명석면 우수리 102-1 4층 401호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 247000000,
+   "min_bid_price": 259000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 15,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1716714&onbidPbancNo=892082&pbctNo=10071299&pbctCdtnNo=6038482"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2023-1000-059370",
+   "name": "경상남도 진주시 명석면 우수리 102-1 4층 402호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 246000000,
+   "min_bid_price": 258000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 15,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1716716&onbidPbancNo=892082&pbctNo=10071299&pbctCdtnNo=6038489"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2023-1000-059425",
+   "name": "경상남도 진주시 명석면 우수리 102-1 6층 604호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 233000000,
+   "min_bid_price": 244000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 15,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1716798&onbidPbancNo=892082&pbctNo=10071299&pbctCdtnNo=6038497"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2023-1000-059428",
+   "name": "경상남도 진주시 명석면 우수리 102-1 7층 702호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 248000000,
+   "min_bid_price": 260000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 15,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1716801&onbidPbancNo=892082&pbctNo=10071299&pbctCdtnNo=6038504"
+  },
+  {
+   "date": "2026-06-26",
+   "outcome": "마감",
+   "cltr_no": "2023-1000-059457",
+   "name": "경상남도 진주시 명석면 우수리 102-1 10층 1001호 아파트",
+   "category": "아파트",
+   "sido": "경상남도",
+   "appraisal_price": 244000000,
+   "min_bid_price": 256000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 15,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1716834&onbidPbancNo=892082&pbctNo=10071299&pbctCdtnNo=6038511"
+  },
+  {
+   "date": "2026-06-25",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-031580",
    "name": "인천광역시 강화군 선원면 신정리 345-1 세원오션뷰캐슬 제1동 제101호 외 21개호실 다세대주택",
    "category": "연립다세대",
@@ -72,7 +450,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2024-1000-081303",
    "name": "인천광역시 서구 가좌동 114-89 신동아홈타운1차 2동 501호 다세대주택",
    "category": "연립다세대",
@@ -142,7 +520,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0500-028381",
    "name": "인천광역시 서구 마전동 1126-5 형우이즈뷰 제3동 제4층 제402호 다세대주택",
    "category": "연립다세대",
@@ -156,7 +534,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030156",
    "name": "인천광역시 남동구 간석동 316-3 센트라움 주건축물 제1동 제4층 제101동 405호 다세대주택",
    "category": "연립다세대",
@@ -198,7 +576,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029941",
    "name": "부산광역시 북구 의성로 6, 1104호 아파트",
    "category": "아파트",
@@ -212,7 +590,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029942",
    "name": "부산광역시 북구 의성로 6, 1103호 아파트",
    "category": "아파트",
@@ -226,7 +604,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029945",
    "name": "부산광역시 북구 의성로 6, 1011호 아파트",
    "category": "아파트",
@@ -240,7 +618,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029946",
    "name": "부산광역시 북구 의성로 6, 1010호 아파트",
    "category": "아파트",
@@ -254,7 +632,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029947",
    "name": "부산광역시 북구 의성로 6, 1009호 아파트",
    "category": "아파트",
@@ -268,7 +646,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029948",
    "name": "부산광역시 북구 의성로 6, 1008호 아파트",
    "category": "아파트",
@@ -282,7 +660,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029949",
    "name": "부산광역시 북구 의성로 6, 1007호 아파트",
    "category": "아파트",
@@ -296,7 +674,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029950",
    "name": "부산광역시 북구 의성로 6, 1006호 아파트",
    "category": "아파트",
@@ -310,7 +688,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029951",
    "name": "부산광역시 북구 의성로 6, 1005호 아파트",
    "category": "아파트",
@@ -324,7 +702,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029952",
    "name": "부산광역시 북구 의성로 6, 1004호 아파트",
    "category": "아파트",
@@ -338,7 +716,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029953",
    "name": "부산광역시 북구 의성로 6, 1003호 아파트",
    "category": "아파트",
@@ -352,7 +730,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029956",
    "name": "부산광역시 북구 의성로 6, 911호 아파트",
    "category": "아파트",
@@ -366,7 +744,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029957",
    "name": "부산광역시 북구 의성로 6, 910호 아파트",
    "category": "아파트",
@@ -380,7 +758,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029958",
    "name": "부산광역시 북구 의성로 6, 909호 아파트",
    "category": "아파트",
@@ -394,7 +772,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029959",
    "name": "부산광역시 북구 의성로 6, 908호 아파트",
    "category": "아파트",
@@ -408,7 +786,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029960",
    "name": "부산광역시 북구 의성로 6, 907호 아파트",
    "category": "아파트",
@@ -422,7 +800,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029961",
    "name": "부산광역시 북구 의성로 6, 906호 아파트",
    "category": "아파트",
@@ -436,7 +814,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029962",
    "name": "부산광역시 북구 의성로 6, 905호 아파트",
    "category": "아파트",
@@ -450,7 +828,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029963",
    "name": "부산광역시 북구 의성로 6, 904호 아파트",
    "category": "아파트",
@@ -464,7 +842,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029964",
    "name": "부산광역시 북구 의성로 6, 903호 아파트",
    "category": "아파트",
@@ -478,7 +856,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029967",
    "name": "부산광역시 북구 의성로 6, 811호 아파트",
    "category": "아파트",
@@ -492,7 +870,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029968",
    "name": "부산광역시 북구 의성로 6, 810호 아파트",
    "category": "아파트",
@@ -506,7 +884,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029969",
    "name": "부산광역시 북구 의성로 6, 809호 아파트",
    "category": "아파트",
@@ -520,7 +898,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029970",
    "name": "부산광역시 북구 의성로 6, 808호 아파트",
    "category": "아파트",
@@ -534,7 +912,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029971",
    "name": "부산광역시 북구 의성로 6, 807호 아파트",
    "category": "아파트",
@@ -548,7 +926,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029972",
    "name": "부산광역시 북구 의성로 6, 806호 아파트",
    "category": "아파트",
@@ -562,7 +940,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029973",
    "name": "부산광역시 북구 의성로 6, 805호 아파트",
    "category": "아파트",
@@ -576,7 +954,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029974",
    "name": "부산광역시 북구 의성로 6, 804호 아파트",
    "category": "아파트",
@@ -590,7 +968,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029975",
    "name": "부산광역시 북구 의성로 6, 803호 아파트",
    "category": "아파트",
@@ -604,7 +982,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029978",
    "name": "부산광역시 북구 의성로 6, 710호 아파트",
    "category": "아파트",
@@ -618,7 +996,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029979",
    "name": "부산광역시 북구 의성로 6, 709호 아파트",
    "category": "아파트",
@@ -632,7 +1010,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029980",
    "name": "부산광역시 북구 의성로 6, 708호 아파트",
    "category": "아파트",
@@ -646,7 +1024,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029981",
    "name": "부산광역시 북구 의성로 6, 707호 아파트",
    "category": "아파트",
@@ -660,7 +1038,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029982",
    "name": "부산광역시 북구 의성로 6, 706호 아파트",
    "category": "아파트",
@@ -674,7 +1052,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029983",
    "name": "부산광역시 북구 의성로 6, 705호 아파트",
    "category": "아파트",
@@ -688,7 +1066,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029984",
    "name": "부산광역시 북구 의성로 6, 704호 아파트",
    "category": "아파트",
@@ -702,7 +1080,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029985",
    "name": "부산광역시 북구 의성로 6, 703호 아파트",
    "category": "아파트",
@@ -716,7 +1094,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029989",
    "name": "부산광역시 북구 의성로 6, 610호 아파트",
    "category": "아파트",
@@ -730,7 +1108,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029990",
    "name": "부산광역시 북구 의성로 6, 609호 아파트",
    "category": "아파트",
@@ -744,7 +1122,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029991",
    "name": "부산광역시 북구 의성로 6, 608호 아파트",
    "category": "아파트",
@@ -758,7 +1136,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029992",
    "name": "부산광역시 북구 의성로 6, 607호 아파트",
    "category": "아파트",
@@ -772,7 +1150,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029993",
    "name": "부산광역시 북구 의성로 6, 606호 아파트",
    "category": "아파트",
@@ -786,7 +1164,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029994",
    "name": "부산광역시 북구 의성로 6, 604호 아파트",
    "category": "아파트",
@@ -800,7 +1178,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029995",
    "name": "부산광역시 북구 의성로 6, 603호 아파트",
    "category": "아파트",
@@ -814,7 +1192,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029998",
    "name": "부산광역시 북구 의성로 6, 510호 아파트",
    "category": "아파트",
@@ -828,7 +1206,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-029999",
    "name": "부산광역시 북구 의성로 6, 509호 아파트",
    "category": "아파트",
@@ -842,7 +1220,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030000",
    "name": "부산광역시 북구 의성로 6, 508호 아파트",
    "category": "아파트",
@@ -856,7 +1234,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030001",
    "name": "부산광역시 북구 의성로 6, 507호 아파트",
    "category": "아파트",
@@ -870,7 +1248,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030002",
    "name": "부산광역시 북구 의성로 6, 506호 아파트",
    "category": "아파트",
@@ -884,7 +1262,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030004",
    "name": "부산광역시 북구 의성로 6, 504호 아파트",
    "category": "아파트",
@@ -898,7 +1276,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030005",
    "name": "부산광역시 북구 의성로 6, 503호 아파트",
    "category": "아파트",
@@ -912,7 +1290,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030009",
    "name": "부산광역시 북구 의성로 6, 410호 아파트",
    "category": "아파트",
@@ -926,7 +1304,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030010",
    "name": "부산광역시 북구 의성로 6, 409호 아파트",
    "category": "아파트",
@@ -940,7 +1318,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030011",
    "name": "부산광역시 북구 의성로 6, 408호 아파트",
    "category": "아파트",
@@ -954,7 +1332,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030012",
    "name": "부산광역시 북구 의성로 6, 407호 아파트",
    "category": "아파트",
@@ -968,7 +1346,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030013",
    "name": "부산광역시 북구 의성로 6, 406호 아파트",
    "category": "아파트",
@@ -982,7 +1360,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030015",
    "name": "부산광역시 북구 의성로 6, 404호 아파트",
    "category": "아파트",
@@ -996,7 +1374,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030016",
    "name": "부산광역시 북구 의성로 6, 403호 아파트",
    "category": "아파트",
@@ -1010,7 +1388,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030020",
    "name": "부산광역시 북구 의성로 6, 310호 아파트",
    "category": "아파트",
@@ -1024,7 +1402,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030021",
    "name": "부산광역시 북구 의성로 6, 309호 아파트",
    "category": "아파트",
@@ -1038,7 +1416,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030022",
    "name": "부산광역시 북구 의성로 6, 308호 아파트",
    "category": "아파트",
@@ -1052,7 +1430,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030023",
    "name": "부산광역시 북구 의성로 6, 307호 아파트",
    "category": "아파트",
@@ -1066,7 +1444,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030024",
    "name": "부산광역시 북구 의성로 6, 306호 아파트",
    "category": "아파트",
@@ -1080,7 +1458,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030026",
    "name": "부산광역시 북구 의성로 6, 304호 아파트",
    "category": "아파트",
@@ -1094,7 +1472,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030027",
    "name": "부산광역시 북구 의성로 6, 303호 아파트",
    "category": "아파트",
@@ -1108,7 +1486,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030031",
    "name": "부산광역시 북구 의성로 6, 210호 아파트",
    "category": "아파트",
@@ -1122,7 +1500,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030032",
    "name": "부산광역시 북구 의성로 6, 209호 아파트",
    "category": "아파트",
@@ -1136,7 +1514,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030033",
    "name": "부산광역시 북구 의성로 6, 208호 아파트",
    "category": "아파트",
@@ -1150,7 +1528,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030034",
    "name": "부산광역시 북구 의성로 6, 207호 아파트",
    "category": "아파트",
@@ -1164,7 +1542,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030035",
    "name": "부산광역시 북구 의성로 6, 206호 아파트",
    "category": "아파트",
@@ -1178,7 +1556,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030037",
    "name": "부산광역시 북구 의성로 6, 204호 아파트",
    "category": "아파트",
@@ -1192,7 +1570,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030038",
    "name": "부산광역시 북구 의성로 6, 203호 아파트",
    "category": "아파트",
@@ -1206,7 +1584,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030041",
    "name": "부산광역시 북구 의성로 6, 1411호 아파트",
    "category": "아파트",
@@ -1220,7 +1598,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030042",
    "name": "부산광역시 북구 의성로 6, 1410호 아파트",
    "category": "아파트",
@@ -1234,7 +1612,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030043",
    "name": "부산광역시 북구 의성로 6, 1409호 아파트",
    "category": "아파트",
@@ -1248,7 +1626,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030044",
    "name": "부산광역시 북구 의성로 6, 1408호 아파트",
    "category": "아파트",
@@ -1262,7 +1640,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030045",
    "name": "부산광역시 북구 의성로 6, 1407호 아파트",
    "category": "아파트",
@@ -1276,7 +1654,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030046",
    "name": "부산광역시 북구 의성로 6, 1405호 아파트",
    "category": "아파트",
@@ -1290,7 +1668,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030047",
    "name": "부산광역시 북구 의성로 6, 1404호 아파트",
    "category": "아파트",
@@ -1304,7 +1682,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030048",
    "name": "부산광역시 북구 의성로 6, 1403호 아파트",
    "category": "아파트",
@@ -1318,7 +1696,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030051",
    "name": "부산광역시 북구 의성로 6, 1311호 아파트",
    "category": "아파트",
@@ -1332,7 +1710,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030052",
    "name": "부산광역시 북구 의성로 6, 1310호 아파트",
    "category": "아파트",
@@ -1346,7 +1724,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030053",
    "name": "부산광역시 북구 의성로 6, 1309호 아파트",
    "category": "아파트",
@@ -1360,7 +1738,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030054",
    "name": "부산광역시 북구 의성로 6, 1308호 아파트",
    "category": "아파트",
@@ -1374,7 +1752,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030055",
    "name": "부산광역시 북구 의성로 6, 1307호 아파트",
    "category": "아파트",
@@ -1388,7 +1766,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030056",
    "name": "부산광역시 북구 의성로 6, 1306호 아파트",
    "category": "아파트",
@@ -1402,7 +1780,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030057",
    "name": "부산광역시 북구 의성로 6, 1305호 아파트",
    "category": "아파트",
@@ -1416,7 +1794,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030058",
    "name": "부산광역시 북구 의성로 6, 1304호 아파트",
    "category": "아파트",
@@ -1430,7 +1808,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030059",
    "name": "부산광역시 북구 의성로 6, 1303호 아파트",
    "category": "아파트",
@@ -1444,7 +1822,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030062",
    "name": "부산광역시 북구 의성로 6, 1211호 아파트",
    "category": "아파트",
@@ -1458,7 +1836,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030063",
    "name": "부산광역시 북구 의성로 6, 1210호 아파트",
    "category": "아파트",
@@ -1472,7 +1850,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030064",
    "name": "부산광역시 북구 의성로 6, 1209호 아파트",
    "category": "아파트",
@@ -1486,7 +1864,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030065",
    "name": "부산광역시 북구 의성로 6, 1208호 아파트",
    "category": "아파트",
@@ -1500,7 +1878,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030066",
    "name": "부산광역시 북구 의성로 6, 1207호 아파트",
    "category": "아파트",
@@ -1514,7 +1892,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030067",
    "name": "부산광역시 북구 의성로 6, 1204호 아파트",
    "category": "아파트",
@@ -1528,7 +1906,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030068",
    "name": "부산광역시 북구 의성로 6, 1203호 아파트",
    "category": "아파트",
@@ -1542,7 +1920,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030071",
    "name": "부산광역시 북구 의성로 6, 1111호 아파트",
    "category": "아파트",
@@ -1556,7 +1934,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030072",
    "name": "부산광역시 북구 의성로 6, 1110호 아파트",
    "category": "아파트",
@@ -1570,7 +1948,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030073",
    "name": "부산광역시 북구 의성로 6, 1109호 아파트",
    "category": "아파트",
@@ -1584,7 +1962,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030074",
    "name": "부산광역시 북구 의성로 6, 1108호 아파트",
    "category": "아파트",
@@ -1598,7 +1976,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030075",
    "name": "부산광역시 북구 의성로 6, 1107호 아파트",
    "category": "아파트",
@@ -1612,7 +1990,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030076",
    "name": "부산광역시 북구 의성로 6, 1106호 아파트",
    "category": "아파트",
@@ -1626,7 +2004,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-030077",
    "name": "부산광역시 북구 의성로 6, 1105호 아파트",
    "category": "아파트",
@@ -1640,7 +2018,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2022-0200-004821",
    "name": "광주광역시 서구 매월동 450 제101동 제2층 제202호 연립주택",
    "category": "연립다세대",
@@ -1654,7 +2032,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2022-0200-004827",
    "name": "광주광역시 서구 매월동 450 제102동 제1층 제101호 연립주택",
    "category": "연립다세대",
@@ -1668,7 +2046,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2022-0200-004829",
    "name": "광주광역시 서구 매월동 450 제103동 제1층 제101호 연립주택",
    "category": "연립다세대",
@@ -1682,7 +2060,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2022-0200-004830",
    "name": "광주광역시 서구 매월동 450 제103동 제1,2층 제102호 연립주택",
    "category": "연립다세대",
@@ -1696,7 +2074,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-032266",
    "name": "광주광역시 남구 봉선동 1167(봉선로 29) 24층 2404호 봉선유탑메트로시티 아파트",
    "category": "아파트",
@@ -1710,7 +2088,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-032267",
    "name": "광주광역시 남구 봉선동 1167(봉선로 29) 14층 1404호 봉선유탑메트로시티 아파트",
    "category": "아파트",
@@ -1724,7 +2102,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-032268",
    "name": "광주광역시 남구 봉선동 1167(봉선로 29) 21층 2103호 봉선유탑메트로시티 아파트",
    "category": "아파트",
@@ -1738,7 +2116,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-032269",
    "name": "광주광역시 남구 봉선동 1167(봉선로 29) 16층 1603호 봉선유탑메트로시티 아파트",
    "category": "아파트",
@@ -1752,7 +2130,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-032270",
    "name": "광주광역시 남구 봉선동 1167(봉선로 29) 6층 603호 봉선유탑메트로시티 아파트",
    "category": "아파트",
@@ -1766,7 +2144,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-032271",
    "name": "광주광역시 남구 봉선동 1167(봉선로 29) 23층 2302호 봉선유탑메트로시티 아파트",
    "category": "아파트",
@@ -1780,7 +2158,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-032272",
    "name": "광주광역시 남구 봉선동 1167(봉선로 29) 17층 1702호 봉선유탑메트로시티 아파트",
    "category": "아파트",
@@ -1794,7 +2172,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-032273",
    "name": "광주광역시 남구 봉선동 1167(봉선로 29) 15층 1502호 봉선유탑메트로시티 아파트",
    "category": "아파트",
@@ -1808,7 +2186,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0600-032274",
    "name": "광주광역시 남구 봉선동 1167(봉선로 29) 21층 2101호 봉선유탑메트로시티 아파트",
    "category": "아파트",
@@ -1906,7 +2284,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0400-018649",
    "name": "충청남도 천안시 동남구 병천면 가전리 708 부경파크빌 110동 204호 아파트",
    "category": "아파트",
@@ -1920,7 +2298,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0400-018650",
    "name": "충청남도 천안시 동남구 병천면 가전리 708 부경파크빌 110동 203호 아파트",
    "category": "아파트",
@@ -1934,7 +2312,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0400-018651",
    "name": "충청남도 천안시 동남구 병천면 가전리 708 부경파크빌 110동 202호 아파트",
    "category": "아파트",
@@ -1948,7 +2326,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0400-018652",
    "name": "충청남도 천안시 동남구 병천면 가전리 708 부경파크빌 107동 503호 아파트",
    "category": "아파트",
@@ -1962,7 +2340,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0400-018653",
    "name": "충청남도 천안시 동남구 병천면 가전리 708 부경파크빌 101동 503호 아파트",
    "category": "아파트",
@@ -1976,7 +2354,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0400-018654",
    "name": "충청남도 천안시 동남구 병천면 가전리 708 부경파크빌 101동 305호 아파트",
    "category": "아파트",
@@ -1990,7 +2368,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0400-018655",
    "name": "충청남도 천안시 동남구 병천면 가전리 708 부경파크빌 101동 303호 아파트",
    "category": "아파트",
@@ -2004,7 +2382,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0400-018656",
    "name": "충청남도 천안시 동남구 병천면 가전리 708 부경파크빌 101동 205호 아파트",
    "category": "아파트",
@@ -2018,7 +2396,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0400-018657",
    "name": "충청남도 천안시 동남구 병천면 가전리 708 부경파크빌 101동 204호 아파트",
    "category": "아파트",
@@ -2032,7 +2410,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0400-018658",
    "name": "충청남도 천안시 동남구 병천면 가전리 708 부경파크빌 101동 203호 아파트",
    "category": "아파트",
@@ -2046,7 +2424,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0400-018659",
    "name": "충청남도 천안시 동남구 병천면 가전리 708 부경파크빌 101동 105호 아파트",
    "category": "아파트",
@@ -2060,7 +2438,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0400-018660",
    "name": "충청남도 천안시 동남구 병천면 가전리 708 부경파크빌 101동 104호 아파트",
    "category": "아파트",
@@ -2074,7 +2452,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2021-0300-012839",
    "name": "충청남도 태안군 원북면 반계리 229-8 반계크리스탈 씨동 202호 다세대주택",
    "category": "연립다세대",
@@ -2088,7 +2466,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2021-0700-035831",
    "name": "충청남도 태안군 원북면 반계리 229-1 반계크리스탈 이동 402호 다세대주택",
    "category": "연립다세대",
@@ -2102,7 +2480,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0500-025865",
    "name": "제주특별자치도 제주시 한경면 저지리 2877 곶자왈아이파크 제105동 제401호 연립주택",
    "category": "연립다세대",
@@ -2116,7 +2494,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0500-025866",
    "name": "제주특별자치도 제주시 한경면 저지리 2877 곶자왈아이파크 제105동 제302호 연립주택",
    "category": "연립다세대",
@@ -2130,7 +2508,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0500-025867",
    "name": "제주특별자치도 제주시 한경면 저지리 2877 곶자왈아이파크 제105동 제301호 연립주택",
    "category": "연립다세대",
@@ -2144,7 +2522,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0500-025868",
    "name": "제주특별자치도 제주시 한경면 저지리 2877 곶자왈아이파크 제105동 제202호 연립주택",
    "category": "연립다세대",
@@ -2158,7 +2536,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0500-025869",
    "name": "제주특별자치도 제주시 한경면 저지리 2877 곶자왈아이파크 제105동 제103호 연립주택",
    "category": "연립다세대",
@@ -2172,7 +2550,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0500-025870",
    "name": "제주특별자치도 제주시 한경면 저지리 2877 곶자왈아이파크 제105동 제102호 연립주택",
    "category": "연립다세대",
@@ -2186,7 +2564,7 @@
   },
   {
    "date": "2026-06-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0500-025871",
    "name": "제주특별자치도 제주시 한경면 저지리 2877 곶자왈아이파크 제101동 제202호 연립주택",
    "category": "연립다세대",
@@ -2197,6 +2575,20 @@
    "winning_price": null,
    "fail_count": 4,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2012416&onbidPbancNo=887217&pbctNo=10060770&pbctCdtnNo=5987485"
+  },
+  {
+   "date": "2026-06-25",
+   "outcome": "마감",
+   "cltr_no": "2026-0600-033577",
+   "name": "서울특별시 서초구 반포동 85-10 다세대주택",
+   "category": "연립다세대",
+   "sido": "서울특별시",
+   "appraisal_price": 1598000000,
+   "min_bid_price": 1100000000,
+   "expected_sale_price": 1610000000,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2027504&onbidPbancNo=892710&pbctNo=10072855&pbctCdtnNo=6044679"
   },
   {
    "date": "2026-06-24",
@@ -4482,7 +4874,7 @@
   },
   {
    "date": "2026-06-24",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2021-0200-006201",
    "name": "충청남도 태안군 원북면 반계리 229-1 반계크리스탈 이동 301호 다세대주택",
    "category": "연립다세대",
@@ -4608,7 +5000,7 @@
   },
   {
    "date": "2026-06-24",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2024-0800-065255",
    "name": "충청남도 아산시 방축동 136-1 일원 아파트",
    "category": "아파트",
@@ -10527,6 +10919,62 @@
    "winning_price": null,
    "fail_count": 2,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2017110&onbidPbancNo=891260&pbctNo=10069541&pbctCdtnNo=6033814"
+  },
+  {
+   "date": "2026-06-17",
+   "outcome": "마감",
+   "cltr_no": "2022-0300-011301",
+   "name": "경상남도 창원시 마산회원구 내서읍 상곡리 144 내서로뎀타운 연립주택 1~2호라인(201,202,301,302,401,402,501호)",
+   "category": "연립다세대",
+   "sido": "경상남도",
+   "appraisal_price": 1056000000,
+   "min_bid_price": 1020582000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 45,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1584294&onbidPbancNo=889937&pbctNo=10066651&pbctCdtnNo=6015395"
+  },
+  {
+   "date": "2026-06-17",
+   "outcome": "마감",
+   "cltr_no": "2022-0300-011354",
+   "name": "경상남도 창원시 마산회원구 내서읍 상곡리 144 내서로뎀타운 연립주택 3~4호라인(203,204,303,304,403,404,503,504호)",
+   "category": "연립다세대",
+   "sido": "경상남도",
+   "appraisal_price": 1206000000,
+   "min_bid_price": 1210860000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 45,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1584354&onbidPbancNo=889937&pbctNo=10066651&pbctCdtnNo=6015394"
+  },
+  {
+   "date": "2026-06-17",
+   "outcome": "마감",
+   "cltr_no": "2022-0300-011425",
+   "name": "경상남도 창원시 마산회원구 내서읍 상곡리 144 내서로뎀타운 연립주택 5~6호라인(205,206,305,306,405,406,505,506호)",
+   "category": "연립다세대",
+   "sido": "경상남도",
+   "appraisal_price": 1206000000,
+   "min_bid_price": 1210860000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 45,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1584447&onbidPbancNo=889937&pbctNo=10066651&pbctCdtnNo=6015393"
+  },
+  {
+   "date": "2026-06-17",
+   "outcome": "마감",
+   "cltr_no": "2022-0300-011426",
+   "name": "경상남도 창원시 마산회원구 내서읍 상곡리 144 내서로뎀타운 연립주택 7~8호라인(207,208,307,308,407,408,507,508호)",
+   "category": "연립다세대",
+   "sido": "경상남도",
+   "appraisal_price": 1206000000,
+   "min_bid_price": 1210860000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 45,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1584448&onbidPbancNo=889937&pbctNo=10066651&pbctCdtnNo=6015392"
   },
   {
    "date": "2026-06-16",
