@@ -2591,6 +2591,20 @@
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2027504&onbidPbancNo=892710&pbctNo=10072855&pbctCdtnNo=6044679"
   },
   {
+   "date": "2026-06-25",
+   "outcome": "마감",
+   "cltr_no": "2026-0600-030609",
+   "name": "경기도 파주시 동패동 3-1 외2 제에이동 제3층 제301호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경기도",
+   "appraisal_price": 450000000,
+   "min_bid_price": 350000000,
+   "expected_sale_price": 655000000,
+   "winning_price": null,
+   "fail_count": 4,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2021745&onbidPbancNo=890597&pbctNo=10069470&pbctCdtnNo=6033735"
+  },
+  {
    "date": "2026-06-24",
    "outcome": "유찰",
    "cltr_no": "2023-05189-009",
@@ -10978,7 +10992,7 @@
   },
   {
    "date": "2026-06-16",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-0500-029744",
    "name": "서울특별시 동작구 상도1동 324-3 다세대주택 상도뜰안애 101호",
    "category": "연립다세대",
