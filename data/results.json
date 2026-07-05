@@ -393,6 +393,34 @@
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2016302&onbidPbancNo=888618&pbctNo=10063774&pbctCdtnNo=5997788"
   },
   {
+   "date": "2026-07-03",
+   "outcome": "마감",
+   "cltr_no": "2025-0700-051287",
+   "name": "서울특별시 강동구 암사동 433-59 602호 다세대주택",
+   "category": "연립다세대",
+   "sido": "서울특별시",
+   "appraisal_price": 752000000,
+   "min_bid_price": 500000000,
+   "expected_sale_price": 350000000,
+   "winning_price": null,
+   "fail_count": 11,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1911241&onbidPbancNo=892102&pbctNo=10071339&pbctCdtnNo=6038606"
+  },
+  {
+   "date": "2026-07-03",
+   "outcome": "마감",
+   "cltr_no": "2026-0600-031801",
+   "name": "서울특별시 영등포구 신길동 3961-1 제3층 제301호 다세대주택",
+   "category": "연립다세대",
+   "sido": "서울특별시",
+   "appraisal_price": 431000000,
+   "min_bid_price": 270000000,
+   "expected_sale_price": 580000000,
+   "winning_price": null,
+   "fail_count": 6,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2023818&onbidPbancNo=891418&pbctNo=10069819&pbctCdtnNo=6034163"
+  },
+  {
    "date": "2026-07-02",
    "outcome": "유찰",
    "cltr_no": "2025-0600-042964",
@@ -2799,6 +2827,34 @@
    "winning_price": null,
    "fail_count": 12,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1855774&onbidPbancNo=893710&pbctNo=10075283&pbctCdtnNo=6063430"
+  },
+  {
+   "date": "2026-07-02",
+   "outcome": "마감",
+   "cltr_no": "2026-0600-031480",
+   "name": "경기도 광주시 남종면 분원리 119-1 제비동 102호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경기도",
+   "appraisal_price": 251000000,
+   "min_bid_price": 250000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 4,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2023115&onbidPbancNo=891134&pbctNo=10069106&pbctCdtnNo=6024917"
+  },
+  {
+   "date": "2026-07-02",
+   "outcome": "마감",
+   "cltr_no": "2026-0600-031731",
+   "name": "경기도 고양시 덕양구 내유동 265-7 제씨동 제2층 제201호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경기도",
+   "appraisal_price": 200000000,
+   "min_bid_price": 146000000,
+   "expected_sale_price": 130000000,
+   "winning_price": null,
+   "fail_count": 4,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2023711&onbidPbancNo=891596&pbctNo=10070271&pbctCdtnNo=6036696"
   },
   {
    "date": "2026-07-01",
