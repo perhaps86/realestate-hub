@@ -1,6 +1,6 @@
 {
  "won": 95,
- "passed": 3029,
+ "passed": 3034,
  "ratio_median": 0.7628571428571429,
  "monthly": [
   {
@@ -71,7 +71,7 @@
   {
    "label": "2026-07",
    "won": 69,
-   "passed": 1838
+   "passed": 1843
   }
  ],
  "bands": [
@@ -96,6 +96,6 @@
    "passed": 98
   }
  ],
- "sample": 3124,
+ "sample": 3129,
  "insufficient": false
 }
