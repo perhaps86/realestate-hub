@@ -1262,7 +1262,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2023-05189-009",
    "name": "서울특별시 중랑구 망우동 400-14 힐탑2 제2층 제203호",
    "category": "연립다세대",
@@ -1360,7 +1360,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "낙찰",
    "cltr_no": "2026-04564-001",
    "name": "경기도 남양주시 화도읍 묵현리 566-7 미주빌라 제가동 제2층 제201호",
    "category": "연립다세대",
@@ -1368,7 +1368,7 @@
    "appraisal_price": 122000000,
    "min_bid_price": 61000000,
    "expected_sale_price": null,
-   "winning_price": null,
+   "winning_price": 70055000,
    "fail_count": 5,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0007&onbidCltrno=2001544&onbidPbancNo=889090&pbctNo=10055913&pbctCdtnNo=6005498"
   },
@@ -1402,7 +1402,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-03452-001",
    "name": "인천광역시 남동구 구월동 1288-8 제1층 제102호",
    "category": "연립다세대",
@@ -1430,7 +1430,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-09095-001",
    "name": "인천광역시 부평구 십정동 325-9 제지하층 제2호",
    "category": "연립다세대",
@@ -1444,7 +1444,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-15185-001",
    "name": "인천광역시 남동구 간석동 65-2 제1층 제102호",
    "category": "연립다세대",
@@ -1458,7 +1458,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-13067-001",
    "name": "인천광역시 서구 가정동 522-37 외 1필지 중앙하이츠빌 제1동 제4층 제402호",
    "category": "연립다세대",
@@ -1528,7 +1528,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-01492-001",
    "name": "부산광역시 영도구 동삼동 800-9 제2층 제20503호",
    "category": "연립다세대",
@@ -1542,7 +1542,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-03104-001",
    "name": "부산광역시 영도구 동삼동 652-7 해동빌라 1층 102호",
    "category": "연립다세대",
@@ -1598,7 +1598,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2024-15307-001",
    "name": "대구광역시 북구 태전동 277-6 태전프라임타운 제101동 제3층 제301호",
    "category": "연립다세대",
@@ -1612,7 +1612,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-00961-001",
    "name": "대구광역시 남구 대명동 2251-14 제1층 제비호",
    "category": "연립다세대",
@@ -1626,7 +1626,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "낙찰",
    "cltr_no": "2026-06911-001",
    "name": "대구광역시 달서구 상인동 1591 장미아파트 제302동 제7층 제704호",
    "category": "아파트",
@@ -1634,13 +1634,13 @@
    "appraisal_price": 86000000,
    "min_bid_price": 60200000,
    "expected_sale_price": null,
-   "winning_price": null,
+   "winning_price": 61200000,
    "fail_count": 3,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0007&onbidCltrno=2006596&onbidPbancNo=892091&pbctNo=10056061&pbctCdtnNo=6038743"
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-01915-007",
    "name": "울산광역시 북구 천곡동 877-2 외 1필지 북구천곡동아트힐타운하우스주건축물제3동 제지하1층,2층 제비101호",
    "category": "연립다세대",
@@ -1668,7 +1668,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "낙찰",
    "cltr_no": "2026-03621-002",
    "name": "울산광역시 중구 복산동 364-6 골든빌리지 제7층 제702호",
    "category": "아파트",
@@ -1676,7 +1676,7 @@
    "appraisal_price": 279000000,
    "min_bid_price": 195300000,
    "expected_sale_price": null,
-   "winning_price": null,
+   "winning_price": 195350000,
    "fail_count": 3,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0007&onbidCltrno=1997111&onbidPbancNo=891141&pbctNo=10056071&pbctCdtnNo=6025196"
   },
@@ -1738,7 +1738,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "낙찰",
    "cltr_no": "2026-00207-001",
    "name": "충청북도 제천시 신백동 197 외 6필지 제11동 제5층 제512호",
    "category": "아파트",
@@ -1746,7 +1746,7 @@
    "appraisal_price": 44000000,
    "min_bid_price": 13200000,
    "expected_sale_price": null,
-   "winning_price": null,
+   "winning_price": 18879900,
    "fail_count": 3,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0007&onbidCltrno=1967825&onbidPbancNo=887077&pbctNo=10056072&pbctCdtnNo=5986387"
   },
@@ -1836,7 +1836,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-11610-001",
    "name": "충청남도 서천군 장항읍 신창리 96-5 효진아트빌라 제2동 제1층 제102호",
    "category": "연립다세대",
@@ -2452,7 +2452,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2023-04164-039",
    "name": "경상북도 김천시 지좌동 440-86 외 1필지 제가동 제3층 제302호",
    "category": "연립다세대",
@@ -2480,7 +2480,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-05915-001",
    "name": "경상북도 안동시 이천동 564-7 계림해오름빌 제103동 제2층 제202호",
    "category": "연립다세대",
@@ -2508,7 +2508,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-01088-001",
    "name": "경상북도 칠곡군 석적읍 남율리 883 남광하우스토리 제102동 제14층 제1403호",
    "category": "아파트",
@@ -2550,7 +2550,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-00175-001",
    "name": "경상남도 고성군 거류면 용산리 462 용산빌라 제4층 제501호",
    "category": "연립다세대",
@@ -2564,7 +2564,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-07311-001",
    "name": "경상남도 거창군 거창읍 중앙리 394-7 제3층 305호",
    "category": "연립다세대",
@@ -2592,7 +2592,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "낙찰",
    "cltr_no": "2026-03237-001",
    "name": "경상남도 밀양시 삼랑진읍 검세리 814-70 내송 제2동 제2층 제205호",
    "category": "연립다세대",
@@ -2600,13 +2600,13 @@
    "appraisal_price": 51000000,
    "min_bid_price": 15300000,
    "expected_sale_price": null,
-   "winning_price": null,
+   "winning_price": 18500000,
    "fail_count": 0,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0007&onbidCltrno=1998269&onbidPbancNo=887055&pbctNo=10055898&pbctCdtnNo=5984780"
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-15640-001",
    "name": "경상남도 사천시 동금동 56-26 화목주택 제3층 302호",
    "category": "연립다세대",
@@ -2690,7 +2690,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2022-07618-001",
    "name": "서울특별시 강동구 암사동 489-62 외 1필지 암사팰리스 제3층 제301호",
    "category": "연립다세대",
@@ -2886,7 +2886,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-04889-001",
    "name": "인천광역시 강화군 강화읍 용정리 721-24 제2동 제4층 제402호",
    "category": "연립다세대",
@@ -2928,7 +2928,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-07037-002",
    "name": "경기도 양주시 덕계동 614-29 원창맨션 제2층 제202호",
    "category": "연립다세대",
@@ -3292,7 +3292,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-03007-006",
    "name": "서울특별시 서초구 서초동 1675-10 지에스타워주건축물제1동 제지상12층 제1201호",
    "category": "아파트",
@@ -3320,7 +3320,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-08814-001",
    "name": "경기도 광주시 양벌동 343-1 대주파크빌1차씨블럭 제112동 제1층 제103호",
    "category": "아파트",
@@ -3334,7 +3334,7 @@
   },
   {
    "date": "2026-08-26",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-11360-001",
    "name": "경기도 남양주시 와부읍 덕소리 554-1 현대아파트 제109동 제13층 제1301호",
    "category": "아파트",
@@ -4566,7 +4566,7 @@
   },
   {
    "date": "2026-08-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-044428",
    "name": "경기도 파주시 야당동 127-4 3동 102호 다세대주택",
    "category": "연립다세대",
@@ -4580,7 +4580,7 @@
   },
   {
    "date": "2026-08-25",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-044429",
    "name": "경기도 파주시 야당동 127-4 1동 102호 다세대주택",
    "category": "연립다세대",
@@ -30648,7 +30648,7 @@
   },
   {
    "date": "2026-08-05",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0300-006756",
    "name": "경기도 안산시 상록구 본오동 960-17 지웰센트럴 301호 다세대주택",
    "category": "연립다세대",
@@ -103700,7 +103700,7 @@
   },
   {
    "date": "2025-12-31",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-0100-002103",
    "name": "서울특별시 강북구 수유동 473-15 201호 다세대주택",
    "category": "연립다세대",
@@ -103714,7 +103714,7 @@
   },
   {
    "date": "2025-12-31",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-0100-002127",
    "name": "서울특별시 강북구 수유동 473-15 202호 다세대주택",
    "category": "연립다세대",
@@ -103728,7 +103728,7 @@
   },
   {
    "date": "2025-12-31",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-0100-002128",
    "name": "서울특별시 강북구 수유동 473-15 203호 다세대주택",
    "category": "연립다세대",
