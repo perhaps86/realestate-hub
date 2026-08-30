@@ -953,6 +953,20 @@
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2048274&onbidPbancNo=900971&pbctNo=10090835&pbctCdtnNo=6147635"
   },
   {
+   "date": "2026-08-28",
+   "outcome": "마감",
+   "cltr_no": "2026-0800-044410",
+   "name": "인천광역시 서구 마전동 1002-2 마전예뜰채 27세대",
+   "category": "아파트",
+   "sido": "인천광역시",
+   "appraisal_price": 2871000000,
+   "min_bid_price": 2128000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 3,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2048274&onbidPbancNo=900971&pbctNo=10090836&pbctCdtnNo=6147636"
+  },
+  {
    "date": "2026-08-27",
    "outcome": "유찰",
    "cltr_no": "2025-0400-023010",
@@ -2004,7 +2018,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045624",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제8층 제804호 아파트",
    "category": "아파트",
@@ -2018,7 +2032,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045626",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제8층 제802호 아파트",
    "category": "아파트",
@@ -2032,7 +2046,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045627",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제8층 제801호 아파트",
    "category": "아파트",
@@ -2074,7 +2088,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045604",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제4층 제402호 아파트",
    "category": "아파트",
@@ -2088,7 +2102,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045615",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제10층 제1005호 아파트",
    "category": "아파트",
@@ -2102,7 +2116,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045616",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제10층 제1004호 아파트",
    "category": "아파트",
@@ -2116,7 +2130,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045617",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제10층 제1003호 아파트",
    "category": "아파트",
@@ -2130,7 +2144,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045618",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제10층 제1001호 아파트",
    "category": "아파트",
@@ -2144,7 +2158,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045619",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제9층 제905호 아파트",
    "category": "아파트",
@@ -2158,7 +2172,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045620",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제9층 제904호 아파트",
    "category": "아파트",
@@ -2172,7 +2186,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045621",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제9층 제903호 아파트",
    "category": "아파트",
@@ -2186,7 +2200,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045622",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제9층 제901호 아파트",
    "category": "아파트",
@@ -2200,7 +2214,7 @@
   },
   {
    "date": "2026-08-27",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-045623",
    "name": "경상북도 경주시 충효구획1길 53(충효동) 경주웰라움더테라스 제101동 제8층 제805호 아파트",
    "category": "아파트",
@@ -2407,6 +2421,34 @@
    "winning_price": null,
    "fail_count": 2,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2050582&onbidPbancNo=902285&pbctNo=10093446&pbctCdtnNo=6164630"
+  },
+  {
+   "date": "2026-08-27",
+   "outcome": "마감",
+   "cltr_no": "2026-0600-034678",
+   "name": "경기도 구리시 교문동 227-25 501호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경기도",
+   "appraisal_price": 322000000,
+   "min_bid_price": 200000000,
+   "expected_sale_price": 537500000,
+   "winning_price": null,
+   "fail_count": 8,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2030003&onbidPbancNo=897659&pbctNo=10084052&pbctCdtnNo=6112160"
+  },
+  {
+   "date": "2026-08-27",
+   "outcome": "마감",
+   "cltr_no": "2026-0600-034679",
+   "name": "경기도 구리시 교문동 227-25 601호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경기도",
+   "appraisal_price": 322000000,
+   "min_bid_price": 200000000,
+   "expected_sale_price": 537500000,
+   "winning_price": null,
+   "fail_count": 8,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2030004&onbidPbancNo=897659&pbctNo=10084052&pbctCdtnNo=6112161"
   },
   {
    "date": "2026-08-26",
