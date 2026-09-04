@@ -1,6 +1,118 @@
 {
  "items": [
   {
+   "date": "2026-09-04",
+   "outcome": "마감",
+   "cltr_no": "2026-0300-005791",
+   "name": "인천광역시 서구 검암동 637-2 솔빛타운 제2층 제202호 다세대주택",
+   "category": "연립다세대",
+   "sido": "인천광역시",
+   "appraisal_price": 140000000,
+   "min_bid_price": 99300000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 5,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1982165&onbidPbancNo=867489&pbctNo=10033141&pbctCdtnNo=5875159"
+  },
+  {
+   "date": "2026-09-04",
+   "outcome": "마감",
+   "cltr_no": "2025-0400-024641",
+   "name": "인천광역시 남동구 간석동 37-145 201호 다세대주택",
+   "category": "연립다세대",
+   "sido": "인천광역시",
+   "appraisal_price": 68300000,
+   "min_bid_price": 21800000,
+   "expected_sale_price": 90000000,
+   "winning_price": null,
+   "fail_count": 29,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1877480&onbidPbancNo=897574&pbctNo=10083804&pbctCdtnNo=6110731"
+  },
+  {
+   "date": "2026-09-04",
+   "outcome": "마감",
+   "cltr_no": "2026-0600-032443",
+   "name": "경기도 안산시 단원구 선부동 1061-31 501호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경기도",
+   "appraisal_price": 180000000,
+   "min_bid_price": 110000000,
+   "expected_sale_price": 198000000,
+   "winning_price": null,
+   "fail_count": 4,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2025232&onbidPbancNo=891997&pbctNo=10071156&pbctCdtnNo=6038316"
+  },
+  {
+   "date": "2026-09-04",
+   "outcome": "유찰",
+   "cltr_no": "2026-0500-026701",
+   "name": "부산광역시 사하구 다대동 869 401호 다세대주택",
+   "category": "연립다세대",
+   "sido": "부산광역시",
+   "appraisal_price": 129000000,
+   "min_bid_price": 71500000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 13,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2014066&onbidPbancNo=901694&pbctNo=10092133&pbctCdtnNo=6150958"
+  },
+  {
+   "date": "2026-09-04",
+   "outcome": "유찰",
+   "cltr_no": "2025-0400-023010",
+   "name": "경상북도 칠곡군 동명면 기성리 548-1 외 2 아델하임102동 제1층 제101호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경상북도",
+   "appraisal_price": 260000000,
+   "min_bid_price": 261000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 27,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1875493&onbidPbancNo=899920&pbctNo=10088632&pbctCdtnNo=6140174"
+  },
+  {
+   "date": "2026-09-04",
+   "outcome": "유찰",
+   "cltr_no": "2025-0400-023011",
+   "name": "경상북도 칠곡군 동명면 기성리 548-1 외 2 아델하임102동 제2층 제201호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경상북도",
+   "appraisal_price": 260000000,
+   "min_bid_price": 261000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 27,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1875495&onbidPbancNo=899920&pbctNo=10088632&pbctCdtnNo=6140175"
+  },
+  {
+   "date": "2026-09-04",
+   "outcome": "유찰",
+   "cltr_no": "2026-0500-028886",
+   "name": "제주특별자치도 제주시 한경면 낙천리 2401 101동 101호 외 164개호실 아파트",
+   "category": "아파트",
+   "sido": "제주특별자치도",
+   "appraisal_price": 98185000000,
+   "min_bid_price": 63886500000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 9,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2018563&onbidPbancNo=899704&pbctNo=10088006&pbctCdtnNo=6137389"
+  },
+  {
+   "date": "2026-09-04",
+   "outcome": "마감",
+   "cltr_no": "2026-0700-039719",
+   "name": "인천광역시 부평구 부평동 146-6 미주아파트 704호 아파트",
+   "category": "아파트",
+   "sido": "인천광역시",
+   "appraisal_price": null,
+   "min_bid_price": 262600000,
+   "expected_sale_price": 467500000,
+   "winning_price": null,
+   "fail_count": 9,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2040809&onbidPbancNo=897771&pbctNo=10084305&pbctCdtnNo=6112553"
+  },
+  {
    "date": "2026-09-03",
    "outcome": "유찰",
    "cltr_no": "2026-0500-026701",
@@ -16,7 +128,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102423",
    "name": "충청남도 예산군 삽교읍 목리 840 101동 401호 아파트",
    "category": "아파트",
@@ -30,7 +142,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102424",
    "name": "충청남도 예산군 삽교읍 목리 840 101동 403호 아파트",
    "category": "아파트",
@@ -44,7 +156,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102427",
    "name": "충청남도 예산군 삽교읍 목리 840 101동 501호 아파트",
    "category": "아파트",
@@ -58,7 +170,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102428",
    "name": "충청남도 예산군 삽교읍 목리 840 101동 603호 아파트",
    "category": "아파트",
@@ -72,7 +184,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102429",
    "name": "충청남도 예산군 삽교읍 목리 840 101동 702호 아파트",
    "category": "아파트",
@@ -86,7 +198,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102431",
    "name": "충청남도 예산군 삽교읍 목리 840 102동 301호 아파트",
    "category": "아파트",
@@ -100,7 +212,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102434",
    "name": "충청남도 예산군 삽교읍 목리 840 103동 301호 아파트",
    "category": "아파트",
@@ -114,7 +226,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102435",
    "name": "충청남도 예산군 삽교읍 목리 840 103동 302호 아파트",
    "category": "아파트",
@@ -128,7 +240,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102514",
    "name": "충청남도 예산군 삽교읍 목리 840 103동 402호 아파트",
    "category": "아파트",
@@ -142,7 +254,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102515",
    "name": "충청남도 예산군 삽교읍 목리 840 103동 404호 아파트",
    "category": "아파트",
@@ -156,7 +268,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102516",
    "name": "충청남도 예산군 삽교읍 목리 840 103동 602호 아파트",
    "category": "아파트",
@@ -170,7 +282,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102518",
    "name": "충청남도 예산군 삽교읍 목리 840 103동 603호 아파트",
    "category": "아파트",
@@ -184,7 +296,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102598",
    "name": "충청남도 예산군 삽교읍 목리 840 103동 704호 아파트",
    "category": "아파트",
@@ -198,7 +310,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102599",
    "name": "충청남도 예산군 삽교읍 목리 840 104동 101호 아파트",
    "category": "아파트",
@@ -212,7 +324,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102600",
    "name": "충청남도 예산군 삽교읍 목리 840 104동 102호 아파트",
    "category": "아파트",
@@ -226,7 +338,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102601",
    "name": "충청남도 예산군 삽교읍 목리 840 104동 301호 아파트",
    "category": "아파트",
@@ -240,7 +352,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102602",
    "name": "충청남도 예산군 삽교읍 목리 840 104동 302호 아파트",
    "category": "아파트",
@@ -254,7 +366,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102603",
    "name": "충청남도 예산군 삽교읍 목리 840 104동 402호 아파트",
    "category": "아파트",
@@ -268,7 +380,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102669",
    "name": "충청남도 예산군 삽교읍 목리 840 104동 404호 아파트",
    "category": "아파트",
@@ -282,7 +394,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102735",
    "name": "충청남도 예산군 삽교읍 목리 840 104동 601호 아파트",
    "category": "아파트",
@@ -296,7 +408,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102736",
    "name": "충청남도 예산군 삽교읍 목리 840 104동 603호 아파트",
    "category": "아파트",
@@ -310,7 +422,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102737",
    "name": "충청남도 예산군 삽교읍 목리 840 105동 103호 아파트",
    "category": "아파트",
@@ -324,7 +436,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102739",
    "name": "충청남도 예산군 삽교읍 목리 840 105동 502호 아파트",
    "category": "아파트",
@@ -338,7 +450,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102741",
    "name": "충청남도 예산군 삽교읍 목리 840 106동 203호 아파트",
    "category": "아파트",
@@ -352,7 +464,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102742",
    "name": "충청남도 예산군 삽교읍 목리 840 106동 204호 아파트",
    "category": "아파트",
@@ -366,7 +478,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102744",
    "name": "충청남도 예산군 삽교읍 목리 840 106동 301호 아파트",
    "category": "아파트",
@@ -380,7 +492,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102747",
    "name": "충청남도 예산군 삽교읍 목리 840 106동 402호 아파트",
    "category": "아파트",
@@ -394,7 +506,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102749",
    "name": "충청남도 예산군 삽교읍 목리 840 107동 101호 아파트",
    "category": "아파트",
@@ -408,7 +520,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102750",
    "name": "충청남도 예산군 삽교읍 목리 840 107동 203호 아파트",
    "category": "아파트",
@@ -422,7 +534,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102752",
    "name": "충청남도 예산군 삽교읍 목리 840 108동 302호 아파트",
    "category": "아파트",
@@ -436,7 +548,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102821",
    "name": "충청남도 예산군 삽교읍 목리 840 101동 303호 아파트",
    "category": "아파트",
@@ -450,7 +562,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102824",
    "name": "충청남도 예산군 삽교읍 목리 840 101동 503호 아파트",
    "category": "아파트",
@@ -464,7 +576,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102827",
    "name": "충청남도 예산군 삽교읍 목리 840 103동 304호 아파트",
    "category": "아파트",
@@ -478,7 +590,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102829",
    "name": "충청남도 예산군 삽교읍 목리 840 103동 703호 아파트",
    "category": "아파트",
@@ -492,7 +604,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102831",
    "name": "충청남도 예산군 삽교읍 목리 840 104동 204호 아파트",
    "category": "아파트",
@@ -506,7 +618,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102834",
    "name": "충청남도 예산군 삽교읍 목리 840 104동 504호 아파트",
    "category": "아파트",
@@ -520,7 +632,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0200-102837",
    "name": "충청남도 예산군 삽교읍 목리 840 105동 102호 아파트",
    "category": "아파트",
@@ -716,7 +828,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042677",
    "name": "인천광역시 미추홀구 숭의동 121-12 802호 아파트",
    "category": "아파트",
@@ -730,7 +842,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042678",
    "name": "인천광역시 미추홀구 숭의동 121-12 1201호 아파트",
    "category": "아파트",
@@ -744,7 +856,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042719",
    "name": "인천광역시 미추홀구 숭의동 121-12 1402호 아파트",
    "category": "아파트",
@@ -758,7 +870,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2023-0200-009275",
    "name": "인천광역시 미추홀구 도화동 440-3 벨라지오 804호 연립주택",
    "category": "연립다세대",
@@ -772,7 +884,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2023-0200-009284",
    "name": "인천광역시 미추홀구 도화동 440-3 벨라지오 901호 연립주택",
    "category": "연립다세대",
@@ -786,7 +898,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2023-0200-009286",
    "name": "인천광역시 미추홀구 도화동 440-3 벨라지오 904호 연립주택",
    "category": "연립다세대",
@@ -800,7 +912,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042267",
    "name": "충청남도 천안시 동남구 병천면 5산단로 419(가전리 708) 부경파크빌 108동 502호 아파트",
    "category": "아파트",
@@ -814,7 +926,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042268",
    "name": "충청남도 천안시 동남구 병천면 5산단로 419(가전리 708) 부경파크빌 108동 301호 아파트",
    "category": "아파트",
@@ -828,7 +940,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042269",
    "name": "충청남도 천안시 동남구 병천면 5산단로 419(가전리 708) 부경파크빌 108동 204호 아파트",
    "category": "아파트",
@@ -842,7 +954,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042270",
    "name": "충청남도 천안시 동남구 병천면 5산단로 419(가전리 708) 부경파크빌 108동 202호 아파트",
    "category": "아파트",
@@ -856,7 +968,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042271",
    "name": "충청남도 천안시 동남구 병천면 5산단로 419(가전리 708) 부경파크빌 108동 201호 아파트",
    "category": "아파트",
@@ -870,7 +982,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042272",
    "name": "충청남도 천안시 동남구 병천면 5산단로 419(가전리 708) 부경파크빌 104동 506호 아파트",
    "category": "아파트",
@@ -884,7 +996,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042262",
    "name": "제주특별자치도 서귀포시 대정읍 구억리 861-1 리오팰리스 406호 연립주택",
    "category": "연립다세대",
@@ -898,7 +1010,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042263",
    "name": "제주특별자치도 서귀포시 대정읍 구억리 861-1 리오팰리스  405호 연립주택",
    "category": "연립다세대",
@@ -912,7 +1024,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042264",
    "name": "제주특별자치도 서귀포시 대정읍 구억리 861-1 리오팰리스 306호 연립주택",
    "category": "연립다세대",
@@ -926,7 +1038,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042265",
    "name": "제주특별자치도 서귀포시 대정읍 구억리 861-1 리오팰리스  206호 연립주택",
    "category": "연립다세대",
@@ -940,7 +1052,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042266",
    "name": "제주특별자치도 서귀포시 대정읍 구억리 861-1 리오팰리스 106호 연립주택",
    "category": "연립다세대",
@@ -1220,7 +1332,7 @@
   },
   {
    "date": "2026-09-03",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042599",
    "name": "경상남도 밀양시 내이동 720-10 밀성주택(연립주택) 제5동 제3층 제331호",
    "category": "연립다세대",
@@ -4453,6 +4565,34 @@
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2049307&onbidPbancNo=901512&pbctNo=10091766&pbctCdtnNo=6149949"
   },
   {
+   "date": "2026-09-02",
+   "outcome": "마감",
+   "cltr_no": "2026-0700-041593",
+   "name": "서울특별시 강서구 염창동 274-2 1202호 다세대주택",
+   "category": "연립다세대",
+   "sido": "서울특별시",
+   "appraisal_price": null,
+   "min_bid_price": 448000000,
+   "expected_sale_price": 325000000,
+   "winning_price": null,
+   "fail_count": 8,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2043606&onbidPbancNo=898778&pbctNo=10086181&pbctCdtnNo=6121378"
+  },
+  {
+   "date": "2026-09-02",
+   "outcome": "마감",
+   "cltr_no": "2026-0700-041594",
+   "name": "서울특별시 강서구 염창동 274-2 1203호 다세대주택",
+   "category": "연립다세대",
+   "sido": "서울특별시",
+   "appraisal_price": null,
+   "min_bid_price": 448000000,
+   "expected_sale_price": 325000000,
+   "winning_price": null,
+   "fail_count": 8,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2043608&onbidPbancNo=898778&pbctNo=10086181&pbctCdtnNo=6121379"
+  },
+  {
    "date": "2026-09-01",
    "outcome": "유찰",
    "cltr_no": "2025-0400-024641",
@@ -5182,7 +5322,7 @@
   },
   {
    "date": "2026-09-01",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042677",
    "name": "인천광역시 미추홀구 숭의동 121-12 802호 아파트",
    "category": "아파트",
@@ -5196,7 +5336,7 @@
   },
   {
    "date": "2026-09-01",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042678",
    "name": "인천광역시 미추홀구 숭의동 121-12 1201호 아파트",
    "category": "아파트",
@@ -5210,7 +5350,7 @@
   },
   {
    "date": "2026-09-01",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0800-042719",
    "name": "인천광역시 미추홀구 숭의동 121-12 1402호 아파트",
    "category": "아파트",
@@ -5224,7 +5364,7 @@
   },
   {
    "date": "2026-09-01",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2023-0200-009275",
    "name": "인천광역시 미추홀구 도화동 440-3 벨라지오 804호 연립주택",
    "category": "연립다세대",
@@ -5238,7 +5378,7 @@
   },
   {
    "date": "2026-09-01",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2023-0200-009284",
    "name": "인천광역시 미추홀구 도화동 440-3 벨라지오 901호 연립주택",
    "category": "연립다세대",
@@ -5252,7 +5392,7 @@
   },
   {
    "date": "2026-09-01",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2023-0200-009286",
    "name": "인천광역시 미추홀구 도화동 440-3 벨라지오 904호 연립주택",
    "category": "연립다세대",
@@ -65214,7 +65354,7 @@
   },
   {
    "date": "2026-07-08",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2025-06994-002",
    "name": "서울특별시 중랑구 면목동 63-4 2필지 금호빌리지 제2층 제204호",
    "category": "연립다세대",
