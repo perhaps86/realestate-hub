@@ -1345,6 +1345,20 @@
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0013&onbidCltrno=2045273&onbidPbancNo=901040&pbctNo=10091018&pbctCdtnNo=6148025"
   },
   {
+   "date": "2026-09-03",
+   "outcome": "마감",
+   "cltr_no": "2026-0700-037106",
+   "name": "경기도 고양시 덕양구 지축동 766-249 삼송라밀레4동 제4층 제401호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경기도",
+   "appraisal_price": null,
+   "min_bid_price": 295000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 12,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2035386&onbidPbancNo=895519&pbctNo=10079272&pbctCdtnNo=6089574"
+  },
+  {
    "date": "2026-09-02",
    "outcome": "마감",
    "cltr_no": "2025-13629-001",
@@ -4591,6 +4605,20 @@
    "winning_price": null,
    "fail_count": 8,
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2043608&onbidPbancNo=898778&pbctNo=10086181&pbctCdtnNo=6121379"
+  },
+  {
+   "date": "2026-09-02",
+   "outcome": "마감",
+   "cltr_no": "2026-0200-103646",
+   "name": "경기도 파주시 금촌동 422-6 103동 401호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경기도",
+   "appraisal_price": 402000000,
+   "min_bid_price": 190000000,
+   "expected_sale_price": 193500000,
+   "winning_price": null,
+   "fail_count": 27,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1970459&onbidPbancNo=897583&pbctNo=10083761&pbctCdtnNo=6110683"
   },
   {
    "date": "2026-09-01",
