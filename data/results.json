@@ -1359,6 +1359,20 @@
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2050573&onbidPbancNo=904898&pbctNo=10099126&pbctCdtnNo=6195058"
   },
   {
+   "date": "2026-09-10",
+   "outcome": "마감",
+   "cltr_no": "2026-0800-043813",
+   "name": "경기도 성남시 수정구 태평동 6146 낙원스카이뷰2 1004호",
+   "category": "아파트",
+   "sido": "경기도",
+   "appraisal_price": 639000000,
+   "min_bid_price": 450000000,
+   "expected_sale_price": 530000000,
+   "winning_price": null,
+   "fail_count": 6,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2047207&onbidPbancNo=900601&pbctNo=10089973&pbctCdtnNo=6144297"
+  },
+  {
    "date": "2026-09-09",
    "outcome": "유찰",
    "cltr_no": "2023-0800-045311",
@@ -31124,7 +31138,7 @@
   },
   {
    "date": "2026-08-14",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-0700-039156",
    "name": "경상북도 경주시 건천읍 건천리 245-1 프리미엄성보파크 301호 아파트",
    "category": "아파트",
