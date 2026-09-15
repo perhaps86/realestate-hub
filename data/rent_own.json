@@ -1,269 +1,162 @@
 {
  "items": [
   {
-   "sido": "전북",
-   "jeonse_ratio": 78.2393471387764,
-   "conv_rate": 7.1753803912596,
-   "rent_yield": 5.614,
-   "mortgage_rate": 4.36,
-   "spread": 1.254,
+   "sido": "전남",
+   "jeonse_ratio": 78.97234523,
+   "conv_rate": 7.3846153846154,
+   "rent_yield": 5.8318,
+   "mortgage_rate": 4.48,
+   "spread": 1.3518,
    "verdict": "집주인 유리"
   },
   {
-   "sido": "전남",
-   "jeonse_ratio": 79.0646416881498,
-   "conv_rate": 7.0,
-   "rent_yield": 5.5345,
-   "mortgage_rate": 4.36,
-   "spread": 1.1745,
+   "sido": "전북",
+   "jeonse_ratio": 78.29682119,
+   "conv_rate": 7.3684210526316,
+   "rent_yield": 5.7692,
+   "mortgage_rate": 4.48,
+   "spread": 1.2892,
    "verdict": "집주인 유리"
   },
   {
    "sido": "충남",
-   "jeonse_ratio": 77.4733131863798,
+   "jeonse_ratio": 77.63029112,
    "conv_rate": 6.7549668874172,
-   "rent_yield": 5.2333,
-   "mortgage_rate": 4.36,
-   "spread": 0.8733,
+   "rent_yield": 5.2439,
+   "mortgage_rate": 4.48,
+   "spread": 0.7639,
    "verdict": "집주인 유리"
   },
   {
-   "sido": "강원",
-   "jeonse_ratio": 76.7715197988086,
+   "sido": "충북",
+   "jeonse_ratio": 78.61829168,
    "conv_rate": 6.3157894736842,
-   "rent_yield": 4.8487,
-   "mortgage_rate": 4.36,
-   "spread": 0.4887,
+   "rent_yield": 4.9654,
+   "mortgage_rate": 4.48,
+   "spread": 0.4854,
    "verdict": "중립"
   },
   {
    "sido": "경북",
-   "jeonse_ratio": 78.7403438858555,
-   "conv_rate": 6.1569745510927,
-   "rent_yield": 4.848,
-   "mortgage_rate": 4.36,
-   "spread": 0.488,
+   "jeonse_ratio": 78.82171113,
+   "conv_rate": 6.0862674843244,
+   "rent_yield": 4.7973,
+   "mortgage_rate": 4.48,
+   "spread": 0.3173,
    "verdict": "중립"
   },
   {
-   "sido": "충북",
-   "jeonse_ratio": 78.6598846234852,
-   "conv_rate": 6.1269179204529,
-   "rent_yield": 4.8194,
-   "mortgage_rate": 4.36,
-   "spread": 0.4594,
+   "sido": "강원",
+   "jeonse_ratio": 76.78745534,
+   "conv_rate": 6.2283346818308,
+   "rent_yield": 4.7826,
+   "mortgage_rate": 4.48,
+   "spread": 0.3026,
    "verdict": "중립"
   },
   {
    "sido": "울산",
-   "jeonse_ratio": 74.5170628517697,
-   "conv_rate": 6.0,
-   "rent_yield": 4.471,
-   "mortgage_rate": 4.36,
-   "spread": 0.111,
+   "jeonse_ratio": 74.65150432,
+   "conv_rate": 5.9997183884352,
+   "rent_yield": 4.4789,
+   "mortgage_rate": 4.48,
+   "spread": -0.0011,
    "verdict": "중립"
   },
   {
    "sido": "광주",
-   "jeonse_ratio": 78.4273927771413,
-   "conv_rate": 5.6381609730761,
-   "rent_yield": 4.4219,
-   "mortgage_rate": 4.36,
-   "spread": 0.0619,
+   "jeonse_ratio": 78.31253763,
+   "conv_rate": 5.6842105263158,
+   "rent_yield": 4.4514,
+   "mortgage_rate": 4.48,
+   "spread": -0.0286,
    "verdict": "중립"
   },
   {
    "sido": "경남",
-   "jeonse_ratio": 78.0912450285723,
-   "conv_rate": 5.636292956281,
-   "rent_yield": 4.4015,
-   "mortgage_rate": 4.36,
-   "spread": 0.0415,
+   "jeonse_ratio": 78.28536918,
+   "conv_rate": 5.6842105263158,
+   "rent_yield": 4.4499,
+   "mortgage_rate": 4.48,
+   "spread": -0.0301,
    "verdict": "중립"
   },
   {
    "sido": "대구",
-   "jeonse_ratio": 70.6800806302937,
-   "conv_rate": 5.3430736757936,
-   "rent_yield": 3.7765,
-   "mortgage_rate": 4.36,
-   "spread": -0.5835,
-   "verdict": "세입자 유리"
-  },
-  {
-   "sido": "부산",
-   "jeonse_ratio": 69.0697819783746,
-   "conv_rate": 5.3705067958165,
-   "rent_yield": 3.7094,
-   "mortgage_rate": 4.36,
-   "spread": -0.6506,
+   "jeonse_ratio": 70.79498547,
+   "conv_rate": 5.3333166666667,
+   "rent_yield": 3.7757,
+   "mortgage_rate": 4.48,
+   "spread": -0.7043,
    "verdict": "세입자 유리"
   },
   {
    "sido": "인천",
-   "jeonse_ratio": 69.2603133814395,
-   "conv_rate": 5.3549103858872,
-   "rent_yield": 3.7088,
-   "mortgage_rate": 4.36,
-   "spread": -0.6512,
+   "jeonse_ratio": 69.60965656,
+   "conv_rate": 5.4,
+   "rent_yield": 3.7589,
+   "mortgage_rate": 4.48,
+   "spread": -0.7211,
    "verdict": "세입자 유리"
   },
   {
    "sido": "대전",
-   "jeonse_ratio": 71.7433811056435,
-   "conv_rate": 5.1428571428571,
-   "rent_yield": 3.6897,
-   "mortgage_rate": 4.36,
-   "spread": -0.6703,
+   "jeonse_ratio": 71.82170775,
+   "conv_rate": 5.1856552315782,
+   "rent_yield": 3.7244,
+   "mortgage_rate": 4.48,
+   "spread": -0.7556,
+   "verdict": "세입자 유리"
+  },
+  {
+   "sido": "부산",
+   "jeonse_ratio": 69.28056916,
+   "conv_rate": 5.3647058823529,
+   "rent_yield": 3.7167,
+   "mortgage_rate": 4.48,
+   "spread": -0.7633,
    "verdict": "세입자 유리"
   },
   {
    "sido": "경기",
-   "jeonse_ratio": 66.8801644214453,
-   "conv_rate": 5.4285714285714,
-   "rent_yield": 3.6306,
-   "mortgage_rate": 4.36,
-   "spread": -0.7294,
+   "jeonse_ratio": 66.8350771,
+   "conv_rate": 5.4718176060798,
+   "rent_yield": 3.6571,
+   "mortgage_rate": 4.48,
+   "spread": -0.8229,
    "verdict": "세입자 유리"
   },
   {
    "sido": "제주",
-   "jeonse_ratio": 65.8900096821255,
-   "conv_rate": 5.3711032466533,
+   "jeonse_ratio": 65.9220951,
+   "conv_rate": 5.3684821372071,
    "rent_yield": 3.539,
-   "mortgage_rate": 4.36,
-   "spread": -0.821,
+   "mortgage_rate": 4.48,
+   "spread": -0.941,
    "verdict": "세입자 유리"
   },
   {
    "sido": "세종",
-   "jeonse_ratio": 51.8577845571746,
-   "conv_rate": 5.4401406674498,
-   "rent_yield": 2.8211,
-   "mortgage_rate": 4.36,
-   "spread": -1.5389,
+   "jeonse_ratio": 52.1021224,
+   "conv_rate": 5.4996028163929,
+   "rent_yield": 2.8654,
+   "mortgage_rate": 4.48,
+   "spread": -1.6146,
    "verdict": "세입자 유리"
   },
   {
    "sido": "서울",
-   "jeonse_ratio": 52.3299795311876,
-   "conv_rate": 4.7439353099731,
-   "rent_yield": 2.4825,
-   "mortgage_rate": 4.36,
-   "spread": -1.8775,
+   "jeonse_ratio": 52.35592115,
+   "conv_rate": 4.7376623376623,
+   "rent_yield": 2.4804,
+   "mortgage_rate": 4.48,
+   "spread": -1.9996,
    "verdict": "세입자 유리"
   }
  ],
- "ym": "202606",
- "mortgage_rate": 4.36,
+ "ym": "202607",
+ "mortgage_rate": 4.48,
  "series": {
-  "전북": [
-   {
-    "year": "2012",
-    "yield": 6.58,
-    "rate": 4.63,
-    "spread": 1.96,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2013",
-    "yield": 5.67,
-    "rate": 3.86,
-    "spread": 1.81,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2014",
-    "yield": 5.72,
-    "rate": 3.55,
-    "spread": 2.18,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2015",
-    "yield": 5.51,
-    "rate": 3.03,
-    "spread": 2.48,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2016",
-    "yield": 5.07,
-    "rate": 2.91,
-    "spread": 2.17,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2017",
-    "yield": 4.84,
-    "rate": 3.27,
-    "spread": 1.57,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2018",
-    "yield": 5.12,
-    "rate": 3.39,
-    "spread": 1.73,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2019",
-    "yield": 4.95,
-    "rate": 2.74,
-    "spread": 2.2,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2020",
-    "yield": 4.92,
-    "rate": 2.5,
-    "spread": 2.42,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2021",
-    "yield": 4.83,
-    "rate": 2.94,
-    "spread": 1.89,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2022",
-    "yield": 4.55,
-    "rate": 4.24,
-    "spread": 0.3,
-    "verdict": "중립"
-   },
-   {
-    "year": "2023",
-    "yield": 4.77,
-    "rate": 4.37,
-    "spread": 0.41,
-    "verdict": "중립"
-   },
-   {
-    "year": "2024",
-    "yield": 5.06,
-    "rate": 3.9,
-    "spread": 1.16,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2025",
-    "yield": 5.2,
-    "rate": 4.06,
-    "spread": 1.14,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2026",
-    "yield": 5.26,
-    "rate": 4.32,
-    "spread": 0.94,
-    "verdict": "집주인 유리"
-   }
-  ],
   "전남": [
    {
     "year": "2012",
@@ -365,9 +258,116 @@
    },
    {
     "year": "2026",
-    "yield": 5.34,
-    "rate": 4.32,
-    "spread": 1.02,
+    "yield": 5.41,
+    "rate": 4.35,
+    "spread": 1.07,
+    "verdict": "집주인 유리"
+   }
+  ],
+  "전북": [
+   {
+    "year": "2012",
+    "yield": 6.58,
+    "rate": 4.63,
+    "spread": 1.96,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2013",
+    "yield": 5.67,
+    "rate": 3.86,
+    "spread": 1.81,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2014",
+    "yield": 5.72,
+    "rate": 3.55,
+    "spread": 2.18,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2015",
+    "yield": 5.51,
+    "rate": 3.03,
+    "spread": 2.48,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2016",
+    "yield": 5.07,
+    "rate": 2.91,
+    "spread": 2.17,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2017",
+    "yield": 4.84,
+    "rate": 3.27,
+    "spread": 1.57,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2018",
+    "yield": 5.12,
+    "rate": 3.39,
+    "spread": 1.73,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2019",
+    "yield": 4.95,
+    "rate": 2.74,
+    "spread": 2.2,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2020",
+    "yield": 4.92,
+    "rate": 2.5,
+    "spread": 2.42,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2021",
+    "yield": 4.83,
+    "rate": 2.94,
+    "spread": 1.89,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2022",
+    "yield": 4.55,
+    "rate": 4.24,
+    "spread": 0.3,
+    "verdict": "중립"
+   },
+   {
+    "year": "2023",
+    "yield": 4.77,
+    "rate": 4.37,
+    "spread": 0.41,
+    "verdict": "중립"
+   },
+   {
+    "year": "2024",
+    "yield": 5.06,
+    "rate": 3.9,
+    "spread": 1.16,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2025",
+    "yield": 5.2,
+    "rate": 4.06,
+    "spread": 1.14,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2026",
+    "yield": 5.33,
+    "rate": 4.35,
+    "spread": 0.99,
     "verdict": "집주인 유리"
    }
   ],
@@ -472,116 +472,116 @@
    },
    {
     "year": "2026",
-    "yield": 5.13,
-    "rate": 4.32,
+    "yield": 5.14,
+    "rate": 4.35,
     "spread": 0.8,
     "verdict": "집주인 유리"
    }
   ],
-  "강원": [
+  "충북": [
    {
     "year": "2012",
-    "yield": 7.01,
+    "yield": 6.75,
     "rate": 4.63,
-    "spread": 2.38,
+    "spread": 2.12,
     "verdict": "집주인 유리"
    },
    {
     "year": "2013",
-    "yield": 6.85,
+    "yield": 6.18,
     "rate": 3.86,
-    "spread": 2.99,
+    "spread": 2.33,
     "verdict": "집주인 유리"
    },
    {
     "year": "2014",
-    "yield": 6.53,
+    "yield": 6.15,
     "rate": 3.55,
-    "spread": 2.98,
+    "spread": 2.6,
     "verdict": "집주인 유리"
    },
    {
     "year": "2015",
-    "yield": 6.07,
+    "yield": 5.12,
     "rate": 3.03,
-    "spread": 3.04,
+    "spread": 2.09,
     "verdict": "집주인 유리"
    },
    {
     "year": "2016",
-    "yield": 5.63,
+    "yield": 4.75,
     "rate": 2.91,
-    "spread": 2.73,
+    "spread": 1.85,
     "verdict": "집주인 유리"
    },
    {
     "year": "2017",
-    "yield": 5.14,
+    "yield": 4.63,
     "rate": 3.27,
-    "spread": 1.88,
+    "spread": 1.36,
     "verdict": "집주인 유리"
    },
    {
     "year": "2018",
-    "yield": 5.18,
+    "yield": 4.86,
     "rate": 3.39,
-    "spread": 1.79,
+    "spread": 1.47,
     "verdict": "집주인 유리"
    },
    {
     "year": "2019",
-    "yield": 4.89,
+    "yield": 4.63,
     "rate": 2.74,
-    "spread": 2.15,
+    "spread": 1.88,
     "verdict": "집주인 유리"
    },
    {
     "year": "2020",
-    "yield": 4.67,
+    "yield": 4.64,
     "rate": 2.5,
-    "spread": 2.17,
+    "spread": 2.14,
     "verdict": "집주인 유리"
    },
    {
     "year": "2021",
-    "yield": 4.57,
+    "yield": 4.44,
     "rate": 2.94,
-    "spread": 1.63,
+    "spread": 1.5,
     "verdict": "집주인 유리"
    },
    {
     "year": "2022",
-    "yield": 4.13,
+    "yield": 4.14,
     "rate": 4.24,
-    "spread": -0.11,
+    "spread": -0.1,
     "verdict": "중립"
    },
    {
     "year": "2023",
-    "yield": 4.56,
+    "yield": 4.6,
     "rate": 4.37,
-    "spread": 0.19,
+    "spread": 0.23,
     "verdict": "중립"
    },
    {
     "year": "2024",
-    "yield": 4.65,
+    "yield": 4.67,
     "rate": 3.9,
-    "spread": 0.75,
+    "spread": 0.77,
     "verdict": "집주인 유리"
    },
    {
     "year": "2025",
-    "yield": 4.7,
+    "yield": 4.78,
     "rate": 4.06,
-    "spread": 0.64,
+    "spread": 0.72,
     "verdict": "집주인 유리"
    },
    {
     "year": "2026",
-    "yield": 4.7,
-    "rate": 4.32,
-    "spread": 0.37,
+    "yield": 4.78,
+    "rate": 4.35,
+    "spread": 0.44,
     "verdict": "중립"
    }
   ],
@@ -687,115 +687,115 @@
    {
     "year": "2026",
     "yield": 4.75,
-    "rate": 4.32,
-    "spread": 0.42,
+    "rate": 4.35,
+    "spread": 0.41,
     "verdict": "중립"
    }
   ],
-  "충북": [
+  "강원": [
    {
     "year": "2012",
-    "yield": 6.75,
+    "yield": 7.01,
     "rate": 4.63,
-    "spread": 2.12,
+    "spread": 2.38,
     "verdict": "집주인 유리"
    },
    {
     "year": "2013",
-    "yield": 6.18,
+    "yield": 6.85,
     "rate": 3.86,
-    "spread": 2.33,
+    "spread": 2.99,
     "verdict": "집주인 유리"
    },
    {
     "year": "2014",
-    "yield": 6.15,
+    "yield": 6.53,
     "rate": 3.55,
-    "spread": 2.6,
+    "spread": 2.98,
     "verdict": "집주인 유리"
    },
    {
     "year": "2015",
-    "yield": 5.12,
+    "yield": 6.07,
     "rate": 3.03,
-    "spread": 2.09,
+    "spread": 3.04,
     "verdict": "집주인 유리"
    },
    {
     "year": "2016",
-    "yield": 4.75,
+    "yield": 5.63,
     "rate": 2.91,
-    "spread": 1.85,
+    "spread": 2.73,
     "verdict": "집주인 유리"
    },
    {
     "year": "2017",
-    "yield": 4.63,
+    "yield": 5.14,
     "rate": 3.27,
-    "spread": 1.36,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2018",
-    "yield": 4.86,
-    "rate": 3.39,
-    "spread": 1.47,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2019",
-    "yield": 4.63,
-    "rate": 2.74,
     "spread": 1.88,
     "verdict": "집주인 유리"
    },
    {
+    "year": "2018",
+    "yield": 5.18,
+    "rate": 3.39,
+    "spread": 1.79,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2019",
+    "yield": 4.89,
+    "rate": 2.74,
+    "spread": 2.15,
+    "verdict": "집주인 유리"
+   },
+   {
     "year": "2020",
-    "yield": 4.64,
+    "yield": 4.67,
     "rate": 2.5,
-    "spread": 2.14,
+    "spread": 2.17,
     "verdict": "집주인 유리"
    },
    {
     "year": "2021",
-    "yield": 4.44,
+    "yield": 4.57,
     "rate": 2.94,
-    "spread": 1.5,
+    "spread": 1.63,
     "verdict": "집주인 유리"
    },
    {
     "year": "2022",
-    "yield": 4.14,
+    "yield": 4.13,
     "rate": 4.24,
-    "spread": -0.1,
+    "spread": -0.11,
     "verdict": "중립"
    },
    {
     "year": "2023",
-    "yield": 4.6,
+    "yield": 4.56,
     "rate": 4.37,
-    "spread": 0.23,
+    "spread": 0.19,
     "verdict": "중립"
    },
    {
     "year": "2024",
-    "yield": 4.67,
+    "yield": 4.65,
     "rate": 3.9,
-    "spread": 0.77,
+    "spread": 0.75,
     "verdict": "집주인 유리"
    },
    {
     "year": "2025",
-    "yield": 4.78,
+    "yield": 4.7,
     "rate": 4.06,
-    "spread": 0.72,
+    "spread": 0.64,
     "verdict": "집주인 유리"
    },
    {
     "year": "2026",
-    "yield": 4.75,
-    "rate": 4.32,
-    "spread": 0.43,
+    "yield": 4.71,
+    "rate": 4.35,
+    "spread": 0.36,
     "verdict": "중립"
    }
   ],
@@ -900,9 +900,9 @@
    },
    {
     "year": "2026",
-    "yield": 4.34,
-    "rate": 4.32,
-    "spread": 0.02,
+    "yield": 4.36,
+    "rate": 4.35,
+    "spread": 0.01,
     "verdict": "중립"
    }
   ],
@@ -1007,9 +1007,9 @@
    },
    {
     "year": "2026",
-    "yield": 4.36,
-    "rate": 4.32,
-    "spread": 0.03,
+    "yield": 4.37,
+    "rate": 4.35,
+    "spread": 0.02,
     "verdict": "중립"
    }
   ],
@@ -1114,8 +1114,8 @@
    },
    {
     "year": "2026",
-    "yield": 4.29,
-    "rate": 4.32,
+    "yield": 4.31,
+    "rate": 4.35,
     "spread": -0.03,
     "verdict": "중립"
    }
@@ -1221,116 +1221,9 @@
    },
    {
     "year": "2026",
-    "yield": 3.66,
-    "rate": 4.32,
+    "yield": 3.67,
+    "rate": 4.35,
     "spread": -0.67,
-    "verdict": "세입자 유리"
-   }
-  ],
-  "부산": [
-   {
-    "year": "2012",
-    "yield": 4.71,
-    "rate": 4.63,
-    "spread": 0.08,
-    "verdict": "중립"
-   },
-   {
-    "year": "2013",
-    "yield": 4.51,
-    "rate": 3.86,
-    "spread": 0.66,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2014",
-    "yield": 4.34,
-    "rate": 3.55,
-    "spread": 0.79,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2015",
-    "yield": 4.06,
-    "rate": 3.03,
-    "spread": 1.04,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2016",
-    "yield": 3.65,
-    "rate": 2.91,
-    "spread": 0.75,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2017",
-    "yield": 3.36,
-    "rate": 3.27,
-    "spread": 0.1,
-    "verdict": "중립"
-   },
-   {
-    "year": "2018",
-    "yield": 3.27,
-    "rate": 3.39,
-    "spread": -0.12,
-    "verdict": "중립"
-   },
-   {
-    "year": "2019",
-    "yield": 3.29,
-    "rate": 2.74,
-    "spread": 0.54,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2020",
-    "yield": 3.17,
-    "rate": 2.5,
-    "spread": 0.67,
-    "verdict": "집주인 유리"
-   },
-   {
-    "year": "2021",
-    "yield": 2.96,
-    "rate": 2.94,
-    "spread": 0.02,
-    "verdict": "중립"
-   },
-   {
-    "year": "2022",
-    "yield": 3.08,
-    "rate": 4.24,
-    "spread": -1.17,
-    "verdict": "세입자 유리"
-   },
-   {
-    "year": "2023",
-    "yield": 3.3,
-    "rate": 4.37,
-    "spread": -1.07,
-    "verdict": "세입자 유리"
-   },
-   {
-    "year": "2024",
-    "yield": 3.36,
-    "rate": 3.9,
-    "spread": -0.54,
-    "verdict": "세입자 유리"
-   },
-   {
-    "year": "2025",
-    "yield": 3.5,
-    "rate": 4.06,
-    "spread": -0.55,
-    "verdict": "세입자 유리"
-   },
-   {
-    "year": "2026",
-    "yield": 3.62,
-    "rate": 4.32,
-    "spread": -0.7,
     "verdict": "세입자 유리"
    }
   ],
@@ -1435,9 +1328,9 @@
    },
    {
     "year": "2026",
-    "yield": 3.81,
-    "rate": 4.32,
-    "spread": -0.51,
+    "yield": 3.8,
+    "rate": 4.35,
+    "spread": -0.54,
     "verdict": "세입자 유리"
    }
   ],
@@ -1542,9 +1435,116 @@
    },
    {
     "year": "2026",
-    "yield": 3.6,
-    "rate": 4.32,
-    "spread": -0.72,
+    "yield": 3.62,
+    "rate": 4.35,
+    "spread": -0.73,
+    "verdict": "세입자 유리"
+   }
+  ],
+  "부산": [
+   {
+    "year": "2012",
+    "yield": 4.71,
+    "rate": 4.63,
+    "spread": 0.08,
+    "verdict": "중립"
+   },
+   {
+    "year": "2013",
+    "yield": 4.51,
+    "rate": 3.86,
+    "spread": 0.66,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2014",
+    "yield": 4.34,
+    "rate": 3.55,
+    "spread": 0.79,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2015",
+    "yield": 4.06,
+    "rate": 3.03,
+    "spread": 1.04,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2016",
+    "yield": 3.65,
+    "rate": 2.91,
+    "spread": 0.75,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2017",
+    "yield": 3.36,
+    "rate": 3.27,
+    "spread": 0.1,
+    "verdict": "중립"
+   },
+   {
+    "year": "2018",
+    "yield": 3.27,
+    "rate": 3.39,
+    "spread": -0.12,
+    "verdict": "중립"
+   },
+   {
+    "year": "2019",
+    "yield": 3.29,
+    "rate": 2.74,
+    "spread": 0.54,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2020",
+    "yield": 3.17,
+    "rate": 2.5,
+    "spread": 0.67,
+    "verdict": "집주인 유리"
+   },
+   {
+    "year": "2021",
+    "yield": 2.96,
+    "rate": 2.94,
+    "spread": 0.02,
+    "verdict": "중립"
+   },
+   {
+    "year": "2022",
+    "yield": 3.08,
+    "rate": 4.24,
+    "spread": -1.17,
+    "verdict": "세입자 유리"
+   },
+   {
+    "year": "2023",
+    "yield": 3.3,
+    "rate": 4.37,
+    "spread": -1.07,
+    "verdict": "세입자 유리"
+   },
+   {
+    "year": "2024",
+    "yield": 3.36,
+    "rate": 3.9,
+    "spread": -0.54,
+    "verdict": "세입자 유리"
+   },
+   {
+    "year": "2025",
+    "yield": 3.5,
+    "rate": 4.06,
+    "spread": -0.55,
+    "verdict": "세입자 유리"
+   },
+   {
+    "year": "2026",
+    "yield": 3.63,
+    "rate": 4.35,
+    "spread": -0.71,
     "verdict": "세입자 유리"
    }
   ],
@@ -1649,9 +1649,9 @@
    },
    {
     "year": "2026",
-    "yield": 3.55,
-    "rate": 4.32,
-    "spread": -0.77,
+    "yield": 3.56,
+    "rate": 4.35,
+    "spread": -0.78,
     "verdict": "세입자 유리"
    }
   ],
@@ -1757,8 +1757,8 @@
    {
     "year": "2026",
     "yield": 3.51,
-    "rate": 4.32,
-    "spread": -0.82,
+    "rate": 4.35,
+    "spread": -0.83,
     "verdict": "세입자 유리"
    }
   ],
@@ -1863,8 +1863,8 @@
    },
    {
     "year": "2026",
-    "yield": 2.69,
-    "rate": 4.32,
+    "yield": 2.72,
+    "rate": 4.35,
     "spread": -1.63,
     "verdict": "세입자 유리"
    }
@@ -1970,9 +1970,9 @@
    },
    {
     "year": "2026",
-    "yield": 2.46,
-    "rate": 4.32,
-    "spread": -1.86,
+    "yield": 2.47,
+    "rate": 4.35,
+    "spread": -1.88,
     "verdict": "세입자 유리"
    }
   ]
