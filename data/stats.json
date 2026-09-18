@@ -1,6 +1,6 @@
 {
  "won": 174,
- "passed": 5894,
+ "passed": 5932,
  "ratio_median": 0.5742306666666667,
  "monthly": [
   {
@@ -56,7 +56,7 @@
   {
    "label": "2026-04",
    "won": 0,
-   "passed": 8
+   "passed": 15
   },
   {
    "label": "2026-05",
@@ -81,7 +81,7 @@
   {
    "label": "2026-09",
    "won": 28,
-   "passed": 719
+   "passed": 750
   }
  ],
  "bands": [
@@ -98,7 +98,7 @@
   {
    "label": "20~30%",
    "won": 6,
-   "passed": 56
+   "passed": 57
   },
   {
    "label": "30%이상",
@@ -106,6 +106,6 @@
    "passed": 142
   }
  ],
- "sample": 6068,
+ "sample": 6106,
  "insufficient": false
 }
