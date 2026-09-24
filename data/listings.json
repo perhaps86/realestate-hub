@@ -253443,10 +253443,10 @@
    "bid_close_at": "2026-10-28T17:00:00",
    "fail_count": 4,
    "merit": 0.4,
-   "expected_sale_price": 395000000,
+   "expected_sale_price": 396500000,
    "match_quality": "approx",
-   "discount_market": 0.520220253164557,
-   "expected_yield": 1.0842897321028109,
+   "discount_market": 0.5220353089533417,
+   "expected_yield": 1.0922047564019355,
    "cost_items": {
     "취득세": 2013000,
     "명도비": 3000000,
