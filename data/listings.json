@@ -272221,7 +272221,7 @@
    "fail_count": 2,
    "merit": 0.3,
    "expected_sale_price": null,
-   "match_quality": null,
+   "match_quality": "none",
    "discount_market": null,
    "expected_yield": null,
    "cost_items": {
