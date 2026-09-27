@@ -43013,7 +43013,7 @@
    "fail_count": 0,
    "merit": null,
    "expected_sale_price": null,
-   "match_quality": null,
+   "match_quality": "none",
    "discount_market": null,
    "expected_yield": null,
    "cost_items": {
@@ -279712,7 +279712,7 @@
    "fail_count": 6,
    "merit": 0.6723193277310925,
    "expected_sale_price": null,
-   "match_quality": null,
+   "match_quality": "none",
    "discount_market": null,
    "expected_yield": null,
    "cost_items": {
