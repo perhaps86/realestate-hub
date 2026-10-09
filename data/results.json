@@ -15037,6 +15037,20 @@
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1731109&onbidPbancNo=905217&pbctNo=10099973&pbctCdtnNo=6197735"
   },
   {
+   "date": "2026-09-30",
+   "outcome": "마감",
+   "cltr_no": "2026-0900-048298",
+   "name": "경기도 수원시 장안구 정자동 73-24 제지하층 제102호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경기도",
+   "appraisal_price": 80000000,
+   "min_bid_price": 58000000,
+   "expected_sale_price": 205000000,
+   "winning_price": null,
+   "fail_count": 7,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2055826&onbidPbancNo=904438&pbctNo=10098300&pbctCdtnNo=6192607"
+  },
+  {
    "date": "2026-09-29",
    "outcome": "유찰",
    "cltr_no": "2023-0800-045311",
