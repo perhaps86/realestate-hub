@@ -2479,6 +2479,48 @@
    "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1597244&onbidPbancNo=907580&pbctNo=10105591&pbctCdtnNo=6227232"
   },
   {
+   "date": "2026-10-15",
+   "outcome": "마감",
+   "cltr_no": "2025-1100-080106",
+   "name": "경기도 광주시 목현동 239-55 102호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경기도",
+   "appraisal_price": 355000000,
+   "min_bid_price": 232000000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 16,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1945597&onbidPbancNo=906784&pbctNo=10103732&pbctCdtnNo=6219187"
+  },
+  {
+   "date": "2026-10-15",
+   "outcome": "마감",
+   "cltr_no": "2025-1100-080108",
+   "name": "경기도 광주시 목현동 239-55 402호 다세대주택",
+   "category": "연립다세대",
+   "sido": "경기도",
+   "appraisal_price": 370000000,
+   "min_bid_price": 241600000,
+   "expected_sale_price": null,
+   "winning_price": null,
+   "fail_count": 16,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=1945599&onbidPbancNo=906784&pbctNo=10103732&pbctCdtnNo=6219188"
+  },
+  {
+   "date": "2026-10-15",
+   "outcome": "마감",
+   "cltr_no": "2026-0900-053631",
+   "name": "경기도 평택시 신장동 238-20외 2필지, 1304호 매각",
+   "category": "아파트",
+   "sido": "경기도",
+   "appraisal_price": null,
+   "min_bid_price": 189500000,
+   "expected_sale_price": 83500000,
+   "winning_price": null,
+   "fail_count": 5,
+   "detail_url": "https://www.onbid.co.kr/op/cltrpbancinf/cltrdtl/CltrDtlController/mvmnCltrDtl.do?cltrScrnGrpCd=0001&cltrPrptDivCd=0005&onbidCltrno=2064554&onbidPbancNo=907284&pbctNo=10104877&pbctCdtnNo=6221148"
+  },
+  {
    "date": "2026-10-14",
    "outcome": "마감",
    "cltr_no": "2026-05259-001",
@@ -130720,7 +130762,7 @@
   },
   {
    "date": "2026-06-24",
-   "outcome": "마감",
+   "outcome": "유찰",
    "cltr_no": "2026-02137-002",
    "name": "인천광역시 미추홀구 주안동 1343-18 외 2필지 호화빌라 제4층 제401호",
    "category": "연립다세대",
