@@ -1,7 +1,7 @@
 {
- "won": 237,
- "passed": 8905,
- "ratio_median": 0.5793103448275863,
+ "won": 247,
+ "passed": 9065,
+ "ratio_median": 0.5767705057471264,
  "monthly": [
   {
    "label": "2025-06",
@@ -21,7 +21,7 @@
   {
    "label": "2025-09",
    "won": 0,
-   "passed": 13
+   "passed": 21
   },
   {
    "label": "2025-10",
@@ -70,7 +70,7 @@
   },
   {
    "label": "2026-07",
-   "won": 69,
+   "won": 70,
    "passed": 1912
   },
   {
@@ -81,19 +81,19 @@
   {
    "label": "2026-09",
    "won": 48,
-   "passed": 1409
+   "passed": 1410
   },
   {
    "label": "2026-10",
-   "won": 43,
-   "passed": 2181
+   "won": 52,
+   "passed": 2332
   }
  ],
  "bands": [
   {
    "label": "10%미만",
    "won": 2,
-   "passed": 586
+   "passed": 590
   },
   {
    "label": "10~20%",
@@ -103,14 +103,14 @@
   {
    "label": "20~30%",
    "won": 6,
-   "passed": 67
+   "passed": 70
   },
   {
    "label": "30%이상",
-   "won": 34,
-   "passed": 188
+   "won": 35,
+   "passed": 195
   }
  ],
- "sample": 9142,
+ "sample": 9312,
  "insufficient": false
 }
