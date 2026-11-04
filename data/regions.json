@@ -1,157 +1,157 @@
 {
  "items": [
   {
-   "sido": "대구",
+   "sido": "세종",
    "rank": 1,
-   "total_score": 85.59775215680322,
+   "total_score": 96.470523809619,
    "components": {
-    "sale_index": 88.50835744517242,
-    "jeonse_ratio": 69.86995819696806,
-    "new_supply": 94.44272923741896,
-    "unsold": 82.04034569324085
+    "sale_index": 93.64318392784102,
+    "jeonse_ratio": 0.8607608900232414,
+    "new_supply": 100.0,
+    "unsold": 99.92616144290317
    }
   },
   {
-   "sido": "경북",
+   "sido": "대구",
    "rank": 2,
-   "total_score": 82.64367135050068,
+   "total_score": 77.5813784939509,
    "components": {
-    "sale_index": 88.00070623505326,
-    "jeonse_ratio": 99.98814132617542,
-    "new_supply": 100.0,
-    "unsold": 76.09618426938086
-   }
-  },
-  {
-   "sido": "강원",
-   "rank": 3,
-   "total_score": 81.3446679861625,
-   "components": {
-    "sale_index": 82.80635002234565,
-    "jeonse_ratio": 91.93466933382291,
-    "new_supply": 100.0,
-    "unsold": 79.55816771971642
+    "sale_index": 85.69000036783012,
+    "jeonse_ratio": 69.92407966115596,
+    "new_supply": 93.73857262823232,
+    "unsold": 67.67084064809849
    }
   },
   {
    "sido": "인천",
+   "rank": 3,
+   "total_score": 76.10878054572976,
+   "components": {
+    "sale_index": 73.26518889802396,
+    "jeonse_ratio": 67.62113321085447,
+    "new_supply": 99.4540945108489,
+    "unsold": 79.58428144848126
+   }
+  },
+  {
+   "sido": "강원",
    "rank": 4,
-   "total_score": 80.66369876781519,
+   "total_score": 73.8985489021355,
    "components": {
-    "sale_index": 74.88594097555224,
-    "jeonse_ratio": 66.38381098939465,
-    "new_supply": 75.41656604684859,
-    "unsold": 87.72540273613654
-   }
-  },
-  {
-   "sido": "대전",
-   "rank": 5,
-   "total_score": 78.790867852041,
-   "components": {
-    "sale_index": 76.08418999250294,
-    "jeonse_ratio": 73.4876234130667,
+    "sale_index": 81.81594474747902,
+    "jeonse_ratio": 91.98722607998093,
     "new_supply": 100.0,
-    "unsold": 82.09902968036529
-   }
-  },
-  {
-   "sido": "부산",
-   "rank": 6,
-   "total_score": 78.70614451129089,
-   "components": {
-    "sale_index": 80.99059190248363,
-    "jeonse_ratio": 64.51582945923067,
-    "new_supply": 100.0,
-    "unsold": 75.91404214427752
+    "unsold": 64.22173175782673
    }
   },
   {
    "sido": "충북",
+   "rank": 5,
+   "total_score": 73.72017257583397,
+   "components": {
+    "sale_index": 62.934793932751546,
+    "jeonse_ratio": 98.96565997058502,
+    "new_supply": 100.0,
+    "unsold": 86.90230202849027
+   }
+  },
+  {
+   "sido": "경북",
+   "rank": 6,
+   "total_score": 72.49769060358884,
+   "components": {
+    "sale_index": 86.8432978839443,
+    "jeonse_ratio": 100.0,
+    "new_supply": 100.0,
+    "unsold": 54.96417059426547
+   }
+  },
+  {
+   "sido": "대전",
    "rank": 7,
-   "total_score": 77.33915083515012,
+   "total_score": 70.76172065585632,
    "components": {
-    "sale_index": 64.9060387763684,
-    "jeonse_ratio": 98.94756559021806,
+    "sale_index": 72.88429488103988,
+    "jeonse_ratio": 73.36462799826435,
     "new_supply": 100.0,
-    "unsold": 92.53517668477221
+    "unsold": 68.16746326952084
    }
   },
   {
-   "sido": "제주",
+   "sido": "부산",
    "rank": 8,
-   "total_score": 76.71971524160271,
+   "total_score": 70.2776835974278,
    "components": {
-    "sale_index": 100.0,
-    "jeonse_ratio": 51.45751319735973,
-    "new_supply": 100.0,
-    "unsold": 48.26603387022823
+    "sale_index": 80.64715782537057,
+    "jeonse_ratio": 65.14024397963198,
+    "new_supply": 91.94993313154053,
+    "unsold": 57.603881763275524
    }
   },
   {
-   "sido": "충남",
+   "sido": "전북",
    "rank": 9,
-   "total_score": 74.46838794961616,
+   "total_score": 63.79012332738226,
    "components": {
-    "sale_index": 92.53886990296535,
-    "jeonse_ratio": 95.90117787129418,
-    "new_supply": 100.0,
-    "unsold": 52.382243339967154
+    "sale_index": 48.195128786908406,
+    "jeonse_ratio": 96.93111517922235,
+    "new_supply": 96.86734920282734,
+    "unsold": 82.85067221018363
    }
   },
   {
    "sido": "경남",
    "rank": 10,
-   "total_score": 70.23550662495195,
+   "total_score": 63.68477957256585,
    "components": {
-    "sale_index": 62.25659977949911,
-    "jeonse_ratio": 98.07814585190266,
-    "new_supply": 95.51969981238274,
-    "unsold": 79.98750388050541
-   }
-  },
-  {
-   "sido": "전북",
-   "rank": 11,
-   "total_score": 67.3014632838879,
-   "components": {
-    "sale_index": 47.42569638261879,
-    "jeonse_ratio": 97.35855213557558,
-    "new_supply": 100.0,
-    "unsold": 91.5940672743279
+    "sale_index": 63.001599371629716,
+    "jeonse_ratio": 98.48495539281957,
+    "new_supply": 84.78960932566434,
+    "unsold": 64.51977759593223
    }
   },
   {
    "sido": "울산",
-   "rank": 12,
-   "total_score": 63.69523430957503,
+   "rank": 11,
+   "total_score": 55.72193193668413,
    "components": {
-    "sale_index": 42.71624843521901,
-    "jeonse_ratio": 84.51112595148884,
-    "new_supply": 61.651884700665185,
-    "unsold": 89.33621704489903
+    "sale_index": 44.73833295766357,
+    "jeonse_ratio": 84.87342625484149,
+    "new_supply": 68.67962966698268,
+    "unsold": 69.14633068882036
+   }
+  },
+  {
+   "sido": "충남",
+   "rank": 12,
+   "total_score": 55.60562455701945,
+   "components": {
+    "sale_index": 91.98456523397128,
+    "jeonse_ratio": 96.8350710783145,
+    "new_supply": 0.0,
+    "unsold": 11.142474840744981
+   }
+  },
+  {
+   "sido": "제주",
+   "rank": 13,
+   "total_score": 55.00000000000001,
+   "components": {
+    "sale_index": 100.0,
+    "jeonse_ratio": 51.50511004352547,
+    "new_supply": 100.0,
+    "unsold": 0.0
    }
   },
   {
    "sido": "경기",
-   "rank": 13,
-   "total_score": 54.61620453355105,
-   "components": {
-    "sale_index": 26.055521886591208,
-    "jeonse_ratio": 54.860982185501705,
-    "new_supply": 92.602401445878,
-    "unsold": 89.52370554650196
-   }
-  },
-  {
-   "sido": "세종",
    "rank": 14,
-   "total_score": 51.57577617429294,
+   "total_score": 47.679594930238274,
    "components": {
-    "sale_index": 93.77413849871444,
-    "jeonse_ratio": 0.0,
-    "new_supply": 100.0,
-    "unsold": 0.0
+    "sale_index": 20.490279249111538,
+    "jeonse_ratio": 54.51562651873946,
+    "new_supply": 91.84135349251291,
+    "unsold": 80.9109807627265
    }
   },
   {
@@ -160,13 +160,13 @@
    "total_score": 45.0,
    "components": {
     "sale_index": 0.0,
-    "jeonse_ratio": 0.21702334243439178,
-    "new_supply": 98.56089718453454,
+    "jeonse_ratio": 0.0,
+    "new_supply": 100.0,
     "unsold": 100.0
    }
   }
  ],
- "ym": "202608",
+ "ym": "202609",
  "weights": {
   "sale_index": 0.55,
   "jeonse_ratio": 0.0,
@@ -212,6 +212,20 @@
      5,
      3,
      3,
+     4
+    ]
+   },
+   {
+    "sido": "인천",
+    "ranks": [
+     4,
+     4,
+     4,
+     6,
+     8,
+     3,
+     4,
+     4,
      5
     ]
    },
@@ -244,16 +258,16 @@
     ]
    },
    {
-    "sido": "인천",
+    "sido": "충북",
     "ranks": [
-     4,
-     4,
-     4,
-     6,
+     12,
      8,
      3,
+     3,
      4,
-     4,
+     10,
+     8,
+     7,
      6
     ]
    },
@@ -286,20 +300,6 @@
     ]
    },
    {
-    "sido": "충북",
-    "ranks": [
-     12,
-     8,
-     3,
-     3,
-     4,
-     10,
-     8,
-     7,
-     7
-    ]
-   },
-   {
     "sido": "강원",
     "ranks": [
      14,
@@ -314,20 +314,6 @@
     ]
    },
    {
-    "sido": "서울",
-    "ranks": [
-     1,
-     1,
-     1,
-     1,
-     1,
-     1,
-     1,
-     1,
-     9
-    ]
-   },
-   {
     "sido": "부산",
     "ranks": [
      9,
@@ -338,6 +324,20 @@
      9,
      9,
      10,
+     9
+    ]
+   },
+   {
+    "sido": "서울",
+    "ranks": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
      10
     ]
    },
@@ -356,20 +356,6 @@
     ]
    },
    {
-    "sido": "경남",
-    "ranks": [
-     17,
-     17,
-     17,
-     12,
-     10,
-     8,
-     8,
-     9,
-     12
-    ]
-   },
-   {
     "sido": "울산",
     "ranks": [
      8,
@@ -380,6 +366,20 @@
      12,
      8,
      8,
+     11
+    ]
+   },
+   {
+    "sido": "경남",
+    "ranks": [
+     17,
+     17,
+     17,
+     12,
+     10,
+     8,
+     8,
+     9,
      12
     ]
    },
